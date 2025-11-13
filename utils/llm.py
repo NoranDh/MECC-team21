@@ -8,7 +8,7 @@ load_dotenv()
 print(bool(os.getenv("OPENAI_API_KEY")))
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-json_path= ""
+json_path= "utils/rag_corpus.jsonl"
 def call_llm_structured(prompt: str, json_path: str) -> str:
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
