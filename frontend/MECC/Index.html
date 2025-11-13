@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="Main" content="with-device-width, initial-scale=1.0">
+        <title>Main page</title>
+        <link rel="stylesheet" href="Index.css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    </head>   
+    
+    <body>
+       
+        
+
+
+        <section class="header" >
+            <nav>
+                <a href="indexx.html"><img src="Logo.jpeg"></a>
+                <div class="nav-links" id="navLinks">
+                    <i class="fa-solid fa-xmark" onclick="hideMenu()"></i>
+
+                    <ul>
+                        <li><a href="Index.html">Home</a> </li>
+                        <li><a href="CV.html">Digital Lab</a> </li>
+                        <li><a href="Agent.html">Agent</a> </li>
+
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+            </nav>
+            <div class="text-box">
+                <h1>Proxy automates material failure analysis</h1>
+                <p>Proxy replaces manual lab testing by using AI and computer vision <br> to quickly and accurately analyze material performance<br>, saving time and reducing human error.</p>
+            </div>
+
+        </section>
+        <!---cool squares--->
+      <div class="image-box">
+        <a href="CV.html">
+     
+  <img src="labpls.png"  class="insert1">
+<p class="independent1">Digital Lab</p>
+</a>
+</div>  
+ <div class="image-box">
+     <a href="Agent.html">
+  <img src="agent.png"  class="insert2">
+<p class="independent2">Agent</p>
+</a>
+</div>
+       
+        </h1>
+        </div></a>
+    
+        <!------Javascript for the menu--->
+        <script>
+           var navLinks =  document.getElementById("navLinks");
+
+           function showMenu(){
+            navLinks.style.right="0";
+           }
+           function hideMenu(){
+            navLinks.style.right="-200px";
+           }
+        </script>
+    </body>    
+</html>

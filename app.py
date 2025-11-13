@@ -1,60 +1,89 @@
+# app.py
 from flask import Flask, request, jsonify
 
-# --- dummy imports so this file runs even if agents aren't ready ---
-try:
-    from agents import Incident, SimilarCase
-    from agents.reasoner import reasoner
-    from agents.recommender import recommender
-except Exception:
-    # minimal fallbacks so the route exists
-    from pydantic import BaseModel
-    from typing import Optional, List
-
-    class Incident(BaseModel):
-        asset_type: Optional[str] = None
-        component: Optional[str] = None
-        material: Optional[str] = None
-        service: Optional[str] = None
-        environment: Optional[str] = None
-        temperature: Optional[str] = None
-        pressure: Optional[str] = None
-        observed_damage: Optional[str] = None
-        location: Optional[str] = None
-        time_in_service: Optional[str] = None
-        notes: Optional[str] = None
-        lab_summary: Optional[str] = None
-
-    class SimilarCase(BaseModel):
-        id: str
-        title: str
-        snippet: str
-        mechanism: Optional[str] = None
-        similarity: float
-        ref: Optional[str] = None
-
-    def reasoner(case, similar, hb):
-        return {"mechanisms": [{"name":"CO2 corrosion","confidence":0.8,"reasoning":"demo","evidence":["HB11-2.3"]}]}
-
-    def recommender(case, mechs, hb):
-        return {"immediate":["Isolate section"],"medium_term":["Verify inhibitor residuals"],
-                "long_term":["Upgrade elbows"],"monitoring":["Coupons @ 90d"],"gaps":[]}
+from agents import Incident, SimilarCase
+from agents.reasoner import reasoner
+from agents.recommender import recommender
+from rag.store import retrieve_chunks    # <- RAG helper
 
 app = Flask(__name__)
 
-@app.route("/api/analyze_failure", methods=["POST","GET"])
+
+@app.route("/api/analyze_failure", methods=["POST"])
 def analyze_failure():
-    if request.method == "GET":
-        return "analyze_failure endpoint is alive (send POST JSON)", 200
+    # 1) Read JSON payload
+    payload = request.get_json(force=True) or {}
 
-    payload = request.get_json(silent=True) or {}
-    case = Incident(**(payload.get("incident") or {}))
-    similar = [SimilarCase(**c) for c in (payload.get("similar_cases") or [])]
-    handbook = payload.get("handbook_snippets") or []
+    # ----- INCIDENT ---------------------------------------------------------
+    incident_data = payload.get("incident") or {}
+    case = Incident(**incident_data)
 
-    mechs = reasoner(case, similar, handbook)
-    recs  = recommender(case, mechs, handbook)
+    # 2) Build a text query from the incident fields
+    query_parts = [
+        case.asset_type or "",
+        case.component or "",
+        case.material or "",
+        case.service or "",
+        case.environment or "",
+        case.temperature or "",
+        case.pressure or "",
+        case.observed_damage or "",
+        case.location or "",
+        case.time_in_service or "",
+        case.notes or "",
+        case.lab_summary or "",
+    ]
+    query_text = " | ".join([p for p in query_parts if p])
 
-    return jsonify({"mechanisms": mechs.model_dump(), "recommendations": recs.model_dump()})
+    # ----- RAG RETRIEVAL ----------------------------------------------------
+    # 3) Get relevant chunks from corpus (case studies + handbook)
+    chunks = retrieve_chunks(query_text, top_k=8)
+
+    case_hits = [c for c in chunks if c.get("kind") == "case"]
+    hb_hits   = [c for c in chunks if c.get("kind") == "hb"]
+
+    # Convert top case hits -> SimilarCase models
+    similar_cases = []
+    for c in case_hits[:3]:
+        similar_cases.append(
+            SimilarCase(
+                id=c["id"],
+                title=c.get("title", ""),
+                snippet=c.get("text", "")[:400],
+                mechanism=None,
+                similarity=0.0,     
+                ref=c["id"],
+            )
+        )
+
+    # Handbook snippets stay as simple dicts
+    handbook_snips = []
+    for h in hb_hits[:5]:
+        handbook_snips.append(
+            {
+                "id": h["id"],
+                "text": h["text"],
+                "source": h.get("title"),
+            }
+        )
+
+    # ----- AGENTS -----------------------------------------------------------
+    # 4) Run reasoner (mechanisms)
+    mechs = reasoner(case, similar_cases, handbook_snips)
+
+    # 5) Run recommender (actions)
+    recs = recommender(case, mechs, handbook_snips)
+
+    # 6) Return JSON-friendly dicts
+    return jsonify(
+        {
+            "incident": case.model_dump(),
+            "rag_query": query_text,
+            "rag_chunks": chunks,  # optional: remove if too big
+            "mechanisms": mechs.model_dump(),
+            "recommendations": recs.model_dump(),
+        }
+    )
 
 
 @app.route("/", methods=["GET"])
@@ -62,16 +91,6 @@ def health():
     return "OK", 200
 
 
-@app.route("/api/_envcheck", methods=["GET"])
-def envcheck():
-    import os
-    from utils.llm import API_KEY, MODEL
-    return {
-        "cwd": os.getcwd(),
-        "has_api_key": bool(API_KEY),
-        "model": MODEL,
-    }, 200
-
 if __name__ == "__main__":
-    print("Routes:\n", app.url_map)
+    print("Routes:", app.url_map)
     app.run(port=8000, debug=True)
