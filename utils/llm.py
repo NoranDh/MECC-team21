@@ -8,6 +8,24 @@ load_dotenv()
 print(bool(os.getenv("OPENAI_API_KEY")))
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+json_path= ""
+def call_llm_structured(prompt: str, json_path: str) -> str:
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": "You are an expert failure analysis assistant."},
+            {"role": "user", "content": prompt},
+            {"role": "user", "content": f"Here is the data:\n{json.dumps(data, indent=2)}"}
+        ],
+        temperature=0.2,
+    )
+
+    return response.choices[0].message.content
+
+
 def call_llm(prompt: str, json_expected: bool = False) -> str:
     """
     Calls an OpenAI model. If json_expected=True, request structured JSON output.
