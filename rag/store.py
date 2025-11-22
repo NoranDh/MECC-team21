@@ -42,7 +42,7 @@ def retrieve_chunks(query_text: str, top_k: int = 6) -> list[dict]:
     """
     store = load_store()
     rows = store["rows"]
-    nn = store["nn"]          # sklearn NearestNeighbors
+    nn = 5          # sklearn NearestNeighbors
     # embed query
     q_vec = _embedder.encode([query_text], normalize_embeddings=True)
     distances, indices = nn.kneighbors(q_vec, n_neighbors=top_k)

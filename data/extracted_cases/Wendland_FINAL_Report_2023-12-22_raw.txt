@@ -1,0 +1,2014 @@
+Fatal Well Blowout at
+Daniel H. Wendland 1-H Well
+U.S. Chemical Safety and
+Hazard Investigation Board Burleson County, Texas | Incident Date: January 29, 2020 | No. 2020-04-I-TX
+Investigation Report
+SAFETY ISSUES:
+Published: December 2023
+• Well Planning
+• Well Control for Completed
+Wells in Underpressured
+Reservoirs
+• Ignition Source Management
+• Federal Regulatory Safety
+Requirements
+
+Investigation Report
+CONTENTS
+CONTENTS ................................................................................................................................................. 1
+ABBREVIATIONS ........................................................................................................................................ 3
+GLOSSARY .................................................................................................................................................. 4
+EXECUTIVE SUMMARY .............................................................................................................................. 8
+1 BACKGROUND .................................................................................................................................. 13
+1.1 Companies Involved at the Time of the Incident ....................................................................... 13
+1.1.1 Chesapeake Operating, L.L.C. .............................................................................................. 13
+1.1.2 SDS Petroleum Consultants, L.L.C. ....................................................................................... 13
+1.1.3 CC Forbes, LLC ...................................................................................................................... 13
+1.1.4 Eagle PCO LLC ...................................................................................................................... 13
+1.1.5 A&L Hot Oil Service Inc. ....................................................................................................... 13
+1.1.6 Workover beginning January 27, 2020 ................................................................................ 13
+1.2 Daniel H. Wendland 1-H Well ..................................................................................................... 14
+1.3 Oil and Gas Production in the United States .............................................................................. 15
+1.4 Description of Surrounding Area ................................................................................................ 16
+1.5 Oil Production Concepts and Terminology ................................................................................. 18
+1.5.1 Petroleum Reservoir Basics .................................................................................................. 18
+1.5.2 Reservoir Pressure and Hydrostatic Pressure ...................................................................... 18
+1.5.3 Well Workovers .................................................................................................................... 20
+1.5.4 Well Control ......................................................................................................................... 21
+2 INCIDENT DESCRIPTION ................................................................................................................... 23
+2.1 Workover Planning ...................................................................................................................... 23
+2.2 Workover Activities ..................................................................................................................... 23
+2.3 Well Blowout and Fire ................................................................................................................. 28
+2.4 Emergency Response .................................................................................................................. 29
+2.5 Incident Consequences ............................................................................................................... 31
+3 TECHNICAL ANALYSIS ....................................................................................................................... 32
+3.1 Wellbore Conditions on the Day of the Incident ........................................................................ 32
+4 SAFETY ISSUES ................................................................................................................................. 38
+Page 1
+
+Investigation Report
+4.1 Well Planning ............................................................................................................................... 38
+4.2 Well Control for Completed Wells in Underpressured Reservoirs ............................................ 39
+4.2.1 Ineffective Hydrostatic Barrier ............................................................................................. 42
+4.2.2 Ineffective Secondary Barrier ............................................................................................... 42
+4.2.3 Industry Guidance ................................................................................................................ 46
+4.3 Ignition Source Management ..................................................................................................... 49
+4.3.1 Potential Ignition Sources .................................................................................................... 49
+4.3.2 Insufficient Risk Assessment ................................................................................................ 51
+4.4 Federal Regulatory Safety Requirements ................................................................................... 54
+4.4.1 Control of Hazardous Energy ............................................................................................... 54
+4.4.2 Process Safety Management ............................................................................................... 56
+4.4.3 Justification for federal regulation ...................................................................................... 59
+5 CONCLUSIONS ................................................................................................................................. 64
+5.1 Findings ....................................................................................................................................... 64
+5.2 Cause ........................................................................................................................................... 65
+6 RECOMMENDATIONS ...................................................................................................................... 66
+6.1 Previously Issued Recommendations Superseded in This Report ............................................. 66
+6.2 Recommendations Issued in This Report ................................................................................... 67
+6.2.1 Chesapeake Operating, L.L.C. .............................................................................................. 67
+6.2.2 American Petroleum Institute .............................................................................................. 67
+6.2.3 Occupational Safety and Health Administration ................................................................. 67
+7 KEY LESSONS FOR THE INDUSTRY .................................................................................................... 69
+8 REFERENCES .................................................................................................................................... 70
+APPENDIX A—SIMPLIFIED CAUSAL ANALYSIS (ACCIMAP) ....................................................................... 72
+APPENDIX B—CALCULATIONS ................................................................................................................. 73
+APPENDIX C—WELL WORKOVER HISTORY .............................................................................................. 76
+Page 2
+
+Investigation Report
+ABBREVIATIONS
+API American Petroleum Institute
+BBL barrel
+BOP blowout preventer
+CFR Code of Federal Regulations
+CSB U.S. Chemical Safety and Hazard Investigation Board
+EIA U.S. Energy Information Administration
+FOSV full-opening safety valve
+IADC International Association of Drilling Contractors
+JSA Job Safety Analysis
+LEL lower explosive limit
+LLC Limited Liability Corporation
+NFPA National Fire Protection Association
+OSH Occupational Safety and Health
+OSHA Occupational Safety and Health Administration
+PSI pounds per square inch (lower case), or Process Safety Information (if all caps)
+PSIG pounds per square inch gauge
+PSM Process Safety Management
+RAGAGEP Recognized and Generally Accepted Good Engineering Practice
+Page 3
+
+Investigation Report
+GLOSSARY
+The terms listed below are emphasized in the report at first usage. NOTE: unless otherwise noted, all definitions
+are taken from Schlumberger’s Energy Glossary at https://glossary.slb.com/en/, Some of the definitions have
+been modified for clarity.
+Artificial lift – Any system that adds energy to the fluid column in a wellbore with the objective of initiating
+and improving production from the well.
+Blowout – Uncontrolled flow of formation fluids from a well.
+Brine – A water-based solution of inorganic salts used as a well-control fluid during the completion and
+workover phases of well operations.
+Casing – Large-diameter pipe inserted into a wellbore and cemented in place.
+Casing Valve – A valve installed on a tubing head (or casing head) to provide access to the casing annulus.
+Cellar – A dug-out area, possibly lined with wood, cement or very large diameter thin-wall pipe, located below
+the rig.
+Completion interval – A section within the well that is prepared to permit the production of fluids from the
+well [1].a
+Downhole pump – An artificial lift pumping system component connected to the bottom of a rod string that
+contains a plunger and valve assembly that converts reciprocating motion to vertical fluid movement.
+Formation – A distinctive geological layer of rock.
+Formation damage – A general term to describe the reduction in permeability to the area of a reservoir near the
+wellbore.
+Formation water – Water that occurs naturally within formation pores.
+Hydrostatic pressure – The pressure produced by the column of fluid in the wellbore.
+Joint – A single length of pipe, usually referring to drillpipe, casing, or tubing.
+Kick – Influx of reservoir fluid, liquid or gas, into the wellbore during drilling or workover [1].
+Lifting sub – A short piping component that is temporarily connected to the top of an assembly that is to be
+lifted vertically.
+a
+From the IADC Glossary
+Page 4
+
+Investigation Report
+Measured depth (MD) – The length of the wellbore, as if determined by a measuring stick.
+Normal pressure – Reservoir pressure equal to the pressure exerted by a vertical column of water with salinity
+normal for the geographic area [1]
+Overbalance (as in overbalanced well) – The amount by which pressure exerted by the hydrostatic pressure of
+fluid in the wellbore exceeds formation pressure [1].
+Overpressure (as in overpressured reservoir) – Subsurface pressure that is abnormally high, exceeding the
+hydrostatic pressure of formation water at a given depth.
+Pumping unit – An artificial lift pumping system surface component consisting of a beam and crank assembly,
+creating a reciprocal motion in a rod string that connects to the downhole pump.
+Reservoir pressure –The pressure of fluids within pores of the reservoir, or formation rock. Reservoir pressure
+is measured under static, non-flowing conditions [1].
+Rig floor – Component of a workover rig where the rig crew conducts operations.
+Rod string –The entire length of sucker rods (also called rods), which consists of single rods screwed together.
+The rod string serves as a mechanical link from the pumping unit on the surface to the downhole pump near the
+bottom of the well [2].
+Shut-in (tubing or casing) pressure – The surface force per unit area exerted at the top of a wellbore when it is
+closed. The shut-in pressure may be zero, indicating that any open formations are effectively balanced by the
+hydrostatic column of fluid in the well. If the pressure is zero, the well is considered to be dead, and can
+normally be opened safely to the atmosphere.
+Stabbing valve – A valve, generally kept on the rig floor, that is connected to piping in the event that the well
+starts to flow (also known as a safety valve).
+String – An assembled length of rods, casing, or tubing.
+Tubing – A wellbore pipe used to produce reservoir fluids.
+Tubing hanger – A device attached to the topmost tubing joint in the wellhead to support the tubing string. The
+tubing hanger typically is located in the tubing head, with both components incorporating a sealing system to
+ensure that the tubing conduit and annulus are hydraulically isolated.
+Tubing head – A wellhead component that supports the tubing hanger.
+Tubing joint – A single length of the pipe that is assembled through which oil (or gas) will be produced from a
+wellbore. Tubing joints are generally around 30 feet in length.
+Underbalance (as in underbalanced well) – The amount by which formation pressure exceeds pressure
+exerted by the hydrostatic pressure of fluid in the wellbore [1].
+Page 5
+
+Investigation Report
+Underpressure (as in underpressured reservoir) – Reservoir pressure less than normal pressure.
+Underpressure is common in areas that have had hydrocarbon production.
+Well control - Methods used to minimize the potential for the well to flow or kick and to maintain control of the
+well in the event of flow or a kick [1].
+Wellbore – The drilled hole, including the cased and uncased portions of the well.
+Wellhead – The system of spools, valves, and assorted adapters that provide pressure control of a production
+well.
+Workover – The repair or stimulation of an existing production well for the purpose of restoring, prolonging, or
+enhancing the production of hydrocarbons.
+Workover fluid – A well-control fluid that is used during workover operations.
+Workover rig – A mobile, self-propelled rig used to perform workover operations, such as pulling and
+installing well hardware.a
+a
+From California Air Resources Board (https://ww2.arb.ca.gov/sites/default/files/classic/msprog/ordiesel/faq/faqworkoverrig.pdf)
+Page 6
+
+Investigation Report
+The January 29, 2020, well blowout at the Wendland 1-H
+well fatally injured three people:
+Windell “Jock” Beddingfield, Brian Maldonado, and Bradley
+Hendrix
+Page 7
+
+Investigation Report
+EXECUTIVE SUMMARY
+On January 29, 2020, at approximately 3:00 p.m., the Daniel H. Wendland 1-H well (“Wendland 1-H well”),
+located in Burleson County, Texas and operated by Chesapeake Operating, L.L.C. (Chesapeake), experienced a
+loss of well control that resulted in a blowout of the well. Oil and gas escaped the well, and within seconds,
+found an ignition source, resulting in a flash fire in the vicinity of the well that fatally injured three contract
+workers and seriously injured another. One of the workers, who had been working close to the release point,
+suffered fatal burn injuries and died at the incident site. Two others suffered serious burn injuries and later died
+from their injuries. A fourth worker also suffered serious burn injuries but survived. All of the injured personnel
+were contract workers from either Eagle PCO LLC (Eagle) or CC Forbes Energy Services (Forbes). At the time
+of the incident, eleven contractors were working at the Wendland 1-H well site.
+At the time of the incident, contract workers from Eagle were in the process of installing a new tubing head as
+part of a workover operation. Workers from Forbes, who provided the workover rig, were near the Wendland 1-
+H well preparing for their follow-on task of installing tubing in the well. Following the blowout, the ensuing
+flash fire destroyed the workover rig and several nearby vehicles, resulting in an estimated $1 million in
+property damage in addition to the fatalities and serious injuries.
+The Caldwell Volunteer Fire Department, Texas Department of Public Safety, and others responded to the
+incident.
+SAFETY ISSUES
+The CSB’s investigation identified the safety issues below.
+• Well Planning. At the time of the incident, industry guidance stated that companies should plan for well
+control prior to performing workover operations. Well planning procedures from industry guidance
+included gathering well information, analyzing the information to predict potential hazards, and
+formulating contingency plans to address these hazards. Chesapeake’s well control policies did not
+incorporate this guidance, and Chesapeake did not adequately review the past history of the Wendland
+1-H well, which would have indicated previous well control issues. A review of the well information,
+conducted in accordance with industry guidance, could have resulted in the preparation of well control
+procedures to properly isolate the hydrocarbons from the surface activity. (Section 4.1)
+• Well Control for Completed Wells in Underpressured Reservoirs. Prior to installing the new tubing
+head, Chesapeake’s contractors pumped 50 barrels (bbls) of 10-pound-per-gallon (ppg) brine with the
+intent of providing hydrostatic pressure against the formation. The contractors also relied on open
+surface valves as mechanical well control barriers. The intended well control barriers were ineffective in
+preventing the loss of well control and subsequent blowout. Industry guidance does not provide reliable
+well control methods for completed wells in underpressured reservoirs. Further, existing regulations do
+not require the implementation and maintenance of well control for onshore oil and gas operations.
+(Section 4.2)
+Page 8
+
+Investigation Report
+• Ignition Source Management. At the time of the incident, a mixture of flammable hydrocarbons
+released from the well and found an ignition source. Multiple potential ignition sources were identified
+in the vicinity of the open wellbore. Chesapeake’s policies did not incorporate industry guidance
+recommending that companies should perform hazard assessments when locating ignition sources and
+atmospheric monitors near potentially flammable atmospheres. (Section 4.3)
+• Federal Regulatory Safety Requirements. The Occupational Safety and Health Administration
+(OSHA) has historically exempted onshore oil and gas well drilling and servicing from its Control of
+Hazardous Energy regulation at 29 Code of Federal Regulations (CFR) 1910.147 as well as its Process
+Safety Management (PSM) standard requirements under 29 CFR 1910.119. In addition, OSHA has not
+developed a separate standard to cover onshore oil and gas drilling and servicing operations. As a result,
+there are minimal regulations that govern onshore oil and gas drilling and servicing operations despite
+prior attempts to promulgate special rules for this industry. (Section 4.4)
+CAUSE
+The CSB determined that the cause of the Wendland 1-H well blowout was the lack of well planning regarding
+the implementation of well control. Insufficient industry guidance regarding well control for completed wells in
+underpressured reservoirs contributed to the blowout, resulting in ineffective well control practices for these
+types of wells. The attempted well control barriers were ineffective, resulting in the release of hydrocarbons that
+ignited upon finding an ignition source.
+The CSB also determined that ineffective ignition source management contributed to the fire, resulting in three
+fatal injuries and one serious injury. The absence of regulations governing onshore oil and gas operations
+contributed to the incident, resulting in the failure to both effectively control hazardous energy and implement
+essential risk assessments that could have prevented this incident.
+RECOMMENDATIONS
+Previously Issued Recommendations Superseded in This Report
+To the Occupational Safety and Health Administration
+2018-01-I-OK-R1 (from the Pryor Trust Fatal Gas Well Blowout and Fire report)
+Implement one of the three following options regarding regulatory changes:
+a. OPTION 1: Apply the Process Safety Management (PSM) standard (29 CFR 1910.119) to the drilling of
+oil and gas wells; or
+b. OPTION 2: Apply the Process Safety Management (PSM) standard (29 CFR 1910.119) to the drilling of
+oil and gas wells as in OPTION 1, and make the necessary modifications to customize it to oil and gas
+drilling operations; or
+c. OPTION 3: Develop a new standard with a safety management system framework similar to PSM that
+applies only to the drilling of onshore oil and gas wells that includes but is not limited to the following:
+Page 9
+
+Investigation Report
+1. Detailed written operating procedures with specified steps and equipment alignment for all
+operations;
+2. Written procedures for the management of changes (except replacements in kind) in procedures, the
+well plan, and equipment;
+3. A risk assessment of hazards associated with the drilling plan;
+4. A requirement to follow Recognized and Generally Accepted Good Engineering Practices
+(RAGAGEP);
+5. Development of a Well Construction Interface Document between the operator and the drilling
+contractor prior to the commencement of drilling activities which at a minimum includes a bridging
+document and well plan specifying barriers and how to manage them;
+6. The performance and documentation of flow checks using acceptable methods at defined points
+during the operation for a specified duration; and
+7. A requirement for employee participation, similar to the Employee Participation requirement in the
+OSHA PSM standard.
+Superseded by 2020-04-I-TX-R4 to OSHA below.
+Recommendations Issued in This Report
+To Chesapeake Operating, L.L.C.:
+2020-04-I-TX-R1
+Develop or revise policies incorporating the recommendations of API RP 59 regarding well planning,
+specifically the inclusion of well history review in conjunction with workover well control planning.
+To the American Petroleum Institute:
+2020-04-I-TX-R2
+Publish the following information in an appropriate document such as API RP 59 Recommended Practice for
+Well Control Operations:
+1. A focused discussion on practices applicable to workover operations, including completed wells in
+underpressured reservoirs. Include well control methods applicable to workover operations, such as
+using continuous fluid addition, viscous fluids, bridging solids, and mechanical plugs. Also include a
+discussion on the well control challenges and hazards specific to workover operations;
+2. Stabbing valves should not be considered as well control barriers for workover operations; and
+Page 10
+
+Investigation Report
+3. Every well should be considered to have potential to flow, and therefore, should have two well control
+barriers, one of which should be a preventative barrier.
+To the U.S. Occupational Safety and Health Administration:
+2020-04-I-TX-R3
+Remove the exemption for oil and gas drilling and well servicing from the Control of Hazardous Energy
+standard (29 CFR 1910.147) and expand its applicability to cover oil and gas production and workover
+operations.
+2020-04-I-TX-R4
+Promulgate a new standard with prescriptive requirements, similar to the Control of Hazardous Energy standard,
+as well as a performance-based safety management system framework, similar to the OSHA Process Safety
+Management (PSM), that applies to the drilling, production, and servicing/workover activities surrounding
+onshore oil and gas wells. At a minimum, this standard should include the following:
+1. Prescriptively address requirements for primary and secondary barriers for well control;
+2. Detailed written drilling, production, and servicing procedures with specified steps and equipment
+alignment for all operations;
+3. Management of change requirements (except replacements in kind) that, at a minimum, address
+procedures, the well plan, and equipment;
+4. A risk assessment of hazards associated with the drilling, production, and servicing/workover plans;
+5. A requirement to follow Recognized and Generally Accepted Good Engineering Practices
+(RAGAGEP);
+6. Development of a Well Construction Interface Document between the operator and the drilling
+contractor prior to the commencement of drilling and servicing activities and an equivalent document
+for production and workover contractors which, at a minimum, includes a bridging document and well
+plans specifying barriers and how to manage them;
+7. The performance and documentation of flow checks using acceptable methods at defined points during
+the operation for a specified duration;
+8. A requirement for employee participation, similar to the Employee Participation requirement in the
+OSHA PSM standard;
+9. A requirement for maintaining critical well information, similar to the Process Safety Information
+requirement in the OSHA PSM standard, which at a minimum includes well history and documented
+well control methods during workovers;
+10. A requirement for analyzing and assessing the hazards during all phases and steps for well servicing,
+similar to the Process Hazard Analysis requirement in the OSHA PSM standard;
+Page 11
+
+Investigation Report
+11. A requirement for developing, executing, communicating, and maintaining procedures for drilling,
+production, and servicing operations on a well, similar to the Operating Procedures requirement in the
+OSHA PSM standard; and
+12. The documentation of well control plans for drilling, production, and servicing/workover operations for
+a well utilizing acceptable methods for monitoring the effectiveness of well control methods.
+Page 12
+
+Investigation Report
+1 BACKGROUND
+1.1 COMPANIES INVOLVED AT THE TIME OF THE INCIDENT
+1.1.1 CHESAPEAKE OPERATING, L.L.C.
+Chesapeake Operating, L.L.C. (Chesapeake) is an oil and gas extraction company headquartered in Oklahoma
+City, Oklahoma. At the time of the incident, Chesapeake’s parent company, Chesapeake Energy Corporation,
+owned assets in Texas, Louisiana, Wyoming, and Pennsylvania. Chesapeake became the operator of the Daniel
+H. Wendland 1-H well (“the Wendland 1-H well”) in June 2019. In January 2023, Chesapeake announced plans
+to sell some of its assets in the Brazos Valley, which included the Wendland 1-H well, to WildFire Energy LLC.
+1.1.2 SDS PETROLEUM CONSULTANTS, L.L.C.
+SDS Petroleum Consultants, L.L.C. (SDS Petroleum) advertises project management, wellsite supervision, and
+engineering services for companies. For the work conducted on the Wendland 1-H well in January 2020, SDS
+provided an Onsite Supervisor, who acted as Chesapeake’s on-site representative.
+1.1.3 CC FORBES, LLC
+CC Forbes, LLC (Forbes) provided the workover rig and a crew of five rig workers for the Wendland 1-H well
+work on January 29, 2020. According to the State of Texas, Forbes’ existence was terminated on or around
+August 16, 2022.
+1.1.4 EAGLE PCO LLC
+Eagle PCO LLC (Eagle) was a service company that provided, among other things, wellhead sales and
+installation services. For the well work on January 29, 2020, Eagle provided a work crew to replace the existing
+tubing head. At the time of the incident, Eagle had four employees at the well site. On or around November 6,
+2020, Eagle filed for Chapter 11 bankruptcy, and its bankruptcy case was closed on June 23, 2021.
+1.1.5 A&L HOT OIL SERVICE INC.
+A&L Hot Oil Service Inc. (A&L) is advertised as a company that performs “oilfield production treating &
+maintenance on existing wells….” For the well work in January 2020, A&L provided one operator with a truck
+used to pump fluid into the Wendland 1-H well.
+1.1.6 WORKOVER BEGINNING JANUARY 27, 2020
+At the time of the incident, the Wendland 1-H well was undergoing workover operations. The workover was
+managed by a Chesapeake employee, and the work at the well site was performed by the contractors identified
+Page 13
+
+Investigation Report
+in this section. Chesapeake employees and representatives were in communication with on-site contract
+personnel via Microsoft Teams and cell phones during workover operations. At the time of the incident, eleven
+contractors were working at the Wendland 1-H well site.
+1.2 DANIEL H. WENDLAND 1-H WELL
+The Wendland 1-H well was initially drilled in 1980 by Columbia Gas Development Corporation (Columbia).
+The Wendland 1-H well is classified as an oil well, but it also produced gas. A schematic of the Wendland 1-H
+well is shown in Figure 1. There have been multiple operators of the Wendland 1-H well since the original well
+was drilled by Columbia: Union Pacific Resources Company, beginning in June 1996; RME Petroleum
+Company, beginning in February 2001; Anadarko E&P Company LP, beginning in December 2002; Anadarko
+E&P Onshore LLC, beginning in January 2013; and Wildhorse Resources Management Company, LLC,
+beginning in July 2017. In June 2019, Chesapeake became the operator of record for the Wendland 1-H well.
+Figure 1. Schematic of the Wendland 1-H well. (Credit: CSB)
+Page 14
+
+Investigation Report
+At the time of the incident, the Wendland 1-H well was operated by Chesapeake and was located on private land
+approximately 91 miles northwest of Houstona (Figure 2).
+Figure 2. Location of the Wendland 1-H well and its position within the Giddings Field and the Austin Chalk
+formation. (Credit: Google Earth, annotation by CSB with information derived from GoHaynesvilleShale.com
+[3])
+1.3 OIL AND GAS PRODUCTION IN THE UNITED STATES
+In an effort to assist in energy policy decisions and to increase public awareness of energy in the United States,
+the U.S. Energy Information Administration (EIA) “collects, analyzes, and disseminates independent and
+impartial energy information [4].” In December 2022, the EIA published a report titled “The Distribution of
+U.S. Oil and Natural Gas Wells by Production Rate [5].” Appendix B of the EIA report shows that in 2021,
+there were 318,256b oil wells in the United States (see Figure 3) that produced, on average, 15 barrels or less of
+oil per day, with more than one-third of these wells (126,351) located in the state of Texas [5, pp. B22-B35].c
+a
+Distances obtained using Google Earth Pro.
+b
+This includes 2,423 offshore oil wells in Federal waters.
+c
+Texas leads the nation both in the number of oil wells and the amount of annual oil production (1.466 billion barrels).
+Page 15
+
+Investigation Report
+Figure 3. U.S. map showing oil and gas wells, with the state of Texas outlined in magenta. Oil wells are
+depicted by green dots, gas wells by red dots, and combination oil and gas wells by yellow dots. (Credit: United
+States Geological Survey, annotation by CSB).
+1.4 DESCRIPTION OF SURROUNDING AREA
+Figure 4 shows the Wendland 1-H well and depicts the area within one, three, and five miles of the well site.
+Summarized demographic data for U.S. Census Bureau Tract 9702.01 containing the Wendland 1-H well,
+located in a rural area, are shown below in Table 1. There were 1,715 people residing in 844 housing units, most
+of which are single-family units, within the census tract containing the Wendland 1-H well.
+Page 16
+
+Investigation Report
+Figure 4. Overhead satellite image of the Wendland 1-H well and the surrounding area (Credit: Google Earth,
+annotation by CSB)
+Table 1. Summarized demographic data for Census Tract 9702.01, where the Wendland 1-H well was located.
+(Credit: CSB using data obtained from Census Reporter)
+Number
+Per
+Percent of
+Population Race and Ethnicity Capita Types of Housing Units
+Poverty Housing
+Income
+Units
+White 65% Single Unit 64%
+Hispanic 24% Mobile Home 36%
+1,715 $32,179a 5.8% 844
+Black 9% Mobile Home 36%
+Multi-racial 2%
+a
+Census Reporter reports that Burleson County’s per capita income was $32,707 [34]. The Census Bureau reports that the overall annual
+per capita income for the United States from 2017-2021 was $37,638 [35].
+Page 17
+
+Investigation Report
+1.5 OIL PRODUCTION CONCEPTS AND TERMINOLOGY
+1.5.1 PETROLEUM RESERVOIR BASICS
+A petroleum reservoir, also called oil and gas reservoir (see Figure 5), is a subsurface accumulation
+of hydrocarbons contained in porous or fractured rock formations. The hydrocarbons are trapped by overlying
+impermeable layers of rock [6].
+Figure 5. Schematic depicting a petroleum reservoir (Credit: University of Calgary, Energy Education [6])
+Wells are drilled and produced to extract oil and gas from the reservoir [7]. As the well is drilled, casing is
+placed into the drilled hole and cemented in place [8]. The casing is large diameter pipe that serves as the
+wellbore [9]. Once the well has reached the depth of the productive formation, the well is completed in order to
+provide an open path between the wellbore and the oil or gas reservoir [10].
+1.5.2 RESERVOIR PRESSURE AND HYDROSTATIC PRESSURE
+The reservoir pressure is the pressure of fluid in the pore spaces within formation rock [11, 12] and is measured
+under static, non-flowing conditions [1].
+Page 18
+
+Investigation Report
+Reservoir pressure for a given reservoir is characterized as either overpressured [13], normally pressured [1], or
+underpressured [13]. This characterization depends on the relationship of the reservoir pressure to normal
+hydrostatic pressure (see Figure 6). Hydrostatic pressure is defined as the pressure that exists at any point in a
+column of fluid, such as in a wellbore, due to the weight of the vertical column of fluid above that point [1].
+Referring to Figure 6, in normally pressured reservoirs, the reservoir pressure is equal to the hydrostatic
+pressure of formation water measured at the reservoir depth [1]. In an overpressured reservoir, the reservoir
+pressure exceeds the hydrostatic pressure of a column of formation water [13].
+Figure 6. Graphical representation of reservoir pressure characterizations. (Credit: CSB)
+Newly discovered reservoirs may be overpressured (see Figure 7), meaning that wells drilled and completed
+into these formations will flow to the surface unassisted [13]. Over time, as oil and gas are produced from the
+reservoir, the pressure gradually decreases [13]. When the reservoir pressure is decreased to the point that the
+reservoir is underpressured, the well will no longer naturally flow to the surface on its own [14, p. 223]. The
+reservoir pressure in these underpressured reservoirs is too low to support a column of fluid to the surface (see
+Figure 7). An artificial lift method, such as using a pumping unit with a downhole pump (see Figure 7, right
+side), may be added, which allows continuing production from wells in underpressured reservoirs [12]. Being in
+an underpressured reservoir, the Wendland 1-H well produced oil via artificial lift using a pumping unit with a
+downhole pump.
+Page 19
+
+Investigation Report
+Figure 7. Schematic showing overpressured reservoir (left) versus underpressured reservoir (right) (Credit:
+CSB)
+1.5.3 WELL WORKOVERS
+During the life of producing oil and gas wells, they occasionally require routine services or additional well work
+known as workovers. During well workovers, remedial work (i.e., maintenance or repair) is done on the well
+that may involve repairs or other procedures to increase the production flow rate [1]. Workovers are performed
+using a workover rig (see Figure 8). The well is shut in,a and production equipment, such as the pumping unit,
+is isolated and certain equipment is removed to allow the workover rigb to prepare for the well work.
+a
+When a well is “shut in,” the flow paths for formation fluids to the surface are closed [41].
+b
+The workover rig was not being used at the time of the January 29, 2020, incident.
+Page 20
+
+Investigation Report
+Figure 8. Example workover rig with mast extended (left) and mast stowed (right). (Credit: Dragon Products
+[left] and World Rigs [right])
+1.5.4 WELL CONTROL
+Workover fluids are used in conjunction with the workover procedure to provide well control, which is
+discussed in the next section [15]. Well control [1] refers to methods used to minimize the potential for an influx
+of fluids into the wellbore from the formation, also called a kick [1], which can lead to uncontrolled flow to the
+surface, also called a blowout [1]. According to the American Petroleum Institute (API), a kick will occur if the
+reservoir pressure exceeds the wellbore pressure and sufficient permeability exists within the reservoir [16, p.
+32].
+When the pressure exerted by the hydrostatic fluid column in the wellbore exceeds the reservoir pressure, the
+well is overbalanced (see Figure 9) [1], resulting in a hydrostatic barrier that prevents formation fluids from
+entering the wellbore [16, p. 7]. When the hydrostatic pressure in the wellbore is less than the reservoir pressure,
+the well is underbalanced, and reservoir fluids can flow into the wellbore (see Figure 10) [1].
+Page 21
+
+Investigation Report
+Figure 9. Graphical depiction of overbalanced wellbore. (Credit: CSB)
+Figure 10. Graphical depiction of underbalanced wellbore with resulting influx. (Credit: CSB)
+Well control is accomplished by establishing and maintaining barriers to protect against a hydrocarbon blowout
+[16, p. 54]. The Center for Chemical Process Safety (CCPS) provides the following definition of “barrier” that
+can apply to onshore oil and gas operations:
+A control measure or grouping of controls that on its own can prevent a threat developing into a top
+event (prevention barrier) or can mitigate the consequences of a top event once it has occurred
+(mitigation barrier). A barrier must be effective, independent, and auditable [17, p. 31].
+Page 22
+
+Investigation Report
+2 INCIDENT DESCRIPTION
+2.1 WORKOVER PLANNING
+In November 2019, Chesapeake suspected that a hole had formed in the tubing of the Wendland 1-H well due to
+the loss of oil production. Then, on November 26, 2019, Chesapeake discovered a possible hole in the tubing at
+a measured depth of 3,674 feet, preventing the well from producing oil (see Figure 11). The well stopped
+producing oil on November 20, 2019, and continued to produce natural gas until January 18, 2020. On January
+26, 2020, the contract Onsite Supervisor from SDS Petroleum arrived at the well to prepare for the upcoming
+workover to repair the tubing.
+Figure 11. Schematic showing the effect of a hole in the tubing on the flow of oil. (Credit: CSB)
+The scope of the planned workover was, in part, to assess the tubing and replace one or more tubing joints, as
+necessary.
+2.2 WORKOVER ACTIVITIES
+On January 27, 2020, the Onsite Supervisor had a construction crew prepare the location for the workover rig to
+address excessive mud at the well site. Just before 10:00 a.m., after the workover rig arrived, the Onsite
+Supervisor held a Pre-Job Safety Assessment and reported a shut-in tubing pressure and shut-in casing
+pressure of 80 pounds per square inch gauge (psig) on the well. The Onsite Supervisor then had the hot oil
+Page 23
+
+Investigation Report
+contractor from A&La pump five barrels (bbls) of treated water into the well through the tubing to confirm the
+hole in the tubing. The Onsite Supervisor stated that they did not see a pressure increase in the tubing,b which
+indicated that the tubing was leaking.
+The Onsite Supervisor then had A&L switch to pumping treated hot water, and A&L pumped an additional 20
+bbls of treated hot waterc into the well. After lunch, the workover rig crew from Forbes began pulling the rod
+string (see Figure 12) out of the wellbore. Before ending work for the day, the Onsite Supervisor had the hot oil
+contractor pump 45 more barrels of treated hot water into the well for paraffin removal.
+Figure 12. Expanded view of surface equipment. (Credit: CSB)
+a
+The job of the hot oil contractor was to pump water or brine into the well as needed.
+b
+When brine was pumped into the tubing, the crew should have seen a rise in pressure once the fluid column in the tubing reached the
+surface.
+c
+The purpose of using hot water was to remove paraffin, a waxy hydrocarbon compound, from the rod string.
+Page 24
+
+Investigation Report
+On Tuesday, January 28, 2020, the rig crew continued to pull out and inspect all of the rods. After the rig crew
+finished pulling out the rods, Chesapeake communicated a new task to change the existing tubing head to ensure
+the tubing head assembly, including the casing valves and connections, were rated to 5,000 pounds per square
+inch (psi). At around 2:45 p.m., the rig crew completed pulling out the rods and began to pull out and scan the
+tubing looking for signs of corrosion.
+At around 8:30 a.m. on Wednesday, January 29, 2020, the Onsite Supervisor reported they had completed
+pulling the remaining tubing joints from the well and were digging out the cellar (see Figure 1) to access the
+tubing head (see Figure 13) for replacement.a The work crew, consisting of Forbes and Eagle workers, then
+installed a tubing head adapter, a lifting sub, and a stabbing valve (see Figure 14 and Figure 15) on top of the
+existing tubing head to facilitate replacement.
+Figure 13. Existing tubing head with one of the casing valves attached. (Credit: Chesapeake, annotation by CSB)
+a
+The well cellar refers to “a stabilized excavation around the wellhead to provide space for equipment at the top of the wellbore.” The
+work crew used a high-pressure washer with vacuum to try and clean out the cellar, and they also dug it out with a shovel when the
+pressure washer was no longer effective.
+Page 25
+
+Investigation Report
+Figure 14. Lifting assembly used to enable the workover rig to lift the tubing head (Credit: Eagle, annotation by
+CSB)
+Page 26
+
+Investigation Report
+Figure 15. Stabbing valve and lifting sub. (Credit: CSB)
+The Onsite Supervisor instructed A&L, the hot oil contractor, to pump an additional 50 bbls of 10-pound-per-
+gallon (ppg) brinea into the casing before removing the existing tubing head to establish a hydrostatic barrier.
+About 15 minutes after pumping the brine into the well, a “little puff” of gas came out of the well,b after which
+the Onsite Supervisor believed the well to be static, or non-flowing. Figure 16 depicts the well schematics
+showing the work progression up to the point of removing the existing tubing head, described by the following:
+a
+The CSB could not confirm the fluid quantities or densities.
+b
+According to the Onsite Supervisor, it was normal to see some gas come out of the Wendland 1-H well after pumping fluid into the
+well.
+Page 27
+
+Investigation Report
+(1) the surface equipment has been disconnected from the pumping unit and flow lines, (2) the rod string has
+been removed, (3) the tubing has been removed, and (4) the existing tubing head has been removed.
+Figure 16. Well schematics showing the different configurations as the workover progressed. (Credit: CSB)
+After removing the old tubing head, the work crew, likely consisting of Forbes and Eagle workers, then
+reinstalled the flange, ring, and lifting sub with shut-off valve on the top of the new tubing head and lifted the
+tubing head assembly onto the well. After hand-tightening all of the flange bolts, workers from Eagle torqued
+four of the bolts while the Onsite Supervisor remained at the well site. To torque the bolts on the new tubing
+head, Eagle workers used a remote-controlled torque wrench powered using an electric hydraulic pump (power
+pack). The new casing valves and the stabbing valve were left open throughout the installation and bolt-up.a
+These valves were intentionally left open due to concerns about experiencing well pressure while the tubing
+head was being installed.
+2.3 WELL BLOWOUT AND FIRE
+At about 3:00 p.m. on Wednesday, January 29, 2020, the installation crew from Eagle was in the process of
+torquing the bolts attaching the tubing head to the top casing flange when the well began releasing oil and gas
+through the open stabbing valve and casing valves, as depicted in Figure 17. One worker described feeling
+drops of oil followed by an “explosion” as the oil and gas released from the well. Shortly after the blowout
+began, the hydrocarbons ignited, engulfing the area around the well in flames.
+a
+One of the casing valves was plugged at the time of the incident. Although the casing valve was open, the plug prevented the flow of
+hydrocarbons through the valve.
+Page 28
+
+Investigation Report
+Figure 17. Schematic showing the upper wellhead configuration at the time of the incident with the release
+points indicated. (Credit: Eagle, annotation by CSB)
+2.4 EMERGENCY RESPONSE
+After the blowout, the supervisor reported seeing workers evacuating from the well area. The supervisor noted
+that after arriving at the muster point and conducting an accountability check, one person was missing and three
+other workers were badly burned. Witnesses indicated that three Eagle personnel were working in the cellar at
+the time of the incident. Figure 18 shows the locations of equipment once the fire was extinguished.
+Page 29
+
+Investigation Report
+Figure 18. Diagram of equipment locations after the incident. (Credit: Forensics Investigations Group,
+annotation by CSB)
+At 4:10 p.m., Chesapeake noted that one Eagle employee was still missing and two of the injured personnel had
+been transported to Seton Austin Burn Center. At around 5:20 p.m., first responders began moving toward the
+well to search for the missing Eagle employee. Just before 6:00 p.m., the missing Eagle employee was found
+deceased near the well. At around 7:00 p.m., Chesapeake reported dry gas exiting the well, slight flow of oil
+exiting the casing valves, and no fluids leaving the area of the wellhead. Local fire departments reported the fire
+was controlled at 8:00 p.m., and Chesapeake reported seeing no fire coming from the well, with very little flow
+from the well, at 9:07 p.m. Personnel noted intermittent fires in and around the well until the morning of January
+30, 2020. Contracted response personnel from Halliburton Boots & Cootsa conducted clean-up efforts for the
+remainder of the day to prepare for well control operations. At 2:30 p.m. on January 31, 2020, the contracted
+response crew reported the well was successfully shut in.
+a
+Halliburton Boots & Coots provides, among other services, blowout response management services.
+Page 30
+
+Investigation Report
+2.5 INCIDENT CONSEQUENCES
+As a result of the incident, three workers were fatally injured and one worker was seriously injured. One worker
+from Eagle was fatally injured at the well site. Three other workers, two from Eagle and one from Forbes,
+suffered serious burn injuries, and two of these workers, one from each company, later succumbed to their
+injuries. In addition to causing these fatalities and serious injuries, the blowout resulted in an estimated property
+damage greater than $1 million.a On April 5, 2021, Chesapeake plugged and abandoned the well.
+a
+This estimate was obtained using the Chesapeake-provided estimate of its own property damage ($249,000) and an estimate of the cost
+of an equivalent model workover rig ($780,000). Further, the estimate does not include the damages to Eagle or A&L equipment.
+Page 31
+
+Investigation Report
+3 TECHNICAL ANALYSIS
+3.1 WELLBORE CONDITIONS ON THE DAY OF THE INCIDENT
+A narrative and physical description of the reservoir and wellbore conditions that led to the Wendland 1-H
+blowout are provided below.
+Initial Conditions
+A workover rig had been at the Wendland 1-H well location since Monday, January 27, 2020. Each morning, the
+crew recorded the shut-in pressure. On Wednesday morning, January 29, 2020, the day of the incident, the shut-
+in pressure read 50 psig (Figure 19, left). The wellbore fluid level was approximately 4,850 feet below the
+ground level based on a recent survey. The pressure measured at the surface indicated that gas had evolved from
+the wellbore fluid column and the well was not dead [13].a When the crew arrived at the well, they opened up
+the well, and bled off the pressure, but gas continued to evolve, rise up the wellbore, and exit the well from
+surface valves open to the atmosphere (Figure 19, right).
+a
+A well is considered to be “dead” if the shut-in pressure reads zero, which indicates the well is essentially balanced. In this condition,
+the well can normally be opened safely to the atmosphere.
+Page 32
+
+Investigation Report
+Figure 19. Graphical depiction of Wendland 1-H wellbore conditions the morning of January 29, 2020.a (Credit:
+CSB)
+Attempt to Establish Well Control
+As shown in Figure 20 (left), at approximately 1:00 p.m. on Wednesday, January 29, 2020, work began on the
+tubing head replacement. To prepare for this work, the Onsite Supervisor had A&L pump 50 bbls of 10-ppg
+brine into the wellbore. The volume and weight of the brine fluid was chosen based on the Onsite Supervisor’s
+understanding of Chesapeake’s practice resulting from a previous conversation with a Chesapeake employee.
+The intent of pumping this brine fluid was to establish a hydrostatic barrier for well control (see Section 1.5.4).
+No mechanical barrier was installed in the well.
+Figure 20. Graphical depiction of Wendland 1-H wellbore conditions after pumping brine. (Credit: CSB)
+Figure 20 depicts the pumping of the brine, the temporary level increase in the wellbore, and the subsequent
+falling of the brine through the other wellbore fluids to the lower parts of the wellbore. The 50 bbls of brine
+temporarily added 1,270 feet, resulting in an overbalance against the formation face of 660 psi (calculations are
+contained in Appendix B), providing sufficient hydrostatic pressure to prevent formation fluids from entering
+the wellbore.b
+a
+The figures in this section do not necessarily reflect the actual surface equipment configurations on the day of the incident.
+b
+See Appendix B.
+Page 33
+
+Investigation Report
+Off-Gassing and Outflow of Fluids
+While the brine was dropping through the wellbore fluids, the entrained gas in the fluid column was displaced
+up the wellbore and vented to the atmosphere. This venting of gas, or “off-gassing,” was noted by the Onsite
+Supervisor and members of the different work crews.
+The overbalance in the wellbore due to the added brine resulted in outflow of fluids from the wellbore into the
+formation (see Figure 21) [14, p. 207] [18, p. 231]. The rate of fluid loss into the reservoir is influenced by
+several factors, including pressure differential, fluid viscosity, and completion interval length [14, pp. 208-209].
+The well's long completion interval and underpressured reservoir exacerbated the loss of fluid to the reservoir.
+The U.S. Chemical Safety and Hazard Investigation Board (CSB calculateda that the rate of fluid loss to the
+reservoir was between 15 and 40 bbl/hour. At that rate, the 50 bbls of brine fluid would have been lost to the
+reservoir within 1.3 to 3.5 hours, resulting in the loss of the hydrostatic barrier.
+Figure 21. Graphical depiction of wellbore conditions within two hours of blowout. (Credit: CSB)
+While fluids drained out of the well into the reservoir, the wellbore experienced a vacuum (see Figure 21)
+caused by the falling fluid level. The addition of fluid into the wellbore also resulted in some of the gas in the
+wellbore being displaced and rising to the surface, where it vented for about a minute. The vacuum and
+subsequent venting of gas, according to the Onsite Supervisor, were expected conditions following the addition
+of fluid into the wellbore. Immediately after the pumping of brine fluid, the wellbore was temporarily
+overbalanced, resulting in a time-limited hydrostatic barrier. At this point, after seeing a vacuum and gas
+a
+Refer to Appendix B for CSB calculation.
+Page 34
+
+Investigation Report
+venting, the Onsite Supervisor and other personnel believed that the wellbore was “static” or “dead” and that it
+was safe to do work on the well (Figure 21, right).
+Fluid losses to the reservoir and the associated loss of fluid level continued in the Wendland 1-H wellbore as
+shown in Figure 22 [18, p. 231]. As fluid level was lost in the wellbore, fluid overbalance against the formation
+was lost as well. As the fluid level dropped, the top of the completion interval became underbalanced first.
+When the top of the zone became underbalanced, gas began to flow into the wellbore. This gas inflow from the
+top of the completion interval occurred while fluid drained from the wellbore into the lower part of the
+completion interval [18, p. 231] [14, p. 207]. This wellbore dynamic is shown in Figure 22. Gas entered the
+wellbore, began flowing to the surface, and since the wellbore remained open, gas vented at the surface (Figure
+22, right).
+Figure 22. Graphical depiction of wellbore conditions before 3:00 p.m. (Credit: CSB)
+Well Blowout
+Before the Wendland 1-H oil blowout to the surface occurred, workers at the location reported seeing gas
+venting from the well. Workers from Eagle were in the process of bolting up the wellhead when the release
+suddenly transitioned to a large volume of oil and gas. Figure 23 depicts the final stage leading to the blowout
+and the oil and gas blowout event.
+Page 35
+
+Investigation Report
+Figure 23. Graphical depiction of wellbore conditions leading up to the blowout. (Credit: CSB)
+Change in the Reservoir Conditions
+When Chesapeake’s contractors began the workover on Monday, January 27, 2020, the well’s shut-in pressure
+was 80 psig. At the start of work on Tuesday, January 28, 2020, the shut-in pressure was also 80 psig. On the
+morning of Wednesday, January 29, 2020, the shut-in pressure was 50 psig. After the incident, the shut-in
+pressure increased to around 400 psig, indicating a change from the reservoir conditions observed before the
+workover began. The fact that the well was previously on artificial lift and then flowed oil to the surface during
+the blowout also indicates a change had occurred in the reservoir conditions [12].
+Potential reasons for changes in the reservoir that could have led to the well fluids flowing to the surface and
+increasing the shut-in pressure post-event include the following:
+1. Communication with other nearby wellsa undergoing high-pressure injection or hydraulic fracturing
+(called “fracking”). Communication with nearby “fracked” wells is called frac interference or “frac
+hits.”
+2. Destabilizing the reservoir at or near the formation face (i.e., inadvertent stimulation) during reverse
+flow into the reservoir.
+a
+Communication between two wells occurs when a flow path exists between the two wellbores.
+Page 36
+
+Investigation Report
+3. Varying permeabilities and porosities within a reservoir can result in areas of higher pressure that were
+not previously accessed [19].
+4. The lightening of the wellbore oil column by the gas percolating through the fluid column, which could
+have also contributed to the release of oil to the surface [20].
+The increase in shut-in pressure following the incident indicated that a change in reservoir conditions occurred.
+Based on the lack of the ability to continuously monitor reservoir conditions and the lack of available
+information on offset fracking operations, the CSB was unable to determine which of the above reasons for the
+change, or which combination of reasons, caused the increase in reservoir pressures.
+The CSB concludes that the well blowout occurred as a result of both a loss of fluid overbalance and a change in
+the reservoir conditions, allowing oil and gas to flow to the surface.
+Page 37
+
+Investigation Report
+4 SAFETY ISSUES
+The following sections discuss the safety issues contributing to the incident, which include:
+• Well Planning
+• Well Control for Completed Wells in Underpressured Reservoirs
+• Ignition Source Management
+• Federal Regulatory Safety Requirements
+A graphical causal analysis is included in Appendix A.
+4.1 WELL PLANNING
+The Well Planning section of the American Petroleum Institute’s (API) Recommended Practice (RP) 59,
+Recommended Practice for Well Control Operations, which is intended to prevent the release of hydrocarbons
+from a well, advises to first gather well information, then to analyze the data and formulate a list of potentially
+hazardous events, and finally to determine safeguards against hazardous events. API RP 59 also states that
+“operating procedures should be prepared and posted.” Although much of this section of API RP 59 is intended
+to be implemented prior to drilling, it is also applicable to workover operations [16, p. 38].
+Well History Review
+Chesapeake did not include in its policies a stipulation to conduct a well history review, and neither Chesapeake
+nor its contractors reviewed the workover history to evaluate previous well control operations. A planning
+review per API RP 59 would have included, among other things, a review of well control indications and any
+well control problems. The CSB conducted a review of the Wendland 1-H well’s workovers, and details of the
+CSB’s review are contained in Appendix C. The CSB’s review of that history identified at least 22 prior well
+control eventsa and records of “off-gassing” at the Wendland 1-H well during 34 workovers since 1993.
+Had this information been reviewed at some point prior to the incident, Chesapeake and its contractors may have
+recognized that the historical approach of pumping a batch volume of fluid into the well was ineffective. A
+complete workover history review also would have revealed that the Wendland 1-H well, in some instances, was
+capable of flowing, as shown in Appendix C.
+The CSB concludes that a review of the well history, as recommended by API RP 59, would have revealed past
+instances where the Wendland 1-H well could flow oil during a workover. Such recognition may have led to
+heightened awareness of the potential for well control problems and earlier action taken to maintain well
+control.
+a
+For the purposes of this report, a “well control event” is defined as an unplanned release of hydrocarbons from the well.
+Page 38
+
+Investigation Report
+The CSB recommends that Chesapeake develop or revise policies incorporating the recommendations of API
+RP 59 regarding well planning, specifically the inclusion of well history review in conjunction with workover
+well control planning.
+Operating Procedure
+KEY LESSON
+A well planning review conducted per API RP 59 could have resulted
+in the preparation and posting of well control procedures applicable to
+To successfully execute well
+the workover well conditions. A step-by-step workover procedure was
+control, proper well planning
+prepared by Chesapeake and provided to the Onsite Supervisor for the
+is required. Industry guidance
+original job scope to repair a suspected tubing leak on the Wendland 1-
+recommends gathering well
+H well. However, this procedure did not include instructions on how to
+information, evaluating
+establish and maintain well control. Also, Chesapeake did not provide
+potential hazards based on
+written well control procedures for the tubing head replacement task.
+that information, and creating
+Instead, Chesapeake, after verbally instructing the Onsite Supervisor to
+operating procedures and
+use 50 bbls of 10-ppg brine, entrusted the Onsite Supervisor to
+contingency plans to address
+determine the necessary additional well control steps to be performed.
+those hazards. Companies
+should incorporate well
+The absence of well planning per API RP 59, which stipulated the need
+planning, based on industry
+for well control procedures, allowed the work to progress without
+guidance, into their well
+having a written procedure for establishing and maintaining well
+control policies and
+control. Well planning could have further triggered the need for written
+procedures.
+contingency procedures in the event the well did flow.
+The CSB concludes that Chesapeake did not provide written operating
+or contingency procedures for establishing and maintaining well
+control. Had Chesapeake and its contractors performed well planning in
+accordance with API RP 59, an operating procedure describing the instructions for establishing and maintaining
+well control would have been prepared and posted for use by contractors performing the workover operations.
+Following the incident, Chesapeake implemented well control procedure templates for several standard
+workover procedures, including casing valve replacements and addressing holes in tubing. These templates can
+be used in future workovers to develop site-specific workover well control procedures, provided the procedures
+are based on the respective well history.
+4.2 WELL CONTROL FOR COMPLETED WELLS IN UNDERPRESSURED
+RESERVOIRS
+A well is considered “completed” once the well is constructed and is ready to begin producing hydrocarbons
+[21]. After a well is completed and producing, workover operations, such as the workover being performed on
+the Wendland 1-H well at the time of the incident, are performed as necessary to repair or service the well. In
+Page 39
+
+Investigation Report
+API RP 59, Recommended Practice for Well Control Operations, the API provides well control procedures
+“intended to safely prevent or handle kicksa and re-establish primary well control” [16, p. 6].
+Methods that stop fluids from reaching the surface and exiting the well are preventive. Well control can also
+refer to methods that maintain control of the well in the event of a flow event or kick. These methods are
+mitigative. A typical method for preventive well control is using a hydrostatic barrier, also referred to as the
+primary well control barrier. Mitigative controls applied after flow has reached the surface are also referred to as
+secondary barriers. Closure of blowout preventers (BOPs) and valves at the surface are commonly used as
+secondary barriers for well control barriers. The BowTie diagram below shows the relationship of well control
+barriers to a blowout event (Figure 24).
+Figure 24. BowTie diagram relating well control barriers to a blowout event. (Credit: Presentationgo.com,
+adapted by CSB [22])
+Challenges to Achieving Well Control in Completed Wells
+As API RP 59 explains, primary well control is normally accomplished by maintaining “hydrostatic pressure in
+the wellbore that is equal to or greater than the formation pressure,” [16, p. 7] thereby preventing flow from the
+formation into the wellbore, known as an influx [16, p. 4]. The Wendland 1-H well presented several challenges
+regarding primary well control using a hydrostatic barrier:
+Open path to the reservoir
+First, during a workover, completed wells have an open path through the completion interval to the
+reservoir [17, p. 69] [23, pp. 22-3].
+Clear fluids
+a
+The API describes a “kick” as “formation flow during…well servicing operations [16, p. 6].”
+Page 40
+
+Investigation Report
+Second, to prevent formation damage, a hydrostatic barrier in completed wells typically uses clear,a
+solids-free fluids. The use of clear, solids-free fluids, like the brine used as a workover fluid in this
+instance, increases the risk of fluid losses to the formation compared with typical drilling fluids [14, p.
+2].
+Underpressured reservoir
+Third, this reservoir was underpressured. Fluid added to the wellbore initially provides overbalance
+against the formation. However, in underpressured reservoirs, the fluid added will flow into the
+reservoir until overbalance is lost. When overbalance is lost, an influx, or kick, can enter the wellbore
+[18, p. 231] [23, pp. 22-3]. Several texts highlight the potential for simultaneous fluid losses to one zone
+while gas or liquids may be entering the wellbore from another higher zone in the same reservoir [23,
+pp. 4, 10] [17, p. 70] [14, p. 207].
+High gas-to-oil ratio
+Fourth, the Wendland 1-H well produced oil and gas at a gas-oil ratio ranging between 3,000 and 8,300
+standard cubic feet per barrel. In the months leading up to the incident when the well was not producing
+any oil, the well continued to produce gas, as much as 77,000 cubic feet per day. The lighter natural gas
+will rise through the workover fluids toward the surface and off-gas if a barrier does not prevent that
+flow [23, p. 2].
+Because of these challenges, well control methods in completed wells—especially in underpressured
+reservoirs—require special considerations [23, pp. 1, 6] [14, p. 2]. The following are some specific examples of
+methods that can be used to accomplish effective well control in completed wells in underpressured reservoirs:
+1) Continuous fluid addition. If clear fluids are used such as fresh water or brine without additives, the
+fluid must be continually added [23, pp. 2, 5] [18, p. 231] [14, p. 208]. Where feasible, continuous fluid
+addition can maintain an overbalanced condition in a wellbore, provided that the rate at which it is
+added exceeds the rate at which it flows from the wellbore into the reservoir.
+2) Viscous fluids. Viscous fluids can be used to prevent the loss of the hydrostatic barrier by placing a
+batch of thick, high viscosity fluid into the wellbore known as a fluid loss control pill [14, p. 208].
+Polymers such as hydroxyethyl cellulose (HEC) and xanthan gum (XC) can also be added to workover
+fluids to increase the viscosity [18, pp. 231-232]. High viscosity fluids will decrease the fluid flow rate
+from the wellbore into the formation, allowing an overbalanced condition to exist for a longer duration.
+3) Bridging solids. Mixing bridging solids into the workover fluid can also prevent fluid losses to the
+formation. Bridging agents mechanically block the leak paths. Non-damaging bridging solids are
+described by Crumpton and others [14, pp. 210-212] [18, pp. 232, 243]. Blocking leak paths from the
+wellbore into the reservoir would prevent fluid losses and maintain a hydrostatic barrier for a longer
+duration.
+4) Mechanical barriers. Setting a mechanical barrier can address fluid losses in situations where the
+wellbore configuration allows for setting a plug [14, p. 212] [16, p. 54]. The mechanical plug must be
+set above the top of the completed zone [18, p. 234].
+a
+Some workover fluids are commonly referred to as “clear” fluids, as they contain no suspended solids [42].
+Page 41
+
+Investigation Report
+4.2.1 INEFFECTIVE HYDROSTATIC BARRIER
+Chesapeake’s Barrier Policy outlined the “minimum expectations for both the number and selection of [well
+control] barriers” for all well operations, including workovers. This policy defined a “barrier” as “a component
+or practice that contributes to the total system reliability by preventing liquid or gas flow, when properly
+executed.” As discussed in Section 2.2, prior to removing the existing tubing head, the Onsite Supervisor, based
+on the perception of Chesapeake’s usual practice, attempted a hydrostatic barrier using 50 bbls of 10-ppg brine.
+As shown in Figure 24, establishing and maintaining of an effective hydrostatic barrier is necessary to prevent
+formation fluids from entering the wellbore, which could result in a loss of well control. Chesapeake directed
+the use of brine, a clear fluid, in an attempt to establish and maintain a hydrostatic barrier. Given the use of a
+clear fluid in an underpressured reservoir, it would have been necessary to continuously add the fluid exceeding
+the rate of fluid loss in order to achieve an overbalance for the duration of the task of replacing the tubing head.
+The Onsite Supervisor did not do this, however.
+Chesapeake also could have instructed the Onsite Supervisor to use a high viscosity fluid instead of brine as a
+workover fluid. As demonstrated in calculations in Appendix B, a higher viscosity fluid would have resulted in
+a slower fluid loss rate into the reservoir, resulting in a greater duration of overbalance in the wellbore. Because
+of the longer duration of overbalance, this method would have been a more effective hydrostatic barrier option
+than using brine.
+At the time of the incident, Chesapeake’s Barrier Policy did not contain provisions for using continuous fluid
+addition or high viscosity workover fluids as hydrostatic barriers. Inclusion of these methods into Chesapeake’s
+policy may have resulted in the use of one of these methods instead of simply using a batch volume of brine.
+The CSB concludes that Chesapeake failed to provide effective well control guidance, and Chesapeake’s
+contractors failed to maintain an effective hydrostatic barrier because Chesapeake’s Barrier Policy did not
+incorporate appropriate methods for maintaining a hydrostatic barrier for a completed well in an underpressured
+reservoir.
+Following the incident, Chesapeake superseded its Barrier Policy with a Barrier Standard that includes the
+requirement to maintain fluid levels and conditions. Chesapeake also implemented Barrier Exception Procedures
+that apply to specific circumstances during workovers, which include the use of continuous fluid addition to
+establish and maintain a hydrostatic barrier.
+4.2.2 INEFFECTIVE SECONDARY BARRIER
+According to the International Association of Drilling Contractors (IADC), a “secondary well barrier” is defined
+as a “second set of well barrier elements that prevent flow from…” an influx of formation fluids [24]. In
+addition to the attempted hydrostatic barrier discussed in Section 4.2.1, Chesapeake and its contractors used an
+open stabbing valve and the open casing valves as secondary well control barriers. As shown in Figure 24, a
+secondary barrier is a mitigative control that provides protection against an incident to prevent a blowout after
+well control has been lost.
+Page 42
+
+Investigation Report
+Chesapeake’s Workover and Completions BOP Manual (BOP Manual) addresses Chesapeake’s minimum
+requirements for blowout prevention equipment used in workover operations. One of the BOP Manual’s stated
+objectives is to prevent unplanned releases. The manual discusses stabbing valves,a also called a full-opening
+safety valve (FOSV). Figure 25 shows an exemplar FOSV and the FOSV in use at the time of the incident. The
+Barrier Policy listed an FOSV as an example of a mechanical barrier, and the BOP Manual lists the
+requirements for using an FOSV. Among those requirements are that an FOSV with its operating wrench must
+be available and on the rig floor at all times. The BOP Manual also notes that the FOSV is “only to be used as
+an emergency valve during well control operations.”
+Figure 25. Cutaway view of exemplar FOSV (left) (Credit M&M International [25]) and the FOSV used at the
+time of the incident (right). (Credit: CSB).
+During this incident, the FOSV was installed and open versus “on the rig floor,” and Chesapeake told the CSB
+that it considered an open FOSV to be a barrier per its policies. With the tubing head and casing valves
+disconnected from pressure-measuring equipment, however, there was no way to monitor for changes within the
+wellbore indicating the occurrence of a kick. Therefore, the open FOSV and casing valves would have only been
+closed upon (1) human detection of an influx and (2) human action to close the valves. As illustrated in Figure
+24, any open surface valve requiring closure for barrier implementation constitutes a mitigative barrier, making
+it less reliable. Also, since the new tubing head was not yet fully bolted into place, it did not meet the criteria to
+be considered a barrier.
+a
+The IADC identifies “stabbing valve” as a safety valve and defines it as “a full opening valve available for quick installation…” [43].
+Page 43
+
+Investigation Report
+In addition to being a less reliable mitigative barrier, the human action of closing a stabbing valve in response to
+a blowout would place a worker in the immediate vicinity of a flammable atmosphere with a potentially spark-
+producing hand tool, increasing the risk of a flash fire. The Onsite Supervisor described the operation of a
+stabbing valve to the CSB:
+But [the] first move is [to] always…always get the [stabbing] valve in there.
+That’s the very first move. You may put…it on there…in an open position, never
+closed. If it’s closed and it starts blowing water and gas, …it’s harder to screw
+down when it’s under pressure. So if it’s blowing, you get it screwed on there.
+Then you shut the valve…then everything’s safe.
+To further illustrate the hazards associated with the use of stabbing valves, Figure 26 and Figure 27 show two
+examples of workers using or attempting to use stabbing valves to shut in wells.
+Figure 26. Attempt to install a stabbing valve, with the sequence described as follows: (1) As the blowout
+progresses, three workers (indicated with arrows) approach the release point, (2) the first attempt to line up
+the pipe to which the stabbing valve is attached, (3) pressure pushes the pipe away from well, (4) the second
+attempt to line up the pipe, (5) workers successfully line up the pipe and attempt to thread it onto the well, (6)
+pressure again pushes the pipe away from the well. (Credit: YouTube [26], annotations by CSB)
+Page 44
+
+Investigation Report
+Figure 27. Two workers closing a stabbing valve following a blowout. (Credit: YouTube [27], annotation by CSB)
+The CSB concludes that the use of open surface valves and stabbing valves as a well control barrier is not
+effective since it (1) is a mitigative control actuated after the release begins and (2) increases the risks to
+workers in the event of a release by creating a flammable vapor cloud around them with potential ignition
+sources nearby.
+Page 45
+
+Investigation Report
+4.2.3 INDUSTRY GUIDANCE
+API RP 59, Recommended Practice for Well Control Operations, provides guidance on well control operations
+and is intended to be used both as a well control field aid and as a technical source for well control instruction.
+API RP 59 establishes recommended practices for preventing a loss of well control and, if a loss of well control
+occurs, recommended practices to re-establish well control [16, p. 1].
+Establishing a Primary Barrier
+Section 5 of API RP 59 states that one of the conditions necessary for a kick is insufficient hydrostatic pressure
+[16, p. 32]. API RP 59 further states that failure to maintain a full column of fluid, among other conditions, can
+result in the loss of well control [16, p. 32]. For wells in underpressured reservoirs like the Wendland 1-H well,
+API RP 59 Section 5.2.3.2 states that “consideration should be given to keeping a volume of fluid in reserve to
+add…into the well as needed to maintain control” [16, p. 32]. This is the only instance in API RP 59 that
+addresses well control for completed wells in underpressured reservoirs.
+In an underpressured well such as the Wendland 1-H well, the use of water, brine, or other clear fluids makes it
+difficult, if not impossible, to monitor from the surface since these fluids would be lost to the formation [14, p.
+236]. Therefore, the guidance provided by API is not conducive to establishing an effective hydrostatic barrier
+since any reserve fluid added to a well would simply be lost to the formation and cannot be monitored. Further,
+API RP 59 does not discuss special considerations in addressing the specific challenges with well control in
+completed wells, including in underpressured reservoirs, as discussed in Section 4.1.
+The CSB concludes that the present API guidance for well control involving completed wells in underpressured
+reservoirs is not adequate for the implementation of an effective hydrostatic barrier. Had more robust guidance
+been presented in API RP 59, Chesapeake may have instituted more effective well control practices, potentially
+preventing the incident from occurring.
+Establishing a Secondary Barrier
+Like Chesapeake’s BOP Manual, API RP 59 also references the use of a safety valve when “handling pressure,”
+implying that the use of a stabbing valve like the FOSV used at the time of the incident may constitute a
+secondary well control barrier. For the reasons stated in Section 4.2.2, the CSB concludes that the use of
+stabbing valves, as mentioned in API RP 59, is not an effective well control barrier.
+API RP 59 Section 11.11.1 states, “If a well is considered to have potential to flow, maintenance of…two
+barriers to [a] flow system should be considered,” including fluid overbalance, mechanical devices, and plugs
+[16, p. 54]. Further, Section 11.11.2 lists other practices for handling pressure, one of which is having a stabbing
+valve available on the rig floor [16, p. 54].
+Page 46
+
+Investigation Report
+As discussed in Sections 3.1 and 4.1 of this report, it is possible for a
+static well to become underbalanced, resulting in a loss of well control
+KEY LESSON
+without appropriate barriers in place, especially considering that a
+“genuinely static well is difficult to achieve” when using water or brine
+Despite having substantial
+[14, p. 236]. Because of this phenomenon, a well should always be
+industry guidance regarding
+considered to have the potential to flow. API’s recommendation to
+how companies should
+consider two barriers only if a well can flow provides a false sense of
+conduct well control,
+security to companies that operate underpressured wells, enabling the
+practice of operating with only one barrier in place. industry guidance is lacking
+regarding specific well
+Further, the CSB’s review of the Wendland 1-H well’s workover history control methods for
+(discussed in Section 4.1) found that a common practice for workover completed wells in
+well control was to initially pump a fixed volume of workover fluid as a underpressured reservoirs.
+hydrostatic barrier. In some instances, no well control barriers were in Companies that operate these
+place, and pumping water into the well was a reactive attempt to keep types of wells need to be
+gas levels suppressed. This indicates a tendency for workers to be aware of this gap and use
+willing to accept the risk of some amount of gas coming out of the well necessary resources, such as
+during workover operations. other recognized technical
+literature, such as Well
+The Onsite Supervisor acknowledged that oil and gas coming out of a
+Control for Completions and
+well is not unusual:
+Interventions by H.
+Crumpton, when creating
+…if you’re working on live wells, you’re going to have
+well control policies and
+kicks…that’s just [an] ordinary occurrence with things.
+procedures for workovers.
+The well’s going to kick. You can see my shirt. That’s
+what happens when you get a kick up the tubing and
+you’re pulling rods. It blows oil all over…and…you
+secure the well. …If it’s just a normal gas or oil kick,
+then…you need to get it shut in [as] quickly as possible.
+The Onsite Supervisor stated further:
+So…having some…vapors at the surface is…not a real great concern. I
+mean…it’s a common thing. I mean…there’s a difference between having vapors
+and a well…blowing or gassing.
+One worker noticed gas coming out of the well before they removed the existing tubing head and notified the
+Onsite Supervisor. After the Onsite Supervisor indicated that they would be safe, the worker expressed no
+concern about a potential blowout and continued activities. These actions—the Onsite Supervisor indicating that
+they were fine and the worker continuing activities after seeing gas venting from the well—indicate that
+working around a well in the presence of gas was a normal condition at the Wendland 1-H well.
+Based on the CSB’s review of the Wendland 1-H well’s workover history under multiple operators, the CSB
+concludes that working in the presence of gas during workover operations was a common practice. The CSB
+further concludes that this practice may have been normalized as a result of API RP 59 language that allows
+operators to consider flow potential rather than stipulate the recommendation for a two-barrier-to-flow system,
+Page 47
+
+Investigation Report
+and that API RP 59’s language regarding the consideration of a two-barriers-to-flow system does not provide
+adequate guidance to companies operating underpressured wells.
+The CSB recommends that API publish the following information in an appropriate document such as API RP
+59 Recommended Practice for Well Control Operations:
+1. A focused discussion on practices applicable to workover operations, including completed wells in
+underpressured reservoirs. Include well control methods applicable to workover operations, such as
+using continuous fluid addition, viscous fluids, bridging solids, and mechanical plugs. Also include a
+discussion on the well control challenges and hazards specific to workover operations;
+2. Stabbing valves should not be considered as well control barriers for workover operations; and
+3. Every well should be considered to have potential to flow, and therefore, should have two well control
+barriers, one of which should be a preventative barrier.
+Page 48
+
+Investigation Report
+4.3 IGNITION SOURCE MANAGEMENT
+API RP 500, Recommended Practice for Classification of Locations for Electrical Installations at Petroleum
+Facilities Classified as Class I, Division 1 and Division 2, defines a hazardous or classified location as a
+location where fire or explosion hazards may occur due to flammable gases or liquids. The API provides
+examples of classified areas at petroleum facilities based on the equipment present in the areas. Figure 28
+provides examples of the classification diagrams for various pieces of equipment. Class 1 areas are classified
+based on the presence of flammable gases or vapors. The classification is further categorized by divisions.
+Division 1 locations are those where the concentration of flammable gases is expected under normal conditions.
+Division 2 locations are those where the concentration of flammable gases may be present but can be prevented
+from accumulating using ventilation [28].
+Figure 28: Examples of classified areas in API RP 500 (Credit: API)
+These classified areas are critical in identifying the areas in which flammable gases can be present and can be
+the basis for siting potential ignition sources.
+4.3.1 POTENTIAL IGNITION SOURCES
+At the time of the blowout, a mixture of flammable hydrocarbons (oil and gas) was released from the well. Due
+to the pressure from the blowout, the flammable hydrocarbons were released rapidly, forming a vapor cloud,
+which found an ignition source. Multiple potential ignition sources were identified in the vicinity of the open
+wellbore. These included, but are not limited to:
+• Static electricity
+Page 49
+
+Investigation Report
+• Workover rig
+• Hot oil truck
+• Eagle truck
+• Diesel-powered generator on Eagle trailer
+• Forklift
+• Hand tools
+• Electric hydraulic pump (power pack) with extension cord
+• Handheld controller for the torque wrench
+Figure 29 shows an overhead view of the well following the incident with a number of potential ignition
+sources and their respective distance from the well. Figure 29 also shows that the workover rig, the Eagle truck
+and trailer, the forklift, and the hot oil truck sustained fire damage.
+Figure 29. Overhead view of the Wendland 1-H well with distances to various potential ignition sources.a
+(Credit: Chesapeake, annotations by CSB)
+a
+Distances were provided by Chesapeake.
+Page 50
+
+Investigation Report
+The power pack, extension cord, and handheld remote controller were located approximately 10 feet from the
+wellbore (Figure 30), all of which appeared to have sustained fire damage.
+Figure 30. Hydraulic power pack (circled) location following the incident. (Credit: Chesapeake, annotation by
+CSB)
+Given the multiple release points shown in Figure 17 and the dynamic nature of the release, the CSB was
+unable to identify the exact ignition source.
+4.3.2 INSUFFICIENT RISK ASSESSMENT
+Chesapeake’s Contractor Health, Safety, Environmental, and Regulatory Handbook discusses the location of
+ignition sources, specifically regarding hot worka and the use of lower explosive limit (LEL) monitoring. The
+Handbook requires a hot work permit when performing, among other things, activities that use spark producing
+power tools within 35 feet of any potential flammable sources. The Handbook also states that internal
+combustion engines require “continuous atmospheric monitoring when operating within 35 feet of any potential
+flammable atmosphere.” Although the Handbook discusses hand tools, it does not require that contractors use
+a
+The Occupational Safety and Health Administration (OSHA) defines “hot work” as “riveting, welding, flame cutting or other fire or
+spark-producing operation.” 29 CFR § 1917.152
+Page 51
+
+Investigation Report
+non-sparking tools. Further, the Handbook does not contain any stipulations regarding the placement of potential
+ignition sources within or near classified areas as defined by API RP 500.
+Chesapeake’s Job Safety Analysis (JSA) form, which was used by its contractors as a checklist for identifying
+the hazards associated with the workover on the day of the incident, includes “Ignition Sources” as a potential
+hazard. The JSA form does not contain any requirements regarding the placement of ignition sources, however,
+nor does it require ignition hazards to be assessed based on classified areas as defined by API RP 500.
+API RP 54, Occupational Safety and Health for Oil and Gas Well Drilling and Servicing Operations, provides
+several guidelines for performing assessments to determine the safe location of equipment from flammable and
+combustible sources.
+A risk assessment should be performed and communicated to the affected crew and other
+personnel (as appropriate) that determines the appropriate safe location and distance from the
+wellbore and other potential flammable and combustible sources, appropriate safety measures
+for hot work, welding, and flame cutting operations, and the requirement for a written procedure
+[29, p. 20].
+Furthermore, API RP 54 recommends the following:
+Area classifications determine the type of and maintenance requirements for electrical
+equipment on drilling and well servicing rigs under normal operating conditions. When special
+service operations are being performed, the recommendations for electrical installations under
+the conditions of service should be followed [29, p. 27].
+API RP 99, Flash Fire Risk Assessment for the Upstream Oil and Gas Industry, provides general guidance on
+the identification of hazards that could result in flash fires. As part of the prevention of flash fires, the control of
+ignition sources is listed to reduce the risk of flash fires. API RP 99 also provides examples of the electrical
+hazardous area classifications, which are examples from API RP 500, for electrical equipment with several
+orientations of equipment.
+API RP 99 further provides general guidance for risk assessments to prevent flash fires, using as an example a
+bow-tie analysis, which highlights the need to control the ignition source location in proximity to a fuel source
+to prevent flash fire hazards [30, p. 15].
+According to a report prepared for Chesapeake,a the power pack used to bolt the tubing head was not
+intrinsically safe, but Eagle workers believed that the equipment was intrinsically safe. OSHA has specified in
+29 Code of Federal Regulations (CFR) 1910.307, Hazardous (Classified) Locations, the requirements for
+electrical equipment in locations that are classified depending on the properties of flammable vapors, liquids, or
+gases that can be present.b OSHA requires electrical equipment to be intrinsically safe, approved for the
+a
+On February 18, 2020, Chesapeake representatives requested that Forensic Investigations Group, L.L.C. conduct a fire analysis of the
+incident to include a determination of origin and cause of the fire. The report was completed on June 13, 2022.
+b
+https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.307 (a)(1)
+Page 52
+
+Investigation Report
+hazardous location, or safe for the hazardous location.a Furthermore, OSHA’s regulations not only specify that
+any electrical equipment must be approved for use in a hazardous location based on classification and division
+but also outline the specific properties of the materials that can be present, defined by material groups. This
+classification is synonymous with the group designations that are listed in the National Fire Protection
+Association (NFPA) 70.b
+Despite industry guidance and regulatory requirements, workers at the
+KEY LESSON
+Wendland 1-H well site did not locate ignition sources in accordance with
+established safe practices. During workover operations, some ignition
+sources, such as an internal combustion engine of a workover rig, are All phases of well operations,
+unavoidable. In the book What Went Wrong? - Case Histories of Process including workovers, can
+Plant Disasters and How They Could Have Been Avoided, Trevor Kletz involve potential ignition
+explains that despite efforts to remove ignition sources, flammable sources, some of which
+atmospheres still have a high probability of igniting [31, p. 454]. cannot be eliminated. To
+However, increasing the number of potential ignition sources also mitigate the potential for the
+increases the chance of a flammable release finding an ignition source. ignition of flammable
+Mitigation efforts against the risk of potential ignition sources should material at well sites,
+include eliminating ignition sources where possible. For example, using companies should
+hand tools made from non-sparking materials (i.e., brass or aluminum) incorporate ignition source
+instead of ferrous metals would eliminate the possibility of generating a risk assessments into their
+spark resulting from metal-to-metal contact. Another example to mitigate policies and adhere to
+ignition is to place non-rated equipment outside of classified areas. industry guidance and
+regulations on ignition source
+The CSB concludes that Chesapeake’s contractors neither evaluated the placement, including the use
+potential classified locations nor adequately controlled the siting of of properly rated equipment.
+ignition sources that were in proximity to the open wellbore resulting in
+the ignition of the flammable gas mixture following the blowout of the
+well. Had Chesapeake’s contractors assessed the classified areas and the
+associated siting of potential ignition sources, the flammable gases
+released during the blowout could have been prevented from igniting, and
+the incident could have been prevented.
+a
+29 CFR 1910.307(c)
+b
+29 CFR 1910.307(c)(2)(i)
+Page 53
+
+Investigation Report
+4.4 FEDERAL REGULATORY SAFETY REQUIREMENTS
+In conjunction with several of its proposed and final rulemakings, OSHA has historically stated that onshore oil
+and gas drilling and servicinga operations should be regulated under a standard specific to that industry. On
+December 28, 1983, OSHA issued a proposed rulemaking under 29 CFR 1910.270 to create requirements for
+the oil and gas well drilling and servicing industry, entitled “Oil and Gas Well Drilling and Servicing.”b In the
+preamble to the proposed rule, OSHA stated that “[w]orkers in the oil and gas well drilling and servicing
+industry are exposed to a number of hazards associated with both the equipment and various operations
+performed during the course of drilling or servicing” and that this industry “has many unique hazards or special
+work circumstances which require special standards.” Despite the need for such a standard, OSHA never
+finalized the proposed regulation [32].
+4.4.1 CONTROL OF HAZARDOUS ENERGY
+In the preamble to OSHA’s final rule establishing its Control of Hazardous Energy standard in September 1989,
+OSHA stated that it excluded oil and gas well drilling and servicing operations from the standardc because the
+agency had already undertaken rulemaking with regard to these activities (48 Fed. Reg. 57202) and because
+OSHA believed at that time that oil and gas well drilling and servicing operations should be covered by a
+standard designed to address the unique nature of that industry.d The Control of Hazardous Energy standard
+exemption for oil and gas well drilling and servicing operations still exists today, although, as noted above,
+OSHA has never issued a rule specifically addressing oil and gas well drilling and servicing operations.e
+The Control of Hazardous Energy standard “covers the servicing and maintenance of…equipment in which the
+unexpected…release of stored energy could cause injury to employees” [33]. As noted, however, the standard
+specifically exempts oil and gas well drilling and servicing activities [33].
+Well control can be defined as preventing formation fluids from entering the wellbore or stopping the well from
+flowing if fluids do enter the wellbore [34]. Well control principles can also be described as preventing the
+release of stored energy, consistent with the scope of OSHA’s Control of Hazardous Energy standard,
+considering that formation fluids are under pressure.
+a
+Historically, OSHA has defined “oil well drilling and servicing” as covering “activities related to the initial drilling of a well and later,
+maintenance work necessary to maintain or enhance production. Normally, such operations are occurring if a drilling rig or truck-
+mounted rig or mast is present on the well. Oil well drilling and servicing includes the following activities: 1. The actual drilling and
+associated activities of the well. 2. Well completion activities (i.e., activities and methods necessary to prepare a well for the production
+of oil and gas). 3. Well servicing (i.e., the maintenance work performed on an oil or gas well to improve or maintain the production
+from a formation already producing. Usually, it involves repairs to the pump, rods, gas-lift valves, tubing, packers and so forth). 4.
+Workover activities (i.e., the performance of one or more of a variety of remedial operations on a producing oil well to try to increase
+production. Examples of operations include deepening, plugging back, pulling and resetting liners, squeeze cementing, and so on.”
+https://www.osha.gov/laws-regs/standardinterpretations/1999-12-20#:~:text=OSHA%20has%20stated%20in%20previous,a)(2)(ii).
+b
+Available here: https://tile.loc.gov/storage-services/service/ll/fedreg/fr048/fr048250/fr048250.pdf.
+c
+29 CFR 1910.147.
+d
+57 Fed. Reg 6369 (February 24, 1991). https://www.govinfo.gov/content/pkg/FR-1992-02-24/pdf/FR-1992-02-24.pdf.
+e
+According to the Federal Register, OSHA withdrew its consideration of an oil and gas drilling and well servicing standard on August
+31, 2001, citing “resource constraints and other priorities.” https://www.osha.gov/sites/default/files/laws-regs/federalregister/2001-12-
+03.pdf
+Page 54
+
+Investigation Report
+Following the Wendland 1-H well incident, on July 28, 2020, OSHA issued citations to Chesapeake, Eagle, and
+Forbes for not maintaining well control. Section 5(a)(1) of the Occupational Safety and Health (OSH) Act of
+1970, also known as the General Duty Clause, requires companies to provide a workplace “free from recognized
+hazards that are causing or are likely to cause death or serious physical harm to…employees” [35]. The General
+Duty Clause is not instructive regarding requirements for the control of hazardous energy for oil and gas drilling
+and well servicing activities, however, and therefore, lacks sufficient warning to employers to prevent incidents.
+Table 2 below outlines sections of the Control of Hazardous Energy standard and how, if applied to the
+Wendland 1-H well, it may have prevented the incident from occurring.
+Table 2. Applicability of OSHA’s control of hazardous energy standard. (Credit: CSB)
+Control of Hazardous Energy standard Applicability
+1910.147(c)(1) The employer shall establish a program Section 4.1
+Energy control consisting of energy control procedures,
+program employee training and periodic inspections to Including well control procedures,
+ensure that before any employee performs any supplemented by periodic inspections as
+servicing or maintenance … where the part of its energy control program would
+unexpected energizing, start up or release of have increased the likelihood of
+stored energy could occur and cause injury, the Chesapeake ensuring that effective barriers
+machine or equipment shall be isolated from the were in place for the duration of the
+energy source, and rendered inoperative. workover.
+1910.147(c)(4) The procedures shall clearly and specifically Section 4.1
+Energy control outline the scope, purpose, authorization, rules,
+procedure and techniques to be utilized for the control of This would have required Chesapeake to
+hazardous energy, and the means to enforce provide detailed well control procedures
+compliance including, but not limited to, the for how to isolate the well from workers on
+following [(ii)]: the surface. This would have required
+Chesapeake to detail the steps of the
+Specific procedural steps for shutting down, workover to ensure effective barriers were
+isolating, blocking and securing machines or in place at each step. This also would have
+equipment to control hazardous energy. [(ii)(B)] required Chesapeake to ensure that there
+were requirements in place to verify the
+Specific requirements for testing a machine or effectiveness of the energy control
+equipment to determine and verify the measures in place.
+effectiveness of … energy control measures.
+[(ii)(D)]
+1910.147(d)(5) Following the application of … energy isolating Section 4.2.1
+Stored energy devices, all potentially hazardous stored or
+residual energy shall be relieved, disconnected, While Chesapeake’s contractors did not
+restrained, and otherwise rendered safe. [(i)] monitor the effectiveness of the hydrostatic
+barrier, this would have required
+Page 55
+
+Investigation Report
+If there is a possibility of reaccumulating stored Chesapeake and its contractors to ensure
+energy to a hazardous level, verification of the isolation was effective (through some
+isolation shall be continued until the servicing verification or monitoring process) until
+or maintenance is completed, or until the the workover was completed.
+possibility of such accumulation no longer
+exists. [(ii)]
+The CSB believes that well control principles (i.e., preventing the release of stored energy) are equivalent to
+controlling hazardous energy. Therefore, the CSB concludes that had more defined OSHA direction to oil and
+gas companies been in place -- such as including oil and gas drilling, well servicing, production, and workover
+operations in OHSA’s Control of Hazardous Energy standard -- Chesapeake and its contractors may have taken
+greater measures to ensure positive well control was maintained throughout its operation, thereby preventing the
+incident from occurring.
+The CSB recommends that OSHA remove the exemption for oil and gas drilling and well servicing from the
+Control of Hazardous Energy standard (29 CFR 1910.147) and expand its application to cover oil and gas
+production and workover operations.
+4.4.2 PROCESS SAFETY MANAGEMENT
+OSHA also has exempted oil and gas drilling and servicing from the Process Safety Management of highly
+hazardous chemicals (PSM) standard.
+In OSHA’s preamble to its final rule for the PSM standard, which was adopted in 1992, OSHA stated that it
+excluded oil and gas well drilling and servicing operations because the agency had already undertaken a
+rulemaking regarding these activities (48 Fed. Reg. 57202). The PSM standard exemption for oil and gas well
+drilling and servicing operations still exists today, although, as noted, OSHA has never finalized a rule
+specifically addressing these operations.
+OSHA addressed the issue of regulating oil and gas drilling and servicing once again in 2013, following
+President Obama’s Executive Order (EO) 13650, Improving Chemical Facility Safety and Security. Section
+6(e)(ii) of EO 13650 required OSHA to publish, within 90 days, a Request for Information (RFI) designed to
+identify issues related to modernization of its PSM standard and other related standards needed to meet the
+stated goal of preventing major chemical accidents.
+OSHA published a RFI on December 9, 2013, on potential revisions to several agency standards, including the
+PSM standard. With regard to oil and gas well drilling and servicing, the agency stated:
+Paragraph (a)(2)(ii) of § 1910.119 exempts oil- and gas-well drilling and
+servicing operations from PSM coverage. The preamble to the PSM final rule
+explained that OSHA excluded these operations because it had begun a separate
+rulemaking for oil and gas well drilling and servicing operations (48 FR
+57202). However, the Agency subsequently removed the oil and gas well
+drilling and servicing operations rulemaking from its regulatory agenda and
+never promulgated a final rule for these operations. In light of this history,
+Page 56
+
+Investigation Report
+OSHA requests public comment on whether to retain or remove the §
+1910.119(a)(2)(ii) exemption.a
+The CSB submitted a response to the RFI on March 31, 2014. In its comments, the CSB specifically provided
+input on changes needed for the regulation of oil and gas well drilling and servicing operations. The CSB stated
+that it had identified 1,285 incidents between 2009 and February 2014, resulting in a serious injury, a fatality to
+a worker, an evacuation or a shelter in place of more than 500 residents; a facility impact of more than
+$500,000; and/or significant environmental damage. One-hundred-three (103) – or eight percent -- of these
+incidents occurred in the oil and gas sector. The CSB also stated that it had encountered numerous hot work
+activities where explosions and fires occurred from the ignition of flammable vapors in a confined area, such as
+a tank, typically during maintenance. As renowned process safety expert Dr. Trever Kletz noted: “Errors in the
+preparation of equipment for maintenance are one of the commonest causes of serious accidents in the chemical
+and allied industries” [36, p. 807]. Based on the high rate of worker injuries and fatalities within these sectors,
+the CSB urged OSHA to eliminate the PSM exemption for oil and gas well drilling and servicing. The CSB
+believed then, and still believes, that making all of -- or at least the most pertinent parts of -- the PSM standard
+applicable to these industries would significantly improve safety and better protect workers far more than
+citations for General Duty Clause violations.
+The activities at the Wendland 1-H well at the time of the incident were not regulated by OSHA’s PSM
+standard. However, had Chesapeake developed and implemented a safety management system, such as that
+required under OSHA’s PSM standard, specifically for workovers, the incident might not have occurred. Table
+3 outlines requirements from OSHA’s PSM standard that, if applied to the Wendland 1-H well at the time of the
+incident, might have prevented the incident from occurring.
+Table 3. Applicability of OSHA’s PSM standard. (Credit: CSB)
+OSHA PSM language Applicability
+1910.119 (d) Process Safety Information
+Safe upper and lower limits for such This could have required Chesapeake to
+items as … pressures, …or evaluate the consequence of deviations in, at
+compositions; and [(2)(i)(D)] least, pressure at the surface and/or the
+composition/concentration of flammable
+An evaluation of the consequences of material exiting the well during workovers
+deviations, including those affecting the (i.e., %LELb). Chesapeake then could have
+safety and health of employees defined for workers and contractors the steps
+[(2)(i)(E)] to follow if a deviation toward an unsafe
+condition is detected to ensure the safety of
+workers in the area.
+a
+Available: https://www.regulations.gov/document?D=OSHA-2013-0020-0001
+b
+OSHA defines LEL as the minimum concentration of vapor in air below which propagation of a flame does not occur in the presence of
+an ignition source.
+Page 57
+
+Investigation Report
+Information pertaining to the equipment This could have required Chesapeake to
+in the process – Electrical classification identify the electrical classification for the
+[(3)(i)(C)] area around the well and identify the
+equipment ratings allowed in those areas.
+Design codes and standards employed This could have required Chesapeake to
+[(3)(i)(F)] document the standards employed,
+specifically API RP 59 that states the need for
+documenting well history to develop well
+control methods.
+1910.119 (e) Process Hazard Analysis
+The process hazard analysis … shall This could have required Chesapeake to
+identify, evaluate, and control the conduct a hazard analysis on each step of the
+hazards involved in the process… workover, taking into consideration the well
+includes such considerations as the … history. This also would have allowed
+operating history of the process [(1)] Chesapeake and its contractors to ensure that
+more effective well control barriers were in
+place.
+The process hazard analysis shall This could have required Chesapeake to
+address: the hazards of the process; the conduct a review of the well history,
+identification of any previous incident engineering, and administrative controls for
+which had a likely potential for well control, determine potential methods for
+catastrophic consequences in the monitoring well conditions that may provide
+workplace; engineering and detection of possible well blowouts, and the
+administrative controls applicable to the consequences associated with the failure of
+hazards and their interrelationships such engineering and administrative controls.
+as appropriate application of detection
+methodologies to provide early warning
+of releases (acceptable detection methods
+might include process monitoring and
+control instrumentation with alarms, and
+detection hardware such as hydrocarbon
+sensors); consequences of failure of
+engineering and administrative controls
+[(3)]
+1910.119(f) Operating Procedures
+The employer shall develop and This could have required Chesapeake to
+implement operating procedures that develop and ensure compliance (by its
+provide clear instructions for safely contractors) with procedures for well
+conducting activities involved in each workovers. These procedures would have
+covered process consistent with the included steps for each phase of the workover
+Page 58
+
+Investigation Report
+process safety information and shall and steps that workers should take to prevent
+address at least the following elements. exposure to hazards, such as flammable gas.
+- Steps for each operating phase
+- Operating limits: Consequences
+of deviation; and steps required
+to correct or avoid deviation
+[(1)]
+Precautions necessary to prevent
+exposure, including engineering controls,
+administrative controls, and personal
+protective equipment. [(1)(iii)(B)]
+The employer shall develop and
+implement safe work practices to provide
+for the control of hazards … These safe
+work practices shall apply to employees
+and contractor employees. [(4)]
+The CSB concludes that had Chesapeake been required to maintain Process Safety Information (PSI), as defined
+in Table 3, utilized that PSI to evaluate the hazards (working over an open well that is venting flammable gas to
+atmosphere in the presence of multiple ignition sources) of the workover, and utilized that hazard evaluation to
+write detailed specific procedures to conduct all workover and servicing operations, the incident may not have
+occurred. Furthermore, a performance standard, similar to the OSHA PSM standard, would have required
+Chesapeake and its contractors to develop policies and procedures that could have prevented the incident.
+4.4.3 JUSTIFICATION FOR FEDERAL REGULATION
+A federal standard tailored to the unique hazards of the oil and gas drilling and servicing, production and
+workover industries could drive positive safety change. In the years since OSHA’s initial proposal and
+subsequent removal of the oil and gas drilling and serving rulemaking, there have been lessons learned from
+more recent incidents and continued development of good industry practice guidelines.
+OSHA’s Onshore Oil and Gas SEPs
+OSHA’s special emphasis programs (SEPs) provide a framework for the agency to do outreach and conduct
+programmed inspections in industries with potentially high injury or illness rates. The oil and gas industry
+involves many hazards, including working with high pressure oil and gas systems, working in hazardous
+Page 59
+
+Investigation Report
+locations with explosive concentrations of hydrocarbons, and the potential for high exposures to hydrogen
+sulfide, and/or other health hazards.a
+OSHA’s regional offices in Regions III, VI, and VIII have been conducting targeted inspections of oil and gas
+worksites since at least 2010, under SEPs (referred to as Regional Emphasis Programs – REPs) (see Table 4)b
+Table 4. OSHA regions conducting targeted inspections. (Credit: CSB)
+Region Affected Areas
+III District of Columbia, Delaware, Maryland, Pennsylvania, Virginia, and West Virginia
+VI Arkansas, Louisiana, Oklahoma, and Texas
+VIII Colorado, North Dakota, South Dakota, Montana, Wyoming, and Utah
+The Wendland 1-H Well is located in Texas, which is in OSHA Region VI. During FY 2019, Region VI
+conducted 2,017 inspections for activitiesc such as, but not limited to, drilling, exploration, workover, and
+servicing. Region VI also investigated 19 fatal injuries and 35 employer-reported referrals during FY 2019
+alone, under its REP. Region VI noted that explosion and fire hazards are among the leading causes of death
+within the oil and gas industry. Region VI also has stated:d
+Since OSHA has no national program dealing with this industry, a regional
+emphasis program is necessary to address the fatalities/catastrophes and
+severe injuries and illness occurring within this jurisdiction.
+Pryor Trust incident
+The CSB investigated the gas well blowout and fire at the Pryor Trust well in Pittsburg County, Oklahoma in
+January 2018. This incident occurred during drilling operations, which are exempt from OSHA regulations.
+The Pryor Trust incident involved multiple safety issues similar to the safety issues discussed in this report for
+the Wendland 1-H well blowout, such as: poor barrier management, lack of adequate procedures, and lack of
+safety regulation requirements. From the Pryor Trust investigation, the CSB issued the following
+recommendation to OSHA:
+Implement one of the three following options regarding regulatory changes:
+a https://www.osha.gov/sites/default/files/enforcement/directives/reg3_fy2018_2018-01_0.pdf.
+b
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4469339/
+c
+Regional Emphasis Program for the Upstream Oil and Gas Industry (osha.gov)
+d
+Regional Emphasis Program for the Upstream Oil and Gas Industry (osha.gov)
+Page 60
+
+Investigation Report
+(a) OPTION 1: Apply the Process Safety Management (PSM) standard (29 CFR
+1910.119) to the drilling of oil and gas wells; or
+(b) OPTION 2: Apply the Process Safety Management (PSM) standard (29 CFR
+1910.119) to the drilling of oil and gas wells as in OPTION 1, and make the
+necessary modifications to customize it to oil and gas drilling operations; or
+(c) OPTION 3: Develop a new standard with a safety management system
+framework similar to PSM that applies only to the drilling of onshore oil and
+gas wells that includes but is not limited to the following:
+1) Detailed written operating procedures with specified steps and
+equipment alignment for all operations;
+2) Written procedures for the management of changes (except
+replacements in kind) in procedures, the well plan, and equipment;
+3) A risk assessment of hazards associated with the drilling plan;
+4) A requirement to follow Recognized and Generally Accepted Good
+Engineering Practices (RAGAGEP);
+5) Development of a Well Construction Interface Document between the
+operator and the drilling contractor prior to the commencement of
+drilling activities which at a minimum includes a bridging document
+and well plan specifying barriers and how to manage them;
+6) The performance and documentation of flow checks using acceptable
+methods at defined points during the operation for a specified duration;
+and
+7) A requirement for employee participation, similar to the Employee
+Participation requirement in the OSHA PSM standard.
+This recommendation to OSHA remains open.
+The CSB concludes that while the Pryor Trust incident was a result of drilling operations, which is not the same
+as the workover operations that were ongoing during the Wendland incident, it underscores the need for federal
+regulations for the onshore oil and gas industry.
+Federal Onshore Oil and Gas Regulation
+OSHA can begin rulemaking for several reasons, including injuries and illnesses affecting workersa. The first
+step of the OSHA rulemaking process involves the identification of serious safety or health hazards. After these
+hazards are identified, data are gathered to determine the scope of the problem and determine the information
+a
+https://www.osha.gov/laws-regs/rulemakingprocess#v-nav-tab0
+Page 61
+
+Investigation Report
+needed for further analyses including health effects assessment, risk assessment, technological feasibility
+analysis, and economic analysis.a The information previously gathered by OSHA in the agency’s original
+rulemaking proposal, combined with the information gathered through SEPs, can be used to support a
+rulemaking effort now.
+The CSB concludes that an industry-specific federal standard for the oil and gas industry, incorporating the
+lessons learned and information gathered from SEPs and the CSB’s investigation reports on the Pryor Trust
+Fatal Gas Well Blowout and Fire and this investigation report, is necessary.
+Therefore, the CSB supersedes CSB Recommendation No. 2018-01-I-OK-R1 from the Pryor Trust Fatal Gas
+Well Blowout and Fire report and recommends that OSHA promulgate a new standard with prescriptive
+requirements, similar to the Control of Hazardous Energy standard, as well as a performance-based safety
+management system framework, similar to the OSHA Process Safety Management (PSM), that applies to the
+drilling, production, and servicing/workover activities surrounding onshore oil and gas wells. At a minimum,
+this standard should include the following:
+1. Prescriptively address requirements for primary and secondary barriers for well control;
+2. Detailed written drilling, production, and servicing procedures with specified steps and equipment
+alignment for all operations;
+3. Management of change requirements (except replacements in kind) that, at a minimum, address
+procedures, the well plan, and equipment;
+4. A risk assessment of hazards associated with the drilling, production, and servicing/workover plans;
+5. A requirement to follow Recognized and Generally Accepted Good Engineering Practices
+(RAGAGEP);
+6. Development of a Well Construction Interface Document between the operator and the drilling
+contractor prior to the commencement of drilling and servicing activities and an equivalent document
+for production and workover contractors which, at a minimum, includes a bridging document and well
+plans specifying barriers and how to manage them;
+7. The performance and documentation of flow checks using acceptable methods at defined points during
+the operation for a specified duration;
+8. A requirement for employee participation, similar to the Employee Participation requirement in the
+OSHA PSM standard;
+9. A requirement for maintaining critical well information, similar to the Process Safety Information
+requirement in the OSHA PSM standard, which at a minimum includes well history and documented
+well control methods during workovers;
+a
+https://www.osha.gov/sites/default/files/OSHA_FlowChart.pdf
+Page 62
+
+Investigation Report
+10. A requirement for analyzing and assessing the hazards during all phases and steps for well servicing,
+similar to the Process Hazard Analysis requirement in the OSHA PSM standard;
+11. A requirement for developing, executing, communicating, and maintaining procedures for drilling,
+production, and servicing operations on a well, similar to the Operating Procedures requirement in the
+OSHA PSM standard; and
+12. The documentation of well control plans for drilling, production, and servicing/workover operations for
+a well utilizing acceptable methods for monitoring the effectiveness of well control methods.
+Page 63
+
+Investigation Report
+5 CONCLUSIONS
+5.1 FINDINGS
+1. Based on shut-in pressures observed before and after the incident, the well blowout occurred as a result of
+both a loss of fluid overbalance and a change in the reservoir conditions, allowing oil and gas to flow to the
+surface.
+2. A review of the well history, as recommended by API RP 59, would have revealed past instances where the
+Wendland 1-H well could flow oil during a workover. Such recognition may have led to heightened
+awareness of the potential for well control problems and earlier action taken to maintain well control.
+3. Chesapeake did not provide written operating or contingency procedures for establishing and maintaining
+well control. Had Chesapeake and its contractors performed well planning in accordance with API RP 59,
+an operating procedure describing the instructions for establishing and maintaining well control would have
+been prepared and posted for use by contractors performing the workover operations.
+4. Chesapeake failed to provide effective well control guidance, and Chesapeake’s contractors failed to
+maintain an effective hydrostatic barrier because Chesapeake’s Barrier Policy did not incorporate
+appropriate methods for maintaining a hydrostatic barrier for a completed well in an underpressured
+reservoir.
+5. The use of open surface valves and stabbing valves as a well control barrier is not effective since it (1) is a
+mitigative control actuated after the release begins and (2) increases the risks to workers in the event of a
+release by creating a flammable vapor cloud around them with potential ignition sources nearby.
+6. Present API guidance for well control involving completed wells in underpressured reservoirs is not
+adequate for the implementation of an effective hydrostatic barrier. Had more robust guidance been
+presented in API RP 59, Chesapeake may have instituted more effective well control practices, potentially
+preventing the incident from occurring.
+7. Working in the presence of gas during workover operations was a common practice. This practice may have
+been normalized as a result of API RP 59 language that allows operators to consider flow potential rather
+than stipulate the recommendation for a two-barrier-to-flow system, and that API RP 59 language regarding
+the consideration of a two-barriers-to-flow system does not provide adequate guidance to companies
+operating underpressured wells.
+8. Chesapeake’s contractors neither evaluated the potential classified locations nor adequately controlled the
+siting of ignition sources that were in proximity to the open wellbore resulting in the ignition of the
+flammable gas mixture following the blowout of the well. Had Chesapeake’s contractors assessed the
+classified areas and the associated siting of potential ignition sources, the flammable gases released during
+the blowout could have been prevented from igniting, and the incident could have been prevented.
+9. OSHA currently exempts oil and gas well servicing activities from its Control of Hazardous Energy
+standard. Had more defined OSHA direction to oil and gas companies been in place -- such as including oil
+and gas drilling, well servicing, production, and workover operations in OSHA’s Control of Hazardous
+Page 64
+
+Investigation Report
+Energy standard -- Chesapeake and its contractors may have taken greater measures to ensure positive well
+control was maintained throughout its operation, thereby preventing the incident from occurring.
+10. Had Chesapeake been required to maintain Process Safety Information (PSI), utilized that PSI to evaluate
+the hazards (working over an open well venting flammable gas to atmosphere in the presence of multiple
+ignition sources) of the workover, and utilized that hazard evaluation to write detailed specific procedures to
+conduct all workover and servicing operations, the incident may not have occurred.
+11. While the Pryor Trust incident was a result of drilling operations, which is not the same as the workover
+operations that were ongoing during the Wendland incident, it underscores the need for federal regulations
+for the onshore oil and gas industry. A performance standard, similar to the OSHA PSM standard, would
+have required Chesapeake and its contractors to develop policies and procedures that could have prevented
+the incident.
+12. An industry-specific federal standard for the oil and gas industry, incorporating the lessons learned and
+information gathered from SEPs and the CSB’s investigation report on the Pryor Trust Fatal Gas Well
+Blowout and Fire and this investigation report, is necessary.
+5.2 CAUSE
+The CSB determined that the cause of the Wendland 1-H well blowout was the lack of well planning regarding
+the implementation of well control. Insufficient industry guidance regarding well control for completed wells in
+underpressured reservoirs contributed to the blowout, resulting in ineffective well control practices for these
+types of wells. The attempted well control barriers were ineffective, resulting in the release of hydrocarbons that
+ignited upon finding an ignition source.
+The CSB also determined that ineffective ignition source management contributed to the fire, resulting in three
+fatal injuries and one serious injury. The absence of regulations governing onshore oil and gas operations
+contributed to the incident, resulting in the failure to both effectively control hazardous energy and implement
+essential risk assessments that could have prevented this incident.
+Page 65
+
+Investigation Report
+6 RECOMMENDATIONS
+6.1 PREVIOUSLY ISSUED RECOMMENDATIONS SUPERSEDED IN THIS
+REPORT
+2018-01-I-OK-R1 (from the Pryor Trust Fatal Gas Well Blowout and Fire report)
+To the Occupational Safety and Health Administration
+Implement one of the three following options regarding regulatory changes:
+a. OPTION 1: Apply the Process Safety Management (PSM) standard (29 CFR 1910.119) to the drilling of
+oil and gas wells; or
+b. OPTION 2: Apply the Process Safety Management (PSM) standard (29 CFR 1910.119) to the drilling of
+oil and gas wells as in OPTION 1, and make the necessary modifications to customize it to oil and gas
+drilling operations; or
+c. OPTION 3: Develop a new standard with a safety management system framework similar to PSM that
+applies only to the drilling of onshore oil and gas wells that includes but is not limited to the following:
+1. Detailed written operating procedures with specified steps and equipment alignment for all
+operations;
+2. Written procedures for the management of changes (except replacements in kind) in procedures,
+the well plan, and equipment;
+3. A risk assessment of hazards associated with the drilling plan;
+4. A requirement to follow Recognized and Generally Accepted Good Engineering Practices
+(RAGAGEP);
+5. Development of a Well Construction Interface Document between the operator and the drilling
+contractor prior to the commencement of drilling activities which at a minimum includes a
+bridging document and well plan specifying barriers and how to manage them;
+6. The performance and documentation of flow checks using acceptable methods at defined points
+during the operation for a specified duration; and
+7. A requirement for employee participation, similar to the Employee Participation requirement in
+the OSHA PSM standard.
+Superseded by 2020-04-I-TX-R4 to OSHA below.
+Page 66
+
+Investigation Report
+6.2 RECOMMENDATIONS ISSUED IN THIS REPORT
+To prevent future chemical incidents, and in the interest of driving chemical safety excellence to protect
+communities, workers, and the environment, the CSB makes the following safety recommendations:
+6.2.1 CHESAPEAKE OPERATING, L.L.C.
+2020-04-I-TX-R1
+Develop or revise policies incorporating the recommendations of API RP 59 regarding well planning,
+specifically the inclusion of well history review in conjunction with workover well control planning.
+6.2.2 AMERICAN PETROLEUM INSTITUTE
+2020-04-I-TX-R2
+Publish the following information in an appropriate document such as API RP 59 Recommended Practice for
+Well Control Operations:
+1. A focused discussion on practices applicable to workover operations, including completed wells in
+underpressured reservoirs. Include well control methods applicable to workover operations, such as
+using continuous fluid addition, viscous fluids, bridging solids, and mechanical plugs. Also include a
+discussion on the well control challenges and hazards specific to workover operations;
+2. Stabbing valves should not be considered as well control barriers for workover operations; and
+3. Every well should be considered to have potential to flow, and therefore, should have two well control
+barriers, one of which should be a preventative barrier.
+6.2.3 OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION
+2020-04-I-TX-R3
+Remove the exemption for oil and gas drilling and well servicing from the Control of Hazardous Energy
+standard (29 CFR 1910.147) and expand its applicability to cover oil and gas production and workover
+operations.
+2020-04-I-TX-R4
+Promulgate a new standard with prescriptive requirements, similar to the Control of Hazardous Energy
+Standard, as well as a performance-based safety management system framework, similar to the OSHA Process
+Safety Management (PSM) Standard, that applies to the drilling, production, and servicing/workover activities
+surrounding onshore oil and gas wells. At a minimum, this standard should include the following:
+1. Prescriptively address requirements for primary and secondary barriers for well control;
+Page 67
+
+Investigation Report
+2. Detailed written drilling, production, and servicing procedures with specified steps and equipment
+alignment for all operations;
+3. Management of change requirements (except replacements in kind) that, at a minimum, address
+procedures, the well plan, and equipment;
+4. A risk assessment of hazards associated with the drilling, production, and servicing/workover plans;
+5. A requirement to follow Recognized and Generally Accepted Good Engineering Practices
+(RAGAGEP);
+6. Development of a Well Construction Interface Document between the operator and the drilling
+contractor prior to the commencement of drilling and servicing activities and an equivalent document
+for production and workover contractors which, at a minimum, includes a bridging document and well
+plans specifying barriers and how to manage them;
+7. The performance and documentation of flow checks using acceptable methods at defined points during
+the operation for a specified duration;
+8. A requirement for employee participation, similar to the Employee Participation requirement in the
+OSHA PSM standard;
+9. A requirement for maintaining critical well information, similar to the Process Safety Information
+requirement in the OSHA PSM standard, which at a minimum includes well history and documented
+well control methods during workovers;
+10. A requirement for analyzing and assessing the hazards during all phases and steps for well servicing,
+similar to the Process Hazard Analysis requirement in the OSHA PSM standard;
+11. A requirement for developing, executing, communicating, and maintaining procedures for drilling,
+production, and servicing operations on a well, similar to the Operating Procedures requirement in the
+OSHA PSM standard; and
+12. The documentation of well control plans for drilling, production, and servicing/workover operations for
+a well utilizing acceptable methods for monitoring the effectiveness of well control methods.
+Page 68
+
+Investigation Report
+7 KEY LESSONS FOR THE INDUSTRY
+To prevent future chemical incidents, and in the interest of driving chemical safety excellence to protect
+communities, workers, and the environment, the CSB urges companies to review these key lessons:
+1. To successfully execute well control, proper well planning is required. Industry guidance recommends
+gathering well information, evaluating potential hazards based on that information, and creating
+operating procedures and contingency plans to address those hazards. Companies should incorporate
+well planning, based on industry guidance, into their well control policies and procedures.
+2. Despite having substantial industry guidance regarding how companies should conduct well control,
+industry guidance is lacking regarding specific well control methods for completed wells in
+underpressured reservoirs. Companies that operate these types of wells need to be aware of this gap and
+use necessary resources, such as other recognized technical literature, such as Well Control for
+Completions and Interventions by H. Crumpton, when creating well control policies and procedures for
+workovers.
+3. All phases of well operations, including workovers, can involve potential ignition sources, some of
+which cannot be eliminated. To mitigate the potential for the ignition of flammable material at well
+sites, companies should incorporate ignition source risk assessments into their policies and adhere to
+industry guidance and regulations on ignition source placement, including the use of properly rated
+equipment.
+Page 69
+
+Investigation Report
+8 REFERENCES
+[1] International Association of Drilling Contractors, "IADC\Drilling Lexicon, Oil and Gas Drilling Glossary," [Online]. Available:
+https://iadclexicon.org/. [Accessed 02 October 2023].
+[2] OilGasGlossary.com, "Oil and Gas Field Technical Terms Glossary," OilGasGlossary.com, [Online]. Available:
+http://oilgasglossary.com/rod_string.html. [Accessed 02 October 2023].
+[3] GoHaynesvilleShale.com, "Shale Plays," GoHaynesvilleShale.com, 2017. [Online]. Available: https://gohaynesvilleshale.com/shale-
+plays. [Accessed 4 April 2023].
+[4] U.S. Energy Information Administration, "About EIA," U.S. Energy Information Administration, 2023. [Online]. Available:
+https://www.eia.gov/about/. [Accessed 25 August 2023].
+[5] U.S. Energy Information Administration, "U.S. Oil and Natural Gas Wells by Production Rate," U.S. Energy Information
+Admiinistration, 2023. [Online]. Available: https://www.eia.gov/petroleum/wells/. [Accessed 25 August 2023].
+[6] University of Calgary, "Energy Education\Oil and gas reservoir," [Online]. Available:
+https://energyeducation.ca/encyclopedia/Oil_and_gas_reservoir. [Accessed 02 October 2023].
+[7] University of Calgary, "Oil Well," University of Calgary, [Online]. Available: https://energyeducation.ca/encyclopedia/Oil_well.
+[Accessed 27 October 2023].
+[8] University of Calgary, "Energy Education\Well casing," [Online]. Available:
+https://energyeducation.ca/encyclopedia/Well_casing#:~:text=A%20well%20casing%20is%20a,would%20collapse%20in%20witho
+ut%20support. [Accessed 02 October 2023].
+[9] BMT, "CargoHandbook.com\Oil Well Casing," [Online]. Available: https://cargohandbook.com/Oil_Well_Casing. [Accessed 02
+October 2023].
+[10] AAPG Wiki, "Fluid flow fundamentals," MediaWiki, 19 January 2022. [Online]. Available:
+https://wiki.aapg.org/Fluid_flow_fundamentals. [Accessed 02 October 2023].
+[11] Elsevier, Science Direct, "Science Direct\Reservoir Pressure," [Online]. Available:
+https://www.sciencedirect.com/topics/engineering/reservoir-
+pressure#:~:text=Reservoir%20pressure%20means%20the%20pressure,to%20move%20in%20the%20reservoir. [Accessed 17
+September 2023].
+[12] R. von Flatern, "The Defining Series: Artificial Lift," Schlumberger Oilfield Review, September 2015. [Online]. Available:
+https://www.slb.com/resource-library/oilfield-review/defining-series/defining-artificial-lift. [Accessed 22 September 2023].
+[13] Schlumberger, "SLB\Energy Glossary," [Online]. Available: https://glossary.slb.com/. [Accessed 02 October 2023].
+[14] H. Crumpton, Well Control for Completions and Interventions, Cambridge, MA: Elsevier, 2018.
+[15] B. a. M. C. Panamarathupalayam, "Chapter 6 - Completion and workover fluids," ScienceDirect, Elsevier, Gulf Professional
+Publishing , 2022. [Online]. Available:
+https://www.sciencedirect.com/science/article/abs/pii/B9780128227213000071#:~:text=Most%20completion%20and%20workover
+%20fluids,between%20the%20completion%20fluid%20and. [Accessed 02 October 2023].
+[16] American Petroleum Institute (API), API Recommended Practice 59 (2nd Edition) - Recommended Practice for Well Control
+Operations, Washington: API Publishing Services, 2018.
+[17] Center for Chemical Process Safety/Society of Petroleum Engineers, Process Safety in Upstream Oil and Gas, New York: American
+Institute of Chemical Engineers/John Wiley & Sons, Inc., 2021.
+[18] D. Watson, T. Brittenham and P. L. Moore, Advanced Well Control, Richardson: Society of Petroleum Engineers, 2003.
+[19] C. F. Conaway, "Reservoir Heterogeneity," in Petroleum Industry - A Nontechnical Guide, Tulsa, PennWell Corporation, 1999, pp.
+83-85.
+[20] D. Leonard, Composer, Artificial lift oil and gas: Gas Lift Artificial Lift principle. [Sound Recording]. YouTube, Petrolessons. 2019.
+[21] Schlumberger Limited, "Energy Glossary - complete a well," Schlumberger Limited, 2023. [Online]. Available:
+https://glossary.slb.com/en/terms/c/complete_a_well. [Accessed 8 September 2023].
+[22] presentationgo.com, "PresentationGo," [Online]. Available: https://www.presentationgo.com/. [Accessed 02 October 2023].
+[23] J. L. Rike, D. L. Whitman, E. R. Rike and L. R. Hardin, "Completion and Workover Needs are Different!," in Petroleum Society of
+CIM/Society of Petroleum Engineers, Calgary, 1990.
+[24] International Association of Drilling Contractors, "Oil & Gas Drilling Glossary - Secondary Well Barrier," IADC, 2023. [Online].
+Available: https://iadclexicon.org/secondary-well-barrier/. [Accessed 11 September 2023].
+[25] M&M International, "Products," BREW, [Online]. Available: https://www.mmvalve.com/products/. [Accessed 24 August 2023].
+Page 70
+
+Investigation Report
+[26] B. Builder, "Weatherford, danger, casing, oilfield fail, Workover rig blowout, well c," 10 July 2015. [Online]. Available:
+https://www.youtube.com/watch?v=UCcUGksr5EU. [Accessed 8 November 2023].
+[27] AlphaZERO, "TIW valve? anyone?," 3 February 2021. [Online]. Available: https://www.youtube.com/watch?v=8UFZEcN2uFQ.
+[Accessed 8 November 2023].
+[28] American Petroleum Institute, Recommended Practice for Classification of Locations for Electrical Installations at Petroleum
+Facilities Classified as Class I, Division 1 and Division 2 (2nd Edition), Washington: API, 1997.
+[29] American Petroleum Institute, Occupational Safety and Health for Oil and Gas Well Drilling and Servicing Operations (4th Edition),
+Washington: API Publishing Services, 2019.
+[30] American Petroleum Institute, Flash Fire Risk Assessment for the Upstream Oil and Gas Industry, Washington: API Publishing
+Service, 2014.
+[31] T. Kletz and P. Amyotte, What Went Wrong? - Case Histories of Process Plant Disasters and How They Could Have Been Avoided,
+Cambridge: Elsevier, 2019.
+[32] M. Soraghan, "Drilling's safety exemptions and how they got there," E&E News..
+https://subscriber.politicopro.com/article/eenews/2014/11/04/drillings-safety-exemptions-and-how-they-got-there-104181, 4
+November 2014.
+[33] U.S. Occupational Safety and Health Administration, "The control of hazardous energy (lockout/tagout)," National Archives, 25
+August 2023. [Online]. Available: https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-J/section-
+1910.147. [Accessed 5 September 2023].
+[34] Schlumberger Limited, "Energy Glossary - well control," Schlumberger Limited, 2023. [Online]. Available:
+https://glossary.slb.com/en/terms/w/well_control. [Accessed 5 September 2023].
+[35] Occupational Safety and Health Administration, "OSH Act of 1970 - General Duty Clause," OSHA, 2023. [Online]. Available:
+https://www.osha.gov/laws-regs/oshact/section5-duties. [Accessed 13 September 2023].
+[36] T. Kletz, "Hazards in Chemical System Maintenance: Permits," in Safety and Accident Prevention in Chemical Operations (2nd
+Edition), New York, John Wiley & Sons, 1982, p. 807.
+[37] Penn State College of Earth and Mineral Sciences, "PSU\Steady-State Flow of Oil," PSU.edu, [Online]. Available: https://www.e-
+education.psu.edu/png301/node/851. [Accessed 06 October 2023].
+[38] U.S. Census Bureau, "Census Reporter Profile page for Burleson County, TX," 2021. [Online]. Available:
+https://censusreporter.org/profiles/05000US48051-burleson-county-tx/. [Accessed 22 May 2023].
+[39] U.S. Census Bureau, "Quick Facts - United States," U.S. Census Bureau, 2023. [Online]. Available:
+https://www.census.gov/quickfacts/fact/table/US/INC910221. [Accessed 22 May 2023].
+[40] American Association of Petroleum Geologists (AAPG), "AAPG Wiki\Fluid flow fundamentals," AAPG Wiki, [Online]. Available:
+https://wiki.aapg.org/Fluid_flow_fundamentals#:~:text=Darcy's%20law%2C%20which%20was%20originally,(compressible%20and
+%20multiple%20phases).&text=The%20permeability%20is%20a%20property,the%20fluid%20flows%20through%20it.. [Accessed
+06 October 2023].
+[41] Sinomine Speciality Fluids, "Formate Technical Manual\SectionA4_Viscosity of Formate Brines," Sinomine Speciality Fluids, 2019.
+[Online]. Available: https://formatebrines.com/wp-content/uploads/2019/10/FORMATEMANUAL-A4-Viscosity-of-Formate-
+Brines.pdf. [Accessed 08 October 2023].
+[42] K. Pearson, "Geologic Models and Evaluation of Undiscovered Conventional and Continuous Oil and Gas Resources - Upper
+Cretaceous Austin Chalk, U.S. Gulf Coast," U.S. Department of the Interior/U.S. Geological Survey, Reston, 2012.
+[43] J. P. Brill and H. Mukherjee, Multiphase Flow in Wells, Richardson: Society of Petroleum Engineers, 1999.
+Page 71
+
+Investigation Report
+APPENDIX A—SIMPLIFIED CAUSAL ANALYSIS (ACCIMAP)
+Page 72
+
+Investigation Report
+APPENDIX B—CALCULATIONS
+Change in Wellbore Fluid Level
+Upon opening the well to atmosphere on January 29, 2020, the static head pressure at the top of the wellbore
+went from 50 psig to zero psig (atmospheric). As a result, the liquid level in the wellbore would have risen the
+amount in feet equivalent to 50 psig, based on the following equation:
+, (1)
+ℎwh=ere 𝑃𝑃h i/s 𝐺𝐺th e amount of fluid increase in feet, P is the pressure change in psig, and G is the pressure gradient in
+psig per foot of the liquid column. Reducing the static head pressure at the top of the wellbore resulted in an
+increase in the height of the fluid column of 171 feet, bringing the estimated liquid level from 4,850 feet to
+4,679 feet below the surface.
+Upon pumping 50 bbls of 10-ppg brine into the well, assuming the brine addition was instantaneous, the
+increase in the liquid level would have been based on the capacity of the production casing. The result was
+calculated for a seven-inch, 23 pounds-per-foot casing using the following:
+, (2)
+ℎwh=ere𝑉𝑉 V/ r𝐶𝐶epresents the volume of additional fluid in barrels and C is the volumetric capacity of the casing. The
+addition of 50 bbls of brine, based on a given casing capacity of 0.03937 bbls per foot, added an additional
+1,270 feet of fluid into the well. Based on the brine density of 10 pounds per gallon, the additional fluid resulted
+in a hydrostatic pressure overbalance, using Equation (1) and a brine fluid gradient of 0.52 psi per foot,a of 661
+psig.
+Rate of Fluid Loss into the Reservoir
+Darcy’s radial inflow calculation is normally used in petroleum engineering to estimate the flow potential into a
+well [37]. Crumpton used the equation to estimate the rate of fluid loss into the reservoir [14, pp. 208-209]. The
+fluid loss rate from the wellbore can be estimated using the following equation [10]:
+(3)
+−3
+7.08 ×10 𝑘𝑘ℎ(𝑃𝑃𝑟𝑟−𝑃𝑃𝑤𝑤𝑤𝑤)
+𝑟𝑟𝑒𝑒
+𝑄𝑄 =
+Table 5 expla𝜇𝜇in𝜇𝜇s [thlen t�er𝑟𝑟m
+𝑤𝑤
+s o�f− th0e .r7ad5ia+l i𝑆𝑆nf]low equation. The value used for the fluid hydrostatic pressure was
+based on the initial bottom hole pressure (820 psig) plus the hydrostatic pressure of the fluid column added. The
+initial added fluid column was 1,270 feet which added 661 psig of fluid head pressure. Thus, the initial
+bottomhole pressure was 1,481 psig (661 psig plus 1,270 psig). The fluid loss rate gradually decreases as fluid is
+lost from the wellbore to the formation. As a simplifying assumption, the height used for the fluid loss
+a
+Fluid gradient in psi per foot is obtained by multiplying the fluid density in ppg by 0.052.
+Page 73
+
+Investigation Report
+calculation was based on the midpoint between the initial added fluid column height, 1,270 feet, or 661 psig, and
+the point where the added fluid is completely lost to the reservoir. The pressure associated with that midpoint is
+330 psig. Therefore, the value used for the fluid hydrostatic pressure in the calculation was 1,150 psig, which is
+820 psig plus 330 psig.
+Table 5. Radial inflow equation explanation of terms.
+Term Explanation Value
+Fluid loss rate, in bbls per hour (bbl/hour) 15-40
+Permeability, in millidarcy (mD) 0.51
+𝑄𝑄
+Net height of the formation, in feet (ft.) NOTE: In this instance, since the 5,357
+𝑘𝑘
+horizontal wellbore was open to the formation, it is appropriate to use the
+total length of the horizontal wellbore.
+ℎ
+Reservoir pressure, in psig 820
+𝑃𝑃𝑟𝑟 Fluid hydrostatic pressure, in psig 1,1502
+𝑃𝑃𝑤𝑤 𝑤𝑤 Fluid viscosity (brine), in centipoise (cP) 0.573
+Formation volume factor (dimensionless) 2.17-5.774
+𝜇𝜇
+Drainage radius, in feet (ft.) 1505
+𝐵𝐵
+𝑟𝑟𝑒𝑒 Wellbore radius, in feet (ft.) 0.2917
+𝑟𝑟𝑤𝑤 Skin factor (dimensionless) 06
+𝑆𝑆
+1 Permeability was estimated based on a typical value for the Austin Chalk [38, p. 6].
+2 This value was obtained by adding the initial reservoir pressure to the hydrostatic pressure of the added brine calculated
+earlier using Eq. (2).
+3 Brine viscosity was obtained from published tabular data, assuming a reservoir temperature of 200°F and use of a single-
+salt (sodium) formate brine [37, p. 5].
+4 Formation volume factor was calculated using the Standing correlation, assuming a range of gas-to-oil ratios from 2100-
+7300, oil specific gravity of 0.80, and gas specific gravity of 0.65 [39, p. 105].
+5 Drainage radius was estimated to 0.65% of original reservoir oil saturation [38, pp. 12-13].
+6 A skin factor of zero assumes ideal pressure drop conditions across the boundary between the wellbore and the reservoir
+[40].
+Page 74
+
+Investigation Report
+Based on the variables listed in Table 5, the CSB calculated an estimated fluid loss rate from the wellbore of 15
+to 40 bbl/hr. Based on these results, a 50 bbl batch load of brine or fresh water would flow into the formation
+within 1.3 to 3.5 hours after placing the fluid in the wellbore. The reservoir temperature of 200°F is likely more
+reflective of conditions at the point where heavier brine fluid is lost to the formation.
+To illustrate the effectiveness of a higher viscosity fluid addition, the CSB also calculated a hypothetical fluid
+loss rate using a polymer with a viscosity of 200 cP. Using the same variables and assumptions, the fluid loss
+rate using a polymer was 0.04 to 0.11 bbls/hr.
+Page 75
+
+Investigation Report
+APPENDIX C—WELL WORKOVER HISTORY
+The CSB reviewed the workover history of the Wendland 1-H well. Records from 34 well workovers since 1993
+were provided to the CSB. During the 34 well workovers, the well routinely relieved gas. Well control events
+were reported as: “well came in,” “heavy gas”, “blowing strong,” “well flowing,” “well started to flow,” etc.
+Most events reference relieving gas. These types of well control events were reported 22 times during the 34
+workovers. Some workovers had multiple reported events.
+The fluid was typically loaded into the wellbore as a single batch, averaging about 50 bbls each time. Based on
+review of the records, the barrier philosophy appeared to be: 1) pumping a single volume of clear fluids as a
+primary barrier and 2) usage of a stabbing valve as the secondary barrier.
+On three 1995 workovers, the fluid was continuously added to the well. During the first two workovers, one in
+April and one in May, continuous fluid addition did not prevent well control events. These records also did not
+contain the flow rate at which fluid was added. During the June 1995 workover, fluid was added continuously at
+rates ranging from 0.75 to 1 bbl per minute. There were no well control events during the June 1995 workover.
+In February 1996, the workover crew pumped 35 bbls of water initially. This fluid addition resulted in gas being
+vented at the surface. The workover crew then pumped 70 bbls of water to stop the gas from coming up, but this
+attempt was unsuccessful. The gas stopped only after the workover crew pumped two more batches of water at
+70 bbls each, using a total of 245 bbls of water during this workover. This workover suggests that pumping
+water into this well may have destabilized the well, resulting in multiple well control events requiring additional
+volumes of fluid to be added.
+Page 76
+
+Investigation Report
+U.S. Chemical Safety and Hazard Investigation Board
+Members of the U.S. Chemical Safety and Hazard Investigation Board:
+Steve Owens
+Chairperson
+Sylvia Johnson, PhD
+Member
+Catherine J.K. Sandoval
+Member
+Page 77

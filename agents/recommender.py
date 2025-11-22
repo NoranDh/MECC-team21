@@ -3,6 +3,8 @@ from agents import Incident, MechanismsOut, RecsOut
 from utils.llm import call_llm
 from utils.prompts import RECS_SYS
 import json
+from dotenv import load_dotenv
+load_dotenv()
 
 def _gaps(case: Incident) -> List[str]:
     must = ["material", "environment", "observed_damage", "time_in_service"]

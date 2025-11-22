@@ -3,6 +3,8 @@ from agents import Incident, SimilarCase, MechanismsOut, Mechanism
 from utils.llm import call_llm
 from utils.prompts import REASONER_SYS
 import json
+from dotenv import load_dotenv
+load_dotenv()
 
 MECH_KEYWORDS = [
     "co2 corrosion","mic","scc","hic","ssc","erosion-corrosion",
@@ -62,7 +64,7 @@ Return JSON only."""
         items = data.get("mechanisms", [])
     except Exception:
         # Safe fallback so the API never crashes
-        items = [{"name": "CO2 corrosion", "confidence": 0.5,
+        items = [{"name": "", "confidence": 0.5,
                   "reasoning": "Fallback response; model returned invalid JSON.",
                   "evidence": []}]
 

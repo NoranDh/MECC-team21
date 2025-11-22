@@ -1,0 +1,2299 @@
+Fatal Equipment Rupture, Explosion, and Fire
+at the KMCO Chemical Facility
+U.S. Chemical Safety and
+Hazard Investigation Board Crosby, Texas | Incident Date: April 2, 2019 | No. 2019-02-I-TX
+Investigation Report
+Published: December 2023
+SAFETY ISSUES:
+• Emergency Response
+• Remote Isolation
+• Hazard Evaluation
+
+Investigation Report
+U.S. Chemical Safety and Hazard Investigation Board
+The mission of the U.S. Chemical Safety and Hazard Investigation Board (CSB) is to
+drive chemical safety excellence through independent investigations to protect
+communities, workers, and the environment.
+The CSB is an independent federal agency charged with investigating, determining, and reporting to
+the public in writing the facts, conditions, and circumstances and the cause or probable cause of any
+accidental chemical release resulting in a fatality, serious injury, or substantial property damages.
+The CSB issues safety recommendations based on data and analysis from investigations and safety studies.
+The CSB advocates for these changes to prevent the likelihood or minimize the consequences of accidental
+chemical releases.
+More information about the CSB and CSB products can be accessed at www.csb.gov or obtained by
+contacting:
+U.S. Chemical Safety and Hazard Investigation Board
+1750 Pennsylvania Ave. NW, Suite 910
+Washington, DC 20006
+(202) 261-7600
+The CSB was created by the Clean Air Act Amendments of 1990, and the CSB was first funded and
+commenced operations in 1998. The CSB is not an enforcement or regulatory body. No part of the
+conclusions, findings, or recommendations of the Board relating to any accidental release or the
+investigation thereof shall be admitted as evidence or used in any action or suit for damages arising out of
+any matter mentioned in such report. 42 U.S.C. § 7412(r)(6)(G).
+Page 2
+
+Investigation Report
+The April 2, 2019, explosion and fire at the KMCO facility in
+Crosby, Texas, fatally injured James Mangum.
+Page 3
+
+Investigation Report
+Table of Contents
+TABLE OF CONTENTS ............................................................................................................................ 4
+ABBREVIATIONS ................................................................................................................................... 6
+EXECUTIVE SUMMARY ......................................................................................................................... 8
+SAFETY ISSUES ......................................................................................................................................................... 9
+CAUSE.................................................................................................................................................................. 10
+RECOMMENDATIONS .............................................................................................................................................. 10
+1 BACKGROUND ............................................................................................................................. 11
+KMCO ..................................................................................................................................................... 11
+KMCO BANKRUPTCY .................................................................................................................................. 12
+ISOBUTYLENE ............................................................................................................................................. 13
+ISOBUTYLENE SYSTEM ................................................................................................................................. 13
+SHIFT OPERATIONS STAFFING ....................................................................................................................... 16
+CONTROL ROOM(S) .................................................................................................................................... 17
+ALTIVIA OXIDE CHEMICALS .......................................................................................................................... 19
+SURROUNDING AREA DEMOGRAPHICS ........................................................................................................... 20
+2 INCIDENT DESCRIPTION .............................................................................................................. 22
+SULFURIZED ISOBUTYLENE OPERATION ........................................................................................................... 22
+ISOBUTYLENE RELEASE ................................................................................................................................ 22
+OPERATIONS RESPONSE AND THE EXPLOSION .................................................................................................. 23
+EMERGENCY NOTIFICATION AND EVACUATION ................................................................................................ 25
+EMERGENCY RESPONSE ............................................................................................................................... 27
+R2 BUILDING ............................................................................................................................................. 29
+CONSEQUENCES......................................................................................................................................... 32
+3 TECHNICAL ANALYSIS .................................................................................................................. 33
+THE Y-STRAINER ........................................................................................................................................ 33
+METALLURGICAL EVALUATION OF THE Y-STRAINER .......................................................................................... 36
+3.2.1 Cast Iron is a Brittle Material ................................................................................................................................... 37
+3.2.2 Liquid Thermal Expansion ........................................................................................................................................ 39
+ISOBUTYLENE RELEASE ................................................................................................................................ 40
+IGNITION SOURCE ...................................................................................................................................... 40
+FEDERAL SAFETY REGULATIONS .................................................................................................................... 41
+3.5.1 OSHA Process Safety Management Standard ......................................................................................................... 42
+3.5.2 KMCO’s Process Safety Management Program ...................................................................................................... 42
+3.5.3 OSHA Enforcement Actions ...................................................................................................................................... 43
+3.5.4 EPA Risk Management Program Rule ..................................................................................................................... 44
+4 SAFETY ISSUES ............................................................................................................................ 46
+Page 4
+
+Investigation Report
+EMERGENCY RESPONSE ............................................................................................................................... 46
+4.1.1 Emergency Response Plan ....................................................................................................................................... 46
+4.1.2 Facility Alarm System ............................................................................................................................................... 47
+4.1.3 Response to the Isobutylene Release ...................................................................................................................... 50
+REMOTE ISOLATION .................................................................................................................................... 55
+4.2.1 Health and Safety Executive (HSE) Safety Guidance ............................................................................................... 56
+4.2.2 American Petroleum Institute (API) Safety Guidance ............................................................................................. 57
+4.2.3 CCPS Safety Guidance .............................................................................................................................................. 57
+4.2.4 2010 Insurance Recommendation ........................................................................................................................... 59
+HAZARD EVALUATION ................................................................................................................................. 61
+4.3.1 2014 PHA .................................................................................................................................................................. 61
+4.3.2 2015 PHA .................................................................................................................................................................. 62
+4.3.3 Isobutylene System MOC and PSSR ......................................................................................................................... 62
+4.3.4 Y-Strainer Cracked in 2015 ....................................................................................................................................... 63
+4.3.5 2018 PHA .................................................................................................................................................................. 64
+4.3.6 KMCO’s Hazard Evaluations .................................................................................................................................... 64
+5 CONCLUSIONS ............................................................................................................................ 67
+FINDINGS .................................................................................................................................................. 67
+CAUSE ...................................................................................................................................................... 69
+6 RECOMMENDATIONS .................................................................................................................. 70
+7 KEY LESSONS ............................................................................................................................... 71
+8 REFERENCES ............................................................................................................................... 72
+APPENDIX A: SIMPLIFIED CAUSAL ANALYSIS........................................................................................ 76
+APPENDIX B: TIMELINE OF KEY EVENTS .............................................................................................. 77
+APPENDIX C: SURROUNDING AREA DEMOGRAPHICS .......................................................................... 78
+Page 5
+
+Investigation Report
+Abbreviations
+°F degrees Fahrenheit
+API American Petroleum Institute
+ASME American Society of Mechanical Engineers
+ASTM American Society of Testing and Materials
+CCPS Center for Chemical Process Safety
+CSB U.S. Chemical Safety and Hazard Investigation Board
+EBV Emergency Block Valve
+EIV Emergency Isolation Valve
+EOC Emergency Operations Center
+EPA Environmental Protection Agency
+ERP Emergency Response Plan
+ERT Emergency Response Team
+ESDV Emergency Shutdown Valve
+FNPT Female National Pipe Thread
+HAZAN Hazard Analysis
+HAZMAT Hazardous Materials
+HAZOP Hazard and Operability study
+HAZWOPER Hazardous Waste Operations and Emergency Response
+HSE Health and Safety Executive
+IChemE Institution of Chemical Engineers
+ICI Imperial Chemical Industries
+LLC Limited Liability Company
+LPG Liquefied Petroleum Gas
+MOC Management of Change
+NFPA National Fire Protection Association
+OSHA Occupational Safety and Health Administration
+PHA Process Hazard Analysis
+P&ID Piping and Instrumentation Diagram
+PPE Personal Protective Equipment
+Page 6
+
+Investigation Report
+psig pounds per square inch (gauge)
+PSM Process Safety Management
+PSSR Pre-Startup Safety Review
+PTFE Polytetrafluoroethylene
+RBV Remotely Operated Block Valve
+RMP Risk Management Program
+ROEIV Remotely Operated Emergency Isolation Valve
+ROSOV Remotely Operated Shutoff Valve
+SCBA Self-Contained Breathing Apparatus
+Page 7
+
+Investigation Report
+Executive Summary
+On Tuesday, April 2, 2019, at 10:51 a.m., a flammable isobutylene vapor cloud exploded at the KMCO, LLC
+(“KMCO” pronounced “chem-co”) facility in Crosby, Texas. The event fatally injured one KMCO employee
+and seriously injured two others. At least 28 other workers were injured, including five KMCO employees and
+23 contract workers. On the day of the incident, more than 200 people were onsite, including KMCO
+employees, contract workers, and visitors. At approximately 11:00 a.m., local authorities issued a shelter-in-
+place order to residents within a 1-mile radius that was lifted over four hours later at approximately 3:15 p.m.
+The incident occurred while KMCO operations staff were making a batch of sulfurized isobutylene, a
+lubrication additive product.a At 10:41 a.m., a fist-sized piece of metal broke away from the body of a 3-inch
+cast iron y-strainer in the batch reactor’s liquid isobutylene supply piping. The field operator (who was a trainee
+at the time) was walking nearby and immediately stopped after hearing the loud noise created when the y-
+strainer broke. After a brief communication with a contract insulator who was exiting the area, the field operator
+contacted his board operator, beginning a series of urgent communications and quick actions by KMCO’s
+operators and operations supervisors to stop the flammable isobutylene release, move other workers away from
+the danger, and prevent the vapor cloud from igniting.
+KMCO’s operations staff succeeded in moving other workers out of the immediate area and preventing vehicle
+traffic from approaching the flammable vapor cloud. Operations team members entered the release area and
+manually closed valves. This stopped the flow of isobutylene, but more than 10,000 pounds had already been
+released. The operations team members also opened other valves, allowing firewater to spray throughout the
+batch reactor area.
+These actions were mostly complete when the isobutylene vapor cloud suddenly exploded while two operators
+were still within the vapor cloud, and a shift supervisor was near it. The explosion fatally injured one of the
+operators; the other operator and the shift supervisor suffered serious burn injuries.
+Portions of the KMCO facility were substantially damaged from the explosion and subsequent fires. News
+outlets reported that the explosion shook nearby homes and was heard throughout the surrounding community.b
+KMCO filed for Chapter 7 Bankruptcy (liquidation) in May 2020, and the facility was sold to Altivia Oxide
+Chemicals, LLC (“Altivia”). In July 2020, Altivia informed the CSB that it planned to dismantle KMCO’s
+sulfurized isobutylene equipment involved in the incident as part of the company’s efforts to install and operate
+new oxide reaction equipment at the Crosby, Texas, facility.
+a KMCO’s sulfurized isobutylene process described in this report was covered by OSHA’s Process Safety Management (PSM) standard
+and the EPA’s Risk Management Program (RMP) rule.
+b See ABC News: Deadly Chemical Explosion [93, 9], and KHOU 11 News: Residents Heard, Felt Deadly Crosby Plant Explosion From
+Miles Away [94].
+Page 8
+
+Investigation Report
+Safety Issues
+The CSB’s investigation identified the safety issues below.
+1. Emergency Response. KMCO’s emergency response procedures and training did not properly limit the
+role of its operators during the emergency response. KMCO’s plant culture relied on unit operators taking
+quick actions to stop a release before the site’s emergency response team assembled. KMCO could have
+reduced the severity of the April 2, 2019, event by establishing clear policies and training its workforce not
+to put themselves in danger to urgently stop a chemical release. The Occupational Safety and Health
+Administration’s (OSHA) Hazardous Waste Operations and Emergency Response standard, more
+commonly referred to as HAZWOPER, provides the minimum requirements for emergency response
+operations involving hazardous materials, such as isobutylene. Effective emergency response operations
+prioritize life safety. Emergency response procedures and training should clearly communicate which
+incidents plant operators should respond to and which should be handled by a more qualified emergency
+response team. (See Section 4.1)
+2. Remote Isolation. When the y-strainer ruptured, KMCO’s workers lacked the safety equipment they
+needed to stop (isolate) the isobutylene release from a safe location, such as from within the blast-resistant
+control room. For example, had KMCO workers been able to close the actuated block valve installed just
+upstream of the y-strainer from the control room, the amount of isobutylene released and the subsequent
+harm to workers could have been greatly reduced. Industry knowledge about the need to provide workers
+with the capability to remotely isolate a major leak from a safe location dates back to at least 1969—50
+years before the isobutylene vapor cloud explosion at KMCO. In fact, KMCO had an existing
+recommendation from a 2010 report developed for insurance underwriting purposes that called for
+providing remote isolation equipment for certain flammable liquid systems, including isobutylene.
+Although KMCO had installed remote isolation equipment for some of these systems, the company had not
+yet addressed this recommendation for its isobutylene system. (See Section 4.2)
+3. Hazard Evaluation. Hazard evaluation is one of the most important elements of a process safety
+management program. KMCO’s hazard evaluations consistently overlooked or misunderstood that its y-
+strainer was made from cast iron, a brittle material that existing industry standards and good practice
+guidance documents either prohibit or warn against using in hazardous applications, such as KMCO’s
+isobutylene system. In addition, none of KMCO’s hazard evaluations identified the potential for liquid
+thermal expansion or other possible scenarios to develop high-pressure conditions within the piping system
+that included the y-strainer. As a result, unlike other portions of KMCO’s isobutylene piping, this piping
+section was not equipped with a pressure-relief device or otherwise protected from potential high-pressure
+conditions. (See Section 4.3)
+Page 9
+
+Investigation Report
+Cause
+The CSB determined that the cause of the isobutylene release was a brittle overload fracture of the cast iron y-
+strainer driven by internal pressure. The y-strainer was installed in a segment of the isobutylene piping that was
+not protected from the high-pressure conditions that developed within this equipment, most likely from liquid
+thermal expansion. The isobutylene vapor cloud was most likely ignited by electrical equipment within a poorly
+sealed, nearby building.
+KMCO’s hazard evaluation programs, including process hazard analysis, pre-startup safety review, and
+management of change, also contributed to the incident. KMCO’s hazard evaluations consistently overlooked or
+misunderstood that its y-strainer was made from cast iron, a brittle material that existing industry standards and
+good practice guidance documents either prohibit or warn against using in hazardous applications, such as the
+company’s isobutylene system. In addition, none of KMCO’s hazard evaluations identified the potential for
+liquid thermal expansion or other possible scenarios to develop high-pressure conditions within the piping
+system that included the y-strainer. As a result, unlike other portions of KMCO’s isobutylene piping, this piping
+section was not equipped with a pressure-relief device to protect it from potential high-pressure conditions.
+KMCO did not provide safety equipment that its workers could have used to remotely stop (isolate) the
+isobutylene release from a safe location, which contributed to the severity of the incident. Deficiencies in
+KMCO’s emergency response system, including its procedures and training, also contributed to the severity of
+the incident by not effectively distinguishing which events its operators should handle from those incidents that
+the site’s emergency response team must respond to. Because KMCO relied on its unit operators to take quick
+actions to stop chemical releases, workers who were in a safe location moved toward the flammable isobutylene
+vapor cloud, which put them in harm’s way. KMCO could have reduced the severity of the event by establishing
+clear policies and training its workforce to respond to a chemical release without putting themselves in harm’s
+way.
+Recommendations
+Following its April 2, 2019, incident, KMCO filed for bankruptcy, and the company is no longer in business.
+Altivia Oxide Chemicals, LLC (Altivia) purchased the Crosby, Texas, facility in 2020 and informed the CSB
+that the process involved in the incident would be dismantled as part of Altivia’s efforts to install two new oxide
+reactors and start production by the end of 2020. As a result, the CSB is not issuing recommendations with this
+report.
+Nevertheless, the CSB urges Altivia to read this report closely and understand the factors that led to the incident
+at the KMCO facility and the lessons stemming from it. Moreover, if hereafter Altivia reinitiates the process or
+any equipment involved in this incident, the company should ensure that the facts, conditions, and circumstances
+that caused the incident—and contributed to its severity—are not repeated.
+Page 10
+
+Investigation Report
+1 Background
+KMCO
+The KMCO, LLC (“KMCO” pronounced “chem-co”) facility in Crosby, Texas, employed 164 people to
+manufacture specialty chemicals and operate its tolling facilities (Figure 1) [1].a Tolling is an arrangement in
+which a company processes raw materials or semifinished goods for another company.”b KMCO purchased the
+Crosby plant on July 1, 2012, and invested over $50 million in the facility to, among other things, provide new
+equipment and infrastructure, including:c
+• Blast-resistant control room (Reaction Control Room);
+• Facility alarm system;d
+• Isobutylene storage tank and piping;
+• Distributed Control System (“Control System”);
+• Increased process automation;
+• Motor Control Center;
+• Two 350,000-gallon wastewater tanks;
+• Boiler and condensate system;
+• Firewater system;
+• Cooling tower; and
+• Plant air system.
+a Artie McFerrin founded a company that built the plant at the Crosby site in 1975 [96]. In July 2012, the McFerrin family’s company
+(KMCO, LP) sold the plant to KMCO, LLC.
+b The Center for Chemical Process Safety (CCPS) defines tolling as “[p]roviding manufacturing services for a fee by a contractor (the
+toller), to a company issuing (letting) a contract for those services. Tolled services can include, reaction processes, formulation,
+blending, mixing or size reduction, separation, agglomeration, packaging/repackaging, and others or a combination of the above” [86].
+c ORG Chemical Holdings, a private equity firm, was the parent owner of KMCO, LLC. ORG Chemical Holdings also owned the
+KMTEX, LLC (“KMTEX”), which operated a facility in Port Arthur, Texas. KMTEX was sold to Monument Chemical in July 2021
+[78]. Similar to KMCO, KMTEX was a tolling and specialty chemical manufacturing facility.
+d KMCO provided a news update about its new emergency alarm system on January 12, 2017 [87].
+Page 11
+
+Investigation Report
+Figure 1. KMCO Facility in Crosby, Texas.a (Source: KMCO)
+In June 2016, KMCO announced a new leadership team that, among other changes, sought to implement new
+management systems to ensure “safe and compliant operations” [2]. At the time of the April 2, 2019, incident,
+many of KMCO’s key leadership positions were held by people who had less than two years of experience with
+KMCO. These employees were hired to help KMCO improve the site’s management systems, and they were
+responsible for much of the site’s process safety management program. The recently filled positions included the
+vice president of operations, plant manager, safety director, safety manager, emergency response team leader,
+safety technician, maintenance manager, reliability engineer, maintenance engineer, operations manager, and
+operations engineer.
+KMCO Bankruptcy
+The incident on April 2, 2019, interrupted normal business operations at KMCO and resulted in several rounds
+of employee layoffs that gradually decreased the number of employees at the Crosby facility over the next 13
+months. On May 8, 2020, KMCO filed for bankruptcy under Chapter 7 of the U.S. Bankruptcy Code [3]. Under
+Chapter 7 bankruptcy (liquidation), KMCO’s property was sold to provide money to individuals or companies to
+whom KMCO owed money [4]. Court records show that KMCO agreed to sell its chemical manufacturing
+facility in Crosby, Texas, to Altivia Oxide Chemicals, LLC, on the same day that KMCO filed for bankruptcy.
+The bankruptcy court approved the sale on May 26, 2020 [3]. As a result of the April 2, 2019, incident, KMCO
+is no longer in business.
+a Based on the equipment and buildings shown in this photo, this image was likely taken between 2015 and 2016.
+Page 12
+
+Investigation Report
+Isobutylene
+Isobutylene is a highly flammable, colorless gas with a sweet gasoline odor [5].a Under certain (temperature and
+pressure) conditions, isobutylene can be a liquid.b Among other things, isobutylene is used in the production of
+aviation fuel, resins, chemicals, packaging, plastics, and antioxidants for food [5]. Isobutylene is typically
+transported and stored in a liquefied form, and it is among the gases referred to as LPG, or liquefied petroleum
+gas [6].c KMCO received isobutylene shipments as a liquid, stored its isobutylene as a liquid, and fed the
+isobutylene to its batch reaction system as a liquid.
+Isobutylene System
+KMCO used isobutylene as a raw material in its batch reaction process (Figure 3) to manufacture sulfurized
+isobutylene lubrication additive products.d On the day of the incident, this reaction system (“unit”) was
+producing HiTEC® 3315, a lubrication additive.
+The equipment used to produce sulfurized isobutylene at KMCO included an isobutylene storage tanke and a
+batch reactor (Figure 2).f This report uses the term “batch” because KMCO manufactured its sulfurized
+isobutylene products in batches rather than continuously.
+a Isobutylene has a vapor density of 1.94, making it heavier than air. Isobutylene’s lower explosive limit is about 1.8 volume percent, and
+its upper explosive limit is about 9.6 volume percent. The flash point of isobutylene is -105 degrees Fahrenheit (℉) [77].
+b Isobutylene is a gas at atmospheric pressure and typical outdoor air temperatures. Liquefying isobutylene requires increasing the
+pressure, significant cooling, or a combination of increasing pressure and cooling. At atmospheric pressure, isobutylene will be a liquid
+if it is colder than its boiling point of 19.6 ℉ [68]. Liquefying isobutylene at 20 degrees Celsius (68 ℉) requires pressures greater than
+2,560 hectopascal (37.1 pounds per square inch) [95, p. 8]. Liquefying isobutylene requires more pressure at warmer temperatures and
+less pressure at cooler temperatures.
+c Other LPGs include propane, propylene, and butane [92, p. 365].
+d Sulfurized isobutylene is an extreme pressure lubrication additive [84, p. 120].
+e KMCO’s 70,000-gallon isobutylene storage tank was built in 2014, and the tank was commissioned and began operating in 2015. The
+tank was made from SA-516-70 carbon steel, had an inner diameter of 12 feet, and was 80 feet long (seam-to-seam). The tank’s 2:1
+elliptical “heads” add to the overall length. The maximum allowable working pressure was 200 pounds per square inch at 150 ℉. The
+isobutylene storage tank was designed to meet the 2013 edition of the American Society of Mechanical Engineers (ASME) code,
+Section VIII, Division 1.
+f KMCO replaced its isobutylene storage tank and piping system during 2014 and 2015. The primary reason for the new isobutylene
+system was to improve safety. The previous isobutylene storage tank was located within the unit, not far from the batch reactor. Safety
+concerns about transferring isobutylene from trucks to the old isobutylene storage tank, which was near a hot oil heater, were among the
+reasons for installing the new isobutylene storage tank and piping system.
+Page 13
+
+Investigation Report
+Figure 2. Post-Incident Photos of KMCO’s Isobutylene Storage Tank (left) and Batch Reactor System
+(right). (Credit: CSB)
+Figure 3 shows a simplified schematic of KMCO’s isobutylene process used to charge the batch reactor
+periodically with isobutylene to make sulfurized isobutylene.
+Page 14
+
+Investigation Report
+Figure 3. Isobutylene System. This simplified schematic shows the isobutylene system KMCO used to
+supply (charge) its batch reactor. The red circle shows the location of the y-strainer. (Credit: CSB)
+There were two pumps in the isobutylene system: an isobutylene circulation pump and an isobutylene charge
+pump. The pumps were not operated remotely and could only be started or stopped by operators in the field.
+The circulation pump provided a steady supply of isobutylene to help maintain the reliable operation of the
+charge pump. The isobutylene circulation pump circulated isobutylene through more than 1,200 feet of piping
+from the storage tank to the batch reactor area and back to the isobutylene storage tank. The isobutylene charge
+pump was used to charge the batch reactor when the batch reaction procedure called for adding isobutylene. As
+shown in Figure 3, KMCO installed a pressure-relief valve on the charge pump’s outlet piping. This pressure-
+relief valve’s outlet (discharge) was typically routed to the charge pump’s inlet (suction piping). In addition, the
+inlet piping to the isobutylene charge pump included a filtration device commonly called a y-strainer (Figure 4).
+Page 15
+
+Investigation Report
+Figure 4. Y-Strainer (East Side). This post-incident photo shows the top and east sides of the 3-
+inch y-strainer in the inlet piping to the isobutylene charge pump. The orientation of the y-
+strainer was such that the straight-through flow was headed north. (Credit: CSB)
+In addition to manually operated valves, the isobutylene system had several actuated valves. Of these actuated
+valves, board operators working inside the control room could control only the pressure control valve shown in
+Figure 3. The actuated ball valves could only be opened or closed by operators in the field.a
+Shift Operations Staffing
+KMCO used a single shift supervisor to oversee all shift operations activities.b Depending on the type of
+operation or reaction chemistry involved, KMCO strategically split its operations group into two major
+groups—Reaction 1 and Reaction 2.c Reaction 1 included five operational areas, and Reaction 2 included two
+operational areas.
+In the Reaction 2 area, the batch reactor system used to make sulfurized isobutylene was one of several
+operating units assigned to Board Operator 1. Board Operator 2 had a nearly equivalent level of responsibility
+for other operating units. The Reaction 2 area had several field operators to support each of the two board
+a The actuated ball valve on the inlet (suction) piping to the isobutylene circulation pump was equipped with a fusible link. This design
+should allow the valve to automatically close under certain fire conditions [54, p. 97]. The April 2, 2019, incident did not expose this
+valve to fire conditions.
+b Additional managers and supervisors were present to support the other work that occurs during the Monday through Friday day shifts.
+c Not all operations units under “Reactions” involved chemical reactions.
+Page 16
+
+Investigation Report
+operators. One field operator supported the isobutylene system used to charge the sulfurized isobutylene
+reaction system. Board Operator 1 and Board Operator 2 conducted most of their work inside the Reaction
+Control Room, but each board operator also had some field responsibilities. For example, these board operators
+might go outside to help a field operator or verify a proper valve alignment in the field before starting an
+operational activity.
+Control Room(s)
+There were three buildings at KMCO that workers commonly referred to as “control rooms,” but at the time of
+the April 2, 2019, incident, only one was being used as a formal control room (Figure 5).
+Figure 5. Reaction Control Room. KMCO’s blast-resistant control room. (Credit: CSB)
+Following a facility siting study, KMCO built a blast-resistant control room in 2013 to improve safety.a After its
+completion, KMCO relocated the shift supervisor and plant operators from the two previous control rooms—the
+Reaction 1 Control Room and the Reaction 2 Control Room—to the new Reaction Control Room (Figure 6).
+a Both the Baker Panel report and the CSB’s investigation of the 2005 BP America Refinery explosion in Texas City, Texas, discuss the
+importance of using blast-resistant buildings [90, 91].
+Page 17
+
+Investigation Report
+Figure 6. KMCO Control Rooms. This 2019 image of the KMCO facility shows the location of
+the Reaction 1 Control Room (yellow “1”), the Reaction 2 Control Room (yellow “2”), the new
+Reaction Control Room (purple “3”), and the location of the isobutylene release (yellow star).
+(Credit: Google, annotations by CSB)
+KMCO later converted the Reaction 1 Control Room to store personal protective equipment (PPE) and renamed
+this plant building the PPE Room (Figure 7).
+Page 18
+
+Investigation Report
+Figure 7. PPE Room. This photo shows the former Reaction 1 Control Room that KMCO converted
+to store PPE. The construction of the former Reaction 2 Control Room was similar to this building.
+(Credit: CSB)
+KMCO managers stated that the former Reaction 2 Control Room was “essentially an old electrical building”
+with load cells, local process data readouts, and motor control equipment to start or stop some pumps. After
+commissioning the new Reaction Control Room, KMCO renamed the former Reaction 2 Control Room the R-II
+Motor Control building (“R2 Building”). The R2 Building also housed the equipment needed to stop some of the
+equipment for Board Operator 2’s units. A self-contained breathing apparatus (SCBA) was also located in this
+building.
+KMCO planned to relocate useful equipment from the R2 Building into a new motor control centera and then
+demolish the R2 Building. KMCO’s decision to eliminate this building was based on safety concerns with the
+R2 Building’s type of construction and the proximity of this building to reactors, as well as more efficient
+operation. As one manager stated, “That’s a very old method of construction. You find it on chemical plants
+everywhere, and you want to move that out.”
+Altivia Oxide Chemicals
+Altivia Oxide Chemicals, LLC (“Altivia”) announced its purchase of KMCO’s Crosby, Texas, facility on June
+1, 2020 [7]. Altivia informed the CSB that it would not seek to operate the batch reactor and isobutylene system
+involved in the April 2, 2019, incident (Figure 3). Altivia further communicated that the process equipment
+KMCO used to manufacture sulfurized isobutylene lubrication additive products would be dismantled as part of
+Altivia’s efforts to install two new oxide reactors and start production by the end of 2020.b
+a A motor control center is a physical grouping of motor starters in one assembly [69].
+b In addition, Altivia informed the CSB that it did not intend to conduct its own investigation or complete KMCO’s investigation of the
+April 2, 2019, incident. KMCO’s investigation of the incident ended with its bankruptcy filing.
+Page 19
+
+Investigation Report
+Surrounding Area Demographics
+Figure 8 shows the KMCO facility and depicts the surrounding area. The circles are set at one (blue), three
+(orange), and five (yellow) miles from the location of the isobutylene release. Summarized demographic data for
+the five census blocks within a 1-mile vicinity of the KMCO facility are shown below in Table 1. There are
+about 24,000 people residing in about 9,184 housing units. In general, the local population is predominantly
+white, living in single-unit housing, with five percent below the poverty level. Detailed demographic data are
+included in Appendix C.
+Figure 8. Area Surrounding the KMCO Facility. (Credit: Google Earth, annotations by CSB)
+Page 20
+
+Investigation Report
+Table 1. Summarized Demographic Data. (Credit: CSB using data obtained from Census Reporter)
+Persons Number
+Race and Per Capita Below of
+Population Type of Housing Units (%)
+Ethnicity (%) Income ($) Poverty Housing
+Line (%) Units
+White 66 Single Unit 85.9
+Black 5 Multi-Unit 5.5
+Native 1 Mobile Home 8.5
+Asian 1 Boat, RV, Van, etc. 0.1
+23,992 36,483a 5.0 9,184
+Islander 0
+Other 0
+Two+ 2
+Hispanic 24
+a Census Reporter reports that the per capita income for Crosby, Texas, is $27,315 [80]. The Census Bureau reports that the 2022 per
+capita income for the United States is $37,638 [81].
+Page 21
+
+Investigation Report
+2 Incident Description
+Sulfurized Isobutylene Operation
+On the morning of April 2, 2019, KMCO’s operations staff were making a batch of sulfurized isobutylene. Field
+Operator 1 and Board Operator 1 worked together to complete the isobutylene charge to the batch reactor that
+KMCO’s night shift operators had started. After completing the isobutylene charge, Field Operator 1 closed
+several valves on the isobutylene charge pump outlet (discharge) piping to the batch reactor. Control system
+data showed that the isobutylene charge was completed at 6:25 a.m.a, b
+Isobutylene Release
+Later that morning, Board Operator 1 and Board Operator 2 were working in the Reaction Control Room.
+Surveillance video showed that the weather was calm and mostly clear, generally unfavorable for dispersing a
+gas release (Figure 9).c Shortly before 10:41 a.m.,d Field Operator 1 (who was a trainee at the time) was
+walking by the sulfurized isobutylene batch reactor when he heard a loud “pop” sound followed by a loud
+whooshing noise similar to “an air hose coming off.” Field Operator 1 told CSB investigators that a y-strainer
+failed. He described the isobutylene release as “coming out quick.” A contract worker insulating tubing near the
+reactor heard the loud sound when the “line blew,” saw the vapor pouring into the area, and ran out of the unit.
+She described the vapor as chest-high and growing larger, flowing down the adjacent road. The contract worker
+saw Field Operator 1, told him that she did not know what had happened, and then evacuated from the area.
+a A scrubber pump needed repair, and KMCO suspended the sulfurized isobutylene batch until that maintenance work was completed.
+While waiting for the maintenance on the scrubber pump, Field Operator 1 performed other tasks, such as helping a coworker connect a
+railcar for a different process.
+b This report uses KMCO’s control system data as the basis for time. The CSB’s factual update for the KMCO incident used surveillance
+video as the basis for time. Based on the time of the explosion, the CSB estimates that 67 seconds need to be added to surveillance
+video time to match control system time. See the Timeline of Key Events (Appendix B) for more precise time stamps of certain events.
+c KMCO did not have weather station equipment to monitor or record weather conditions. Weather conditions are available for the
+George Bush Intercontinental Airport, a straight-line distance of about 19 miles from KMCO. Five consecutive hourly weather records,
+from 5:53 a.m. through 9:53 a.m., show calm winds at the airport, with temperatures rising from 38 to 54 ℉ [72]. The 10:53 a.m. airport
+weather data shows a temperature of 59 ℉, variable wind direction, and a wind speed of three miles per hour [72]. The National
+Weather Service defines variable wind the same way as variable wind direction. Variable wind means that the wind direction fluctuates
+by 60 degrees or more during the 2-minute evaluation period and the wind speed is greater than six knots (6.9 miles per hour), or the
+wind direction is variable, and the wind speed is less than six knots [71].
+d KMCO control system data for the flow meter on the isobutylene circulation pump (Figure 3) shows a significant increase in
+isobutylene flow shortly before 10:41 a.m., consistent with a hole developing in the y-strainer, releasing isobutylene to the atmosphere.
+Page 22
+
+Investigation Report
+Figure 9. Surveillance Video Images Showing the Time of Incident Weather Conditions at KMCO. The
+yellow circle (left) shows a windsock under calm wind conditions. (Credit: KMCO, annotation by CSB)
+Field Operator 1 saw a white cloud of vapor hovering near the ground with three to four feet of a wavy, hazy
+vapor above it that looked “like a water mirage over hot pavement” or “like if you’re filling up a gas tank and
+you see the fumes coming out.”
+Operations Response and the Explosion
+Since Field Operator 1 had only been with KMCO for about six months, he was not sure what material was
+being released; so he called Board Operator 1 to come out to the unit to help assess the situation. Field Operator
+1 met Board Operator 1 about halfway between the Reaction Control Room and the batch reactor. Board
+Operator 1 identified the leak as isobutylene and, using the all-calla feature on Field Operator 1’s radio, which
+allowed simultaneous communication on all the KMCO radio channels, announced: “Attention KMCO,
+evacuate the reaction area.” Based on KMCO’s surveillance video, which shows key people suddenly acting
+with concern and purpose, this radio call to evacuate the reaction area took place shortly after 10:45 a.m.
+Field Operator 1 and Board Operator 1 then retreated to the Reaction Control Room. Board Operator 1 put an
+SCBA on for respiratory protection, took a radio from Field Operator 1, and headed back to the unit. Soon after
+10:46 a.m., the isobutylene release stopped after Board Operator 1 closed a manual isolation valve in the unit.b
+Field Operator 1 then teamed up with a senior field operator to turn on firewater monitors, instruct people using
+motorized equipment to shut the equipment down and evacuate, and close vehicle gates to prevent workers from
+driving into the flammable vapor cloud.
+At 10:46 a.m., KMCO’s Shift Supervisor was attending a meeting in the administration building, which was
+located about 300 feet from where the release had occurred.c The Shift Supervisor heard the radio call from
+Board Operator 1 about the isobutylene release, immediately left the meeting, and headed toward the sulfurized
+isobutylene unit. Approaching the unit, the Shift Supervisor described seeing “a two-foot river” of isobutylene
+a An all-call is a call from an individual radio to every radio on the channel and multiple talk groups. It is often used to make important
+announcements [70, p. 14].
+b KMCO control system data shows the isobutylene flow started decreasing at 10:46:13 a.m. and stopped at 10:46:23 a.m. Due to the
+nature and extent of Board Operator 1’s injuries, the CSB was not able to interview Board Operator 1. Based on his experience and
+other actions he performed, the CSB concluded that Board Operator 1 was most likely the person who closed the isolation valve to stop
+the isobutylene release.
+c At the time that the y-strainer ruptured, the Shift Supervisor was attending a meeting to discuss the findings of recent incident
+investigations at the facility and determine whether effective corrective actions were being developed.
+Page 23
+
+Investigation Report
+vapor “going all the way down the road.”a Upon seeing the magnitude of the release, the Shift Supervisor used
+the all-call feature on his radio to order an evacuation of the plant at about 10:47 a.m. At about this time, the
+Shift Supervisor saw that Board Operator 1 and Board Operator 2 were responding to the isobutylene release
+and wearing SCBAs.
+The Shift Supervisor turned on a nearby firewater monitor to direct water spray over a portion of the isobutylene
+vapor cloud, went into the boiler house, shut down the boiler, and told other workers in the area to evacuate. The
+Shift Supervisor recalled seeing Board Operator 1 and Board Operator 2 turning firewater monitors on and
+activating water deluge systems in their respective units. The Shift Supervisor said that Board Operator 1 had
+also manually closed valves to stop the isobutylene release. The Shift Supervisor then went to another nearby
+firewater monitor and turned it on. After turning on this last firewater monitor, the Shift Supervisor turned to
+leave the area, and the explosion occurred. KMCO surveillance cameras visibly shook after 10:51 a.m.,
+capturing the time of the explosion. The explosion lifted the Shift Supervisor off the ground. Upon landing, the
+Shift Supervisor was surrounded by flames and suffered serious burns. When the flames receded, the Shift
+Supervisor was able to get up and walk to the plant gate, where another KMCO supervisor helped him get
+medical attention for his burn injuries.
+A KMCO manager, who had gone toward the unit following Board Operator 1’s radio call at 10:46 a.m.,
+witnessed Board Operator 1 completing some activity near the batch reactor. The manager could not tell
+whether Board Operator 1 was in the vapor cloud, but the isobutylene vapor cloud was between them. The
+manager described the vapor cloud as being “knee to … waist-high” and added that “it was rolling.” “Not
+rolling as moving forward but rolling within itself … .” The manager described what happened next. He said:
+So, when I saw [the vapor cloud] … I yelled at [Board Operator 1], motioning him to
+come on, it’s time to come out. I was about 20 yards away, equipment stuff going on,
+don’t know whether he heard me or not. But it appeared to me at that time that for
+whatever [reason], if he heard me or not, that he was headed toward me in my direction.
+As Board Operator 1 began exiting the unit, he was walking through the vapor cloud when it suddenly ignited,
+and Board Operator 1 was engulfed in a “ball of fire.” When the flames subsided, the manager helped Board
+Operator 1 exit the plant and get medical attention for his burn injuries.
+The initial response to the emergency was handled by KMCO’s operators and operations management. These
+activities included manually closing valves to stop (isolate) the isobutylene leak, activating firewater deluge
+systems, ordering a plant-wide evacuation, turning off equipment, closing vehicle gates, instructing people using
+motorized equipment to shut the equipment down and evacuate, and assisting the injured out of the plant to get
+medical attention. The first member of KMCO’s emergency response team (ERT) to put on their protective
+equipment and head toward the unit did so at about 10:54 a.m., about three minutes after the explosion.
+a The Shift Supervisor wore the normal plant-required personal protective equipment, including flame-resistant clothing, safety glasses, a
+hard hat, and safety shoes.
+Page 24
+
+Investigation Report
+Emergency Notification and Evacuation
+After evacuating from the batch reactor area, the contract worker who was insulating tubing in the area where
+the isobutylene release occurred warned her coworker about the emergency, hurried to her car, and drove away
+from the plant. She drove about three miles and stopped near a local restaurant to call her company. She
+described hearing the explosion at KMCO as she was exiting her vehicle.
+On the day of the incident, more than 200 KMCO employees, contract workers, and visitors were onsite. KMCO
+had a plant alarm system that, among other purposes, was supposed to ensure all workers could be notified of
+emergency situations. But KMCO never activated its plant alarm system during the isobutylene release,
+explosion, or subsequent fires. Instead, KMCO relied on its plant radio system to make emergency notifications.
+At KMCO, most employees carried a radio. For contractors, it was typical to have the foreman carry a radio. For
+a team of contract workers, one member of the team would normally have a radio. But not all workers at the site
+carried a radio or were with someone carrying a radio. As a result, some workers did not receive the emergency
+notification radio message to evacuate from the plant.
+While discussing which workers carried a radio, one contractor supervisor explained the normal practice and
+what he experienced on the day of the incident:
+I require all my teams to go out as teams, all my people to go out as teams of at least two.
+And each team is required to have a radio.
+I heard a call over the radio. “Evacuate the reaction area.” With a definite sense of
+urgency in their voice. Then seconds later, “Turn off the fans. Turn off the fans.” Seconds
+later. Then they called for ERT. “We need ERT immediately.”
+So, from that point, immediately after that, I jumped up out of my desk [chair], left the
+office, went outside, and made a call on the radio, saying, … “All [name of contractor]
+employees quickly but safely, please make your way back ... to the warehouse,” you
+know. So I could get accountability for everybody that was here.
+Shortly after that, … most everybody was in the warehouse at that point. So I could see
+that people were here.
+We got almost to the [motor control center] building here, and that’s when I saw the fire
+suppression system and knew that this was a serious ... this was a serious something.
+Something was really bad wrong. A, they’ve never called an evacuation while we were
+here before. And, B, with the fire suppression going on in the reaction area, that was bad.
+That was not going to be good. Seconds later was the first explosion.
+I ran back to my office grabbed my keys and my clipboard with my sign-in sheet. I also
+have everyone that comes to work for me, subs, and engineers and … my field hands,
+they all sign in on a sign-in sheet. That way, I have accountability for them every day.
+That was my saving grace that morning. So I grabbed it, and I headed out as well. ... I
+was the last one out. Made sure everyone else was out, and then I left. I met them over at
+Page 25
+
+Investigation Report
+the ... Everyone was over behind ... the [Emergency Response Team] building. So I got
+a headcount. And not only did I get a headcount, but I checked off the names as I saw
+them. I physically saw you, made you speak to me, and then I signed their names off.
+But hearing the call on the plant radio system was not the signal all the contract workers relied upon to evacuate.
+A contract insulator, working in a different contractor’s crew with two other workers, was walking toward a job
+site when his foreman suddenly stopped. The insulator described his experience, saying:
+The foreman had a weird look on his face, looking towards the distance. And he was
+telling us to, you know, ‘come here,’ you know, ‘Do you see what I see?’ And we all
+went towards him, and we saw, towards the distance, the … the disorientation of the …
+of the air.
+And nobody told us anything. Nobody told us on the radio what … if anything was going
+on. But if it wasn’t for him [the foreman], we wouldn’t have known. So that’s when we
+just took our own advice and said, this is a leak, you know, we should just walk out.
+Anybody that we see, we tell them to walk out.
+And there are two operators close to the leak, by the way. But they were discussing
+between themselves, as if they were in shock as well, but didn’t know how to react to it
+[…].
+And as we got to the gate … it was locked. … And right then and there we saw [the
+explosion] … like a big ball of fire. And you could just feel the pressure hit you. And
+that’s when everybody panicked, really. So everybody started running. I just followed the
+crowd. And I don’t know what they were going to do at the gate, but they decided to pick
+it up (Figure 10). And I was one of the first ones to go and squeeze under there. I don’t
+even know how I managed to, but … you know, thank God that I … that I did. And, yeah,
+after that, we just walked away as far as we could to get away from the … the explosion.
+Page 26
+
+Investigation Report
+Figure 10. Evacuation Under Plant Fencing. This surveillance camera image shows workers
+helping other workers to exit under plant fencing about 36 seconds after the explosion.a
+(Credit: KMCO)
+Emergency Response
+Emergency responders to the incident included KMCO’s Emergency Response Team, the Crosby Volunteer Fire
+Department (Figure 11), Mutual Aid Mont Belvieu, and responders from Harris County. Harris County
+responders included the Sheriff’s Office and the Harris County Fire Marshal’s Office. KMCO also brought in
+U.S. Fire Pump to help with the firefighting. The incident triggered a shelter-in-place order for community
+members within a 1-mile radius [8].b
+a According to KMCO’s evacuation plan, this gate was not intended to be an entrance or exit for workers. KMCO periodically unlocked
+and opened this gate to allow heavy equipment to enter or exit. At the time of the incident, this gate was in its usual position, closed and
+locked for site security. Only one of KMCO’s four rally points was outside the plant fence line.
+b Officials lifted the shelter-in-place at 3:15 p.m., more than four hours after the explosion.
+Page 27
+
+Investigation Report
+Figure 11. Emergency Response. This image from a KMCO surveillance camera shows
+a fire truck entering the facility at about 11:28 a.m. (Credit: KMCO)
+Emergency responders transported Board Operator 1 and the Shift Supervisor by helicopter to a hospital in
+Houston to get medical treatment for the serious burn injuries they suffered (Figure 12).
+Figure 12. Life Flight Helicopter. One of the two helicopters that responded to the
+incident to transport injured workers. (Credit: ABC [9])
+KMCO conducted a headcount of its employees, contractors, and visitors and found that one KMCO employee,
+Board Operator 2, was missing. Emergency responders found Board Operator 2 deceased under debris near the
+entrance to the R2 Building. During an emergency shutdown, one of Board Operator 2’s responsibilities
+included shutting down pumps, which required accessing electrical equipment located inside the R2 Building.
+Page 28
+
+Investigation Report
+Other than shutting that equipment off, Board Operator 2 may have been entering the R2 Building to make sure
+no one was in there. At 12:07 p.m., medical responders evaluated Board Operator 2 and did not try to resuscitate
+him. The Harris County Institute of Forensic Sciences autopsy report shows that Board Operator 2 died from
+“sharp force injuries of the right upper extremity with transection of the right brachial artery and vein” resulting
+from an “accident” [10].
+R2 Building
+One of the responders described what the R2 Building looked like right after the incident, saying, “Shrapnel. …
+There was nothing left of it. Wires, there was nothing there. There wasn’t a building there anymore” (Figure 13,
+Figure 14, and Figure 15).
+Page 29
+
+Investigation Report
+Figure 13. R2 Building (North Side). This post-incident photo shows the path KMCO workers
+commonly took to enter the R2 Building. With process units on the left and right, this walkway
+led to the entrance on the north side of the R2 Building, where emergency responders found
+Board Operator 2. (Credit: CSB)
+Figure 14. R2 Building (South Side). This post-incident photo shows the south side of the R2
+Building. (Credit: CSB)
+Page 30
+
+Investigation Report
+Figure 15. R2 Building (Top View). This photo, taken from the top of adjacent equipment, shows
+the post-incident condition of the R2 Building. (Credit: CSB)
+Page 31
+
+Investigation Report
+Consequences
+The explosion fatally injured Board Operator 2. Board Operator 1 and the Shift Supervisor suffered serious burn
+injuries that resulted in inpatient hospitalization. The incident injured at least 28 other workers—five KMCO
+employeesa and 23 contract workers [11, 12, 13, 14, 15]. A shelter-in-place was issued to community members
+within one mile of the KMCO facility.
+a In addition to Board Operator 2 being fatally injured, KMCO records show seven employee injuries resulting from the incident. Board
+Operator 1 and the Shift Supervisor sustained second- and third-degree burn injuries all over their bodies; one employee suffered from a
+blood clot, one employee experienced a lower back strain, and three employees developed respiratory issues.
+Page 32
+
+Investigation Report
+3 Technical Analysis
+A timeline of key events is provided in Appendix B.
+The Y-Strainer
+KMCO installed a filtration strainer (y-strainer) on the inlet (suction) piping to the isobutylene charge pump. A
+typical application for a y-strainer is to remove solid particles from a liquid stream (Figure 16). The 3-inch y-
+strainer had threaded ends, and KMCO added flange-to-threaded connections to allow the y-strainer to connect
+to the isobutylene piping flanges (Figure 4).
+Figure 16. Generic Y-Strainer. This graphic shows a generic depiction of a typical y-strainer
+application—used to remove solid particles from a liquid stream. (Credit: Warden [16])
+The CSB never found a documented reason for KMCO’s installation of this y-strainer. In an interview with one
+of the engineers who worked on the isobutylene project that replaced the isobutylene storage and piping system
+during 2014 and 2015, the CSB learned that filtration was a significant concern during the early phases of the
+project when KMCO planned to use carbon steel piping, because the type of pump the team was planning to use
+had experienced reliability problems in other applications with small rust or sediment particles damaging certain
+elastomer components within the pump. To address this concern, the KMCO project team had considered using
+a bag filter to protect the pump, but the importance of filtration was considered to be much lower after the
+project team decided to use stainless steel piping. The team upgraded the piping to stainless steel to provide a
+Page 33
+
+Investigation Report
+better long-term solution for the pump reliability issues experienced in other KMCO applications. The engineer
+explained how he thought the cast iron y-strainer got installed:
+I do remember that the strainer or a filter was always on the project. And I remember
+once I got the stainless [piping] that the need [for] that strainer all of a sudden went from
+way up here to way down there. So probably what I kind of remember […] thinking,
+okay, what do we use? And I’m almost sure that that’s probably where that [strainer]
+came from. You know […] we used it in other places in the plant. I believe they even said
+it came out of spare parts. You know, they just went out there, pulled something off the
+[warehouse] shelf, you know, and [installed it]. […] We probably had that [strainer model
+in] other places in the plant. And that’s how it came about.
+With the upgrade to stainless steel piping, the importance of the strainer as a filtration device did appear to be
+low. KMCO workers did not recall ever needing to clean accumulated debris from the y-strainer. For example,
+when asked if the strainer had ever plugged or needed to be cleaned, one supervisor said, “The only time they’ve
+ever touched that strainer is when it was leaking.”
+Post-incident, the source of the isobutylene release was identified as the 3-inch y-strainer on the inlet (suction)
+piping to the isobutylene charge pump. The y-strainer was found with a hole, which was roughly 3 inches by 5.5
+inches, on its west side (Figure 17). Field Operator 1 confirmed that the location of this hole was consistent
+with where he saw the isobutylene escaping.
+Figure 17. Y-Strainer. This photo shows the west side of the failed y-strainer involved in
+the April 2, 2019, incident. (Credit: CSB)
+The metal fragment that broke away from the y-strainer was found on the ground, near the sulfurized
+isobutylene reactor and to the west of the y-strainer (Figure 18).
+Page 34
+
+Investigation Report
+Figure 18. Y-Strainer Piece. This photo shows the single piece that broke away from
+the failed y-strainer. (Credit: CSB)
+The y-strainer involved in the incident was the same make and model as the standard 3-inch gray iron y-strainer
+that KMCO stocked in its warehouse. Using the KMCO warehouse inventory information, the CSB purchased
+an exemplar y-strainer for $171 that was the same make and model as the incident y-strainer (Figure 19). The
+CSB used this exemplar y-strainer in the metallurgical testing that determined why the incident y-strainer failed.
+Page 35
+
+Investigation Report
+Figure 19. Exemplar Y-Strainer. The CSB purchased an exemplar y-strainer (left) using the inventory
+information available in KMCO’s warehouse. The image on the right shows the y-strainer involved in the
+incident. (Credit: CSB)
+The supplier’s technical specifications (Figure 20) confirmed that the exemplar y-strainer had a gray irona (cast
+iron) body with an internal stainless-steel strainer. Gray iron is a type of cast iron [17].
+Figure 20. Y-Strainer Technical Specifications. (Credit: [18])
+Metallurgical Evaluation of the Y-Strainer
+Metallurgical testing commissioned by the CSB determined that the cast iron y-strainer rupture resulted from a
+brittle overload fracture driven by internal pressure. Brittle overload failures can be catastrophic in that there
+may be no warning signs before the final fracture. Brittle failures often contain multiple cracks and separated
+pieces, which is consistent with how the KMCO y-strainer failed [19, p. 369]. Based on the results from the
+metallurgical testing of the incident and exemplar y-strainers, the CSB concludes that the cast iron y-strainer
+a The technical specifications show that the y-strainer was manufactured to ASTM A126 Class B [18]. ASTM 126 is a “Standard
+Specification for Gray Iron Castings for Valves, Flanges, and Pipe Fittings” [76]. ASTM 126 covers three classes (A, B, and C) “for
+castings intended for use as valve pressure retaining parts, pipe fittings, and flanges” [76].
+Page 36
+
+Investigation Report
+that catastrophically failed on April 2, 2019, ruptured from a brittle overload fracture driven by internal
+pressure.
+3.2.1 Cast Iron is a Brittle Material
+As an equipment design philosophy, it is often desirable for equipment to leak before it breaks (“leak-before-
+break”). Among other things, a leak-before-break approach strives to provide the opportunity to discover a
+smaller leak and then take corrective action before a fracture can occur, which would likely result in a larger
+release [20]. Material that exhibits ductile failure typically experiences significant stretching before separation
+(breaking) occurs. As a result, equipment made using a ductile material may provide a warning before breaking,
+such as by bulging, stretching, or leaking [21, p. 92]. Brittle materials typically do not provide such a warning
+before they fracture [22, p. 56]. As a result, constructing equipment from a ductile material (such as stainless
+steel) rather than a brittle material (cast iron, for example) is typically in alignment with the leak-before-break
+design philosophy [19, p. 55].
+Cast iron is widely recognized as a brittle material. As a result, numerous publications that provide good
+practice safety guidance either prohibit or warn against using cast iron equipment in certain hazardous
+applications, including flammable hydrocarbons such as isobutylene. These publications include:
+NFPA 58, Liquefied Petroleum Gas Code (Industry Standard):
+“Cast iron shall not be used as the material of construction for strainers…” [23, p. 27].
+API Recommended Practice 574: Inspection Practices for Piping System Components (Industry Standard):
+“Cast iron piping is generally used for nonhazardous service, such as water; it is generally not
+recommended for pressurized hydrocarbon service because of its brittle nature” [24, p. 8].
+API Standard 2510: Design and Construction of LPG Installations (Industry Standard):
+“Low-ductility material such as cast iron, semisteel, malleable iron, and cast aluminum shall not be used
+in any pressure-retaining accessory parts” [25, p. 19].
+Albright’s Chemical Engineering Handbook (Book):
+“Because of its brittleness, cast iron is normally not permitted for hydrocarbon streams” [26, p. 1552].
+BP Process Safety Series: Safe Handling of Light Ends (Book):
+“Cast iron should not be used for equipment parts containing light ends [methane to pentane] under
+pressure. Cast iron is very brittle and is easily broken …” [27, p. 46].
+Chemical Process Safety: Learning from Case Histories (Book):
+“Cast iron is undesirable (and prohibited by certain flammable liquid codes) because a brittle fracture
+can lead to a massive leak” [28, p. 286].
+Corrosion Control in Petroleum Production (Book):
+“The cast irons as a family have very low ductility as compared to steels, and the strength is generally
+lower than that of the higher strength carbon and alloy steels. … Some operators do not allow the use of
+Page 37
+
+Investigation Report
+the less ductile cast irons in hydrocarbon service because of the chance of a brittle failure in case of an
+accident” [29, p. 79].
+Ludwig’s Applied Process Design for Chemical and Petrochemical Plants (Book):
+“Never use cast iron fittings or pipe in process situations unless there is only gravity pressure head (or
+not over 10 psig) or the fluid is non-hazardous” [30, p. 143].
+Metallurgy and Corrosion Control in Oil and Gas Production (Book):
+“[Cast irons] are seldom used on upstream oil and gas operations except for water service. … The long
+flakes of graphite … cause gray cast iron (also called cast iron) to be too brittle for any corrosion or
+fluid‐handling service” [22, p. 76].
+Perry’s Chemical Engineers’ Handbook (Book):
+“The code [ASME B16.4-1998, Gray Iron Threaded Fittings: Classes 125 and 250] places significant
+restrictions on the use of cast iron, and its use is typically limited to low-pressure, noncritical,
+nonflammable services” [31, pp. 10-90].
+“The piping system shall have no pressure-containing components of cast iron or other nonductile
+metal” [31, pp. 10-108].
+Plant Design and Operations (Book):
+“Cast iron is less expensive and in some cases more corrosion resistant than steel. Nevertheless, the use
+of cast iron pipe is undesirable in oil or gas service because of its brittleness” [32, p. 288].
+Fire and Quench Tests of Refinery Valves (1963 Journal Article):
+“[C]ast-iron valves of any type (nodular, gray, or malleable) are not safe for refinery hydrocarbon
+service …. It has been common practice in recent years to restrict the use of cast-iron valves to refinery
+locations outside the limits of operating units or to services where failure would not add fuel to a fire”
+[33].
+Critical Elements in the Design of Piping Systems for Toxic Fluids (Conference Paper):
+“A worst case failure scenario for a hazardous/toxic system is the catastrophic result of a sudden
+rupture. The materials selection process should preclude the use of any low-ductility materials such as
+cast iron …. Their brittle behavior … eliminate their applicability for hazardous/toxic systems” [34, p.
+12].
+Inherently Safer Latex Plants (Conference Paper):
+“Certain materials should be avoided which can lead to catastrophic failure. Cast iron is brittle in nature
+and it is best not to use it for process service” [35, p. 9].
+Safety concerns about using cast iron equipment for chemicals such as isobutylene have been raised for decades.
+In fact, NFPA 58, the Liquefied Petroleum Gas Code, has prohibited the use of cast iron fittings in LPG piping
+systems since 1931.
+Page 38
+
+Investigation Report
+The CSB concludes that existing industry standards and good Key Lesson
+practice safety guidance show that cast iron is a brittle
+Cast iron is widely recognized as a brittle
+material that should not have been used for an application
+material that should not be used in hazardous
+such as KMCO’s liquid isobutylene piping system.
+applications, including applications that
+involve flammable or toxic chemicals.
+3.2.2 Liquid Thermal Expansion
+At the time of the catastrophic y-strainer failure, process data showed that the isobutylene circulation loop was
+operating at less than 120 pounds per square inch (gauge), which was a normal pressure within this piping
+system. But KMCO did not measure or record the pressure within the charge pump piping, where the y-strainer
+was located. High-pressure conditions could develop in the charge pump piping from scenarios that include
+liquid thermal expansion, fluid leaking back from the batch reactor through an isolation valve or from the
+pressure-relief valve on the charge pump’s outlet piping, or a combination of these conditions.a
+Liquid thermal expansion occurs when liquids are heated.b When a system with a fixed volume is filled with a
+liquid and heated, liquid thermal expansion can generate high pressure within the system as the liquid expands
+[36, p. 77]. After completing the isobutylene charge to the batch reactor, the charge pump piping was isolated,
+with a check valve preventing flow back into the circulation loop and a block valve preventing flow into the
+batch reactor (Figure 3). Unlike the isobutylene circulation loop piping, the charge pump’s inlet piping—
+including the y-strainer—lacked a pressure-relief device to protect it from liquid thermal expansion.c
+In its industry standard, API Standard 521, Pressure-relieving and Depressuring Systems, the API explains that
+ambient heat gain within an isolated piping system is among the most common causes of overpressure from
+liquid thermal expansion. The API recommends installing a pressure-relief device if liquid thermal expansion is
+a credible hazard [37, pp. 32-33].d
+When the isobutylene charge was completed (at 6:25 a.m.), process data showed that the isobutylene
+temperature was approximately 55 degrees Fahrenheit (℉). At this time, the outdoor air temperature was about
+40 ℉, cooling the isobutylene within the isolated (and uninsulated) charge piping. Later in the morning, heating
+of the isobutylene occurred from a combination of warmer outdoor air (approaching 59 ℉) and, at some piping
+a The CSB commissioned testing of the pressure-relief valve from the charge pump’s discharge (outlet) piping. Among other results, this
+testing found that the pressure-relief valve leaked at an average rate of approximately 0.005 to 0.007 gallons per minute. In addition, a
+previous failure of cast iron equipment at a refinery was attributed to high pressure developed from quickly closing a valve [27, p. 46].
+The charge pump piping at KMCO was equipped with two actuated valves. The fast closing of these valves may have been a source of
+periodic pressure increases with the charge pump piping.
+b Liquid thermal expansion is sometimes referred to as hydraulic expansion, thermal expansion, or liquid expansion.
+c KMCO did equip portions of the circulation pump piping, which could be isolated, with pressure-relief valves to protect from liquid
+thermal expansion.
+d The API uses “hydraulic expansion” to describe the high-pressure conditions that can be created by the increase in liquid volume that
+can occur when the temperature of a liquid increases [37, p. 32].
+Page 39
+
+Investigation Report
+locations, exposure to the sun (solar radiation). This heating likely increased the pressure inside the piping from
+liquid thermal expansion.a
+This scenario for developing high pressure inside the charge piping after
+adding isobutylene to the batch reactor would not have been unique to the
+Key Lesson
+morning of April 2, 2019. Indeed, high pressure within the isobutylene
+charge piping likely developed during a number of previous batches under Piping systems should be
+equipped with protection from
+similar, or even more severe, heating conditions. Any such previous high-
+high-pressure conditions,
+pressure events would likely have contributed to the incident through
+where liquid thermal expansion
+weakening of the y-strainer, such as by creating small cracks within the
+or other scenarios can create a
+strainer body that further developed during repeated pressure cycles and
+hazard. For example, API 521
+ultimately resulted in failure when the internal isobutylene pressure finally
+recommends installing a
+exceeded the strainer’s ability to contain this pressure. The CSB concludes
+pressure-relief device if liquid
+that the most likely source of pressure contributing to the y-strainer failure thermal expansion is a credible
+was liquid isobutylene thermal expansion that might have periodically hazard.
+occurred within the charge pump’s inlet piping, which was not equipped
+with a pressure-relief device or otherwise protected from high-pressure
+conditions.
+Isobutylene Release
+Just before the isobutylene release began, the liquid level within the isobutylene storage tank was about 43.1
+percent. After the isobutylene tank was isolated following the incident, the liquid level in the isobutylene storage
+tank was about 41.5 percent. Based on this change in level and accounting for temperature differences between
+the initial and final conditions, the CSB determined that more than 10,000 pounds of isobutylene were released
+during the incident.b
+Ignition Source
+The area of the greatest explosion damage was the R2 Building, where Board Operator 2 was found deceased.
+The explosion damage to the R2 Building was consistent with flammable vapor being ignited within that
+building. This building contained a number of electrical equipment items that were energized and likely capable
+of igniting the isobutylene vapor cloud, triggering the explosion. Minimal details about the construction of this
+building were available, but the building was generally understood to be consistent with the construction of the
+PPE Room, which contained multiple doors, windows, and other obvious potential entry points for flammable
+isobutylene vapor, including a poorly sealed wall-mounted air conditioner (Figure 21).
+a The outdoor air temperature at 10:40 a.m. was about 59 ℉.
+b The isobutylene storage tank was equipped with two level transmitters. Because one of these was producing an erratic signal, it was
+excluded from the isobutylene release calculation.
+Page 40
+
+Investigation Report
+Figure 21. Wall-Mounted Air Conditioner. This photo, taken from outside of the
+PPE Room, shows an opening to the inside of the PPE Room. (Credit: CSB)
+KMCO had identified the area where the R2 Building was located as a Class 1, Division 2 location, one of the
+hazardous classified locations under the National Fire Protection Association (NFPA) 70, National Electrical
+Code, where the possibility of fire or explosion hazards may exist under abnormal conditions because of the
+presence of flammable material, such as isobutylene [38, p. 350]. The CSB learned that the R2 Building likely
+did not meet the NFPA’s requirements because it contained unclassified electrical equipment, such as motor
+starters, and the building was not pressurized to prevent flammable vapor from entering the building.
+In addition, KMCO had not implemented its insurance underwriting recommendation from 2013 to “harden”
+certain electrical equipment inside the R2 Building or relocate this electrical equipment to the new blast-
+resistant Reaction Control Room. The most recent status update for this insurance recommendation, prepared in
+2018, showed a long-term plan to move this equipment into a more robust “blast-resistant” housing.
+The CSB concludes that although a number of potential sources of ignition existed in the area of the isobutylene
+release, the source of ignition that triggered the isobutylene explosion was most likely located within the R2
+Building.
+Federal Safety Regulations
+KMCO records show that its isobutylene system was covered by both the U.S. Occupational Safety and Health
+Administration’s (OSHA) Process Safety Management (PSM) standard and the U.S. Environmental Protection
+Agency’s (EPA) Risk Management Program (RMP) rule [39].
+Page 41
+
+Investigation Report
+3.5.1 OSHA Process Safety Management Standard
+OSHA’s PSM standard was implemented on May 26, 1992. According to OSHA, the PSM standard:
+[E]stablishes procedures for process safety management that will protect employees by
+preventing or minimizing the consequences of chemical accidents involving highly
+hazardous chemicals. Employees have been and continue to be exposed to the hazards of
+toxicity, fires, and explosions from catastrophic releases of highly hazardous chemicals
+in their workplaces. The requirements in this standard are intended to eliminate or
+mitigate the consequences of such releases [40].
+KMCO considered its isobutylene system covered by the OSHA PSM standarda because of the chemical
+quantities used or stored.b KMCO records show that the isobutylene system was likely covered by the PSM
+standard because it contained more than 10,000 pounds of the flammable chemical.
+3.5.2 KMCO’s Process Safety Management Program
+In January 2017, KMCO’s process safety management system was evaluated by an audit team. The audit team
+assessed the company’s conformance with process safety management regulations and industry good practice
+guidance, including OSHA’s PSM standard, EPA’s RMP rule, and the Center for Chemical Process Safety
+(CCPS) book, Risk Based Process Safety. In total, the audit team used 370 different questions to evaluate the
+site’s process safety management program and made recommendations for 341 (92 percent) of these questions.
+For the remaining 29 (8 percent) questions evaluated, the audit team did not make a recommendation.
+A number of the audit team’s recommendations specifically targeted improving KMCO’s process safety
+management systems, including emergency response and hazard evaluation, that later contributed to the April 2,
+2019, incident.
+For example, the audit identified that KMCO’s emergency response plan did not deal with training requirements
+and recommended that KMCO conduct an additional audit to evaluate what exactly occurs at the site during an
+emergency. Another audit recommendation was that KMCO hold routine training to ensure that its employees
+understood that their role was not to respond to an emergency but that they should evacuate with the
+understanding that response should only be handled by qualified outside emergency responders.
+With respect to KMCO’s hazard evaluation programs, the 2017 audit found substantial issues with the site’s
+process hazard analysis (PHA) program, concluding that the existing PHAs were “not in line with industry
+standards” and recommended that KMCO ensure that an initial PHA had been performed for all covered
+processes, existing PHAs were replaced by updated (re-do) PHAs, process safety information was compiled, and
+that KMCO addresses previous incidents in its future PHAs.
+a 29 C.F.R. § 1910.119.
+b The PSM Standard covers chemicals deemed hazardous because of their chemical composition and quantity (listed in Appendix A of 29
+C.F.R. § 1910.119) or because of their flammability characteristics. See 29 C.F.R. § 1910.119(a)(1)(ii).
+Page 42
+
+Investigation Report
+KMCO’s 2017 audit showed that the company’s process safety management program had significant
+weaknesses, which KMCO’s management team was taking action to address. In discussing the recent audit
+findings with CSB investigators, one senior manager explained that KMCO had been continually trying to raise
+the level of its process safety performance. He stated:
+We’ve been working diligently on a lot [of the audit findings] since I’ve been here. We’ve
+re-inspected the entire plant to build new [piping and instrumentation diagrams]. We’ve
+installed a new [management of change] process. We’ve redone the incident
+investigation. We’ve been looking very carefully at our mechanical integrity, re-
+inspecting many things, and trying to work through that. Trying to upgrade all aspects of
+process safety.
+Among the recent improvements, KMCO’s management placed an emphasis on reviewing all recent incident
+investigations to discuss the findings and ensure that effective corrective actions were being developed. On the
+day of the incident, the Shift Supervisor was attending one of these meetings when the y-strainer ruptured.
+Overall, many employees interviewed by the CSB were complimentary of the recent equipment and
+infrastructure projects along with other management efforts to improve the facility. For example, one
+experienced operator stated:
+I would say that a lot of like our safe work program and stuff that they … they put in
+there, they’re much more thorough. Our safe works used to have like five lines on it, and
+now it’s a standard form, you know, and covers anything and everything that you can
+think of on there. And having the 4-gas meters in the field, which we didn’t have before.
+There’s … there’s a lot of things they’ve improved on. Like I said, especially in the
+processes and the safety of the processes have been improved.
+But one supervisor explained that although the infrastructure and other improvements were good, KMCO’s
+management needed to do more to keep people out of harm’s way. He explained that the ERT’s lack of
+operating experience and their slow response to incidents resulted in site management continually relying on
+KMCO’s operators to react quickly to stop the leak or problem.
+Although KMCO had been working to identify gaps and strengthen its process safety management system,
+persistent weaknesses ultimately contributed to the April 2, 2019, incident. Poorly implemented elements of
+KMCO’s process safety management system, including emergency response and hazard evaluation, were
+identified as safety issues in the CSB’s investigation. These safety issues are further analyzed in Section 4.1 and
+Section 4.3, respectively.
+3.5.3 OSHA Enforcement Actions
+On September 30, 2019, OSHA issued citations to KMCO stemming from the April 2, 2019, incident with a
+proposed penalty of $131,274 [41]. These citations included the following:
+• KMCO did not train all employees in safe and orderly evacuation (29 C.F.R. § 1910.38(e)).
+Page 43
+
+Investigation Report
+• Material of construction information was not maintained for the y-strainer that failed or the
+isobutylene piping from the storage tank to the reactor system (29 C.F.R. § 1910.119(d)(3)(i)(A)).
+• KMCO’s process safety information did not include the pressure relief valve design and design
+basis for certain safety relief valves that provide equipment overpressure protection (29 C.F.R. §
+1910.119(d)(3)(i)(D)).
+• For certain safety relief valves that provided overpressure protection, KMCO did not document that
+the equipment complied with recognized and generally accepted good engineering practices such as
+API 521 (29 C.F.R. § 1910.119(d)(3)(ii)).
+• KMCO’s PHA did not address the hazards of the y-strainer that failed or the hazards of an
+isobutylene release without installing remote emergency isolation valves (29 C.F.R. §
+1910.119(e)(3)(i)).
+• KMCO did not perform inspections and testing of the y-strainer that failed (29 C.F.R. §
+1910.119(j)(4)(i)).
+• KMCO did not have written procedures to manage changes for the reactor system piping and
+instrumentation diagrams or for the y-strainer that failed (29 C.F.R. § 1910.119(l)(1)).
+• KMCO did not effectively implement its emergency response plan (29 C.F.R. § 1910.120(q)(1)).
+• The employee alarm system at KMCO did not provide a warning for necessary emergency action
+when the alarm system was not activated by the incident commander. In addition, training and
+drills required by the emergency action plan were not performed (29 C.F.R. § 1910.165(b)(1)).
+3.5.4 EPA Risk Management Program Rule
+The EPA’s RMP rule requires an owner or operator of a stationary source with a process that has more than a
+threshold quantity of a regulated substance to develop a risk management plan.a According to the EPA, these
+plans:
+• Identify the potential effects of a chemical accident;
+• Identify the steps the facility is taking to prevent an accident; and
+• Spell out emergency response procedures should an accident occur [42].
+The EPA’s RMP rule defines three Program levels (Program 1, 2, or 3) based on the potential consequences to
+the public and the effort needed to prevent accidents [43, p. 1]. Of these three Program levels, Program 1 is the
+least stringent, and Program 3 is the most rigorous.
+KMCO filed a risk management plan with the EPA on February 23, 2018 [39]. KMCO included isobutylene in
+its risk management plan, and the company identified its isobutylene system as being a Program Level 3 [39, p.
+5]. KMCO’s risk management plan submission also identified that its isobutylene system was regulated by both
+the EPA RMP rule and the OSHA PSM standard [39, p. 33].
+a 40 C.F.R. § 68.10.
+Page 44
+
+Investigation Report
+In its risk management plan, KMCO explained its policies for emergency response and accidental release
+prevention. KMCO said that if a significant release were to occur, its emergency response personnel would
+respond and control the release. KMCO’s risk management plan states:
+KMCO is committed to the safety of KMCO workers and the public, and to the
+preservation of the environment, through the prevention of accidental releases of
+hazardous substances. KMCO implements reasonable controls to prevent foreseeable
+releases of hazardous substances. In the event of a significant accidental release, our
+trained Emergency Response personnel will respond to control and contain such releases.
+KMCO evaluates each situation, evacuates workers as necessary, and contacts the local
+fire department to control and contain the release and to prevent and/or reduce the
+consequences of the release [44].
+Page 45
+
+Investigation Report
+4 Safety Issues
+This section includes an analysis of the safety issues that contributed to the incident or its severity, including:
+• Emergency Response
+• Remote Isolation
+• Hazard Evaluation
+See Appendix A for the accident map (AcciMap), which provides a graphical analysis of this incident.
+Emergency Response
+4.1.1 Emergency Response Plan
+KMCO’s Emergency Response Plan (ERP) established procedures to follow in the event of an emergency, such
+as a large release of flammable isobutylene. According to the KMCO’s ERP, the steps to be taken during such
+an emergency included:
+ Communicating the nature of the emergency using the plant-wide radio and the facility alarm system;
+ Unlocking gate turnstiles and gathering visitor sign-in sheets to help account for all personnel at the
+designated rally points;
+ Ensuring nonessential employees evacuate and report to a safe rally point;
+ Evacuating operations personnel based on the type and magnitude of the incident;
+ Assembling the Emergency Response Team (ERT) members at the ERT muster location;
+ Forming an Emergency Operations Center (EOC) with the assigned personnel; and
+ Assigning the operations shift supervisor as the initial Incident Commander focused on “life safety and
+incident stability.” The initial goals for the incident commander included:
+ Focusing on “possible hazards to human health or the environment that may result from the
+Release, Fire, or Explosion;”
+ Designating the command center, exclusionary zone, and support zone; and
+ Ordering a shelter-in-place or evacuation if the incident could threaten human health or the
+environment.
+Like many of the safety management systems at KMCO, the site’s ERP was actively being revised and
+strengthened, but the updated version was not effective on the day of the incident. For example, KMCO’s ERP
+called for the operations shift supervisor to serve as the initial Incident Commander, but the Shift Supervisor on
+duty at the time of the incident had not been a member of the ERT for about two years.
+Page 46
+
+Investigation Report
+The site had scheduled an incident command training activity for April 5, 2019, but the April 2, 2019, incident
+occurred before this training could take place. The April 5, 2019, training was supposed to provide a tabletop
+drill with the Crosby Volunteer Fire Department. At this training session, KMCO also planned to clarify who
+would serve as the initial Incident Commander and what their role was during an emergency.
+4.1.2 Facility Alarm System
+In its book Guidelines for Risk Based Process Safety, the CCPS covered both the importance and objectives of a
+facility’s emergency alarm system. Among other good practice safety guidance for emergency alarm systems,
+the CCPS stated:
+In the event of an emergency, a reliable means must be available to alert those in danger
+that they should take action, and specifically what action to take.
+Regardless of the method used to alert people to an emergency, the alarm must be
+recognizable, and clearly distinguishable from normal message traffic carried on
+whatever media is used [45, p. 523].
+Ensure that all personnel at the facility, including contractors, can recognize emergency
+alarms and know what actions to take for each type of alarm [45, p. 537].
+After Board Operator 1 left the Reaction Control Room in response to the radio call from Field Operator 1, he
+appeared to understand the seriousness of the emergency. Board Operator 1 used the radio to inform other
+workers of the emergency by calling for an evacuation from the area, but nobody activated the facility alarm
+system. As a result, workers who did not have a radio—or were not with someone who had a radio—were not
+alerted to the ongoing emergency or the call to evacuate.
+KMCO’s emergency response plan (ERP) called for using both the facility alarm system and the plant-wide
+radio to immediately communicate an emergency, including a chemical release, fire, or explosion. KMCO’s
+board operators were not responsible for deciding to sound the facility alarm system during an emergency. In
+explaining the purpose of the facility alarm system, the emergency response plan explained:
+The primary purpose of the facility alarm system is to put the plant on alert status. The
+facility alarm system shall be used during an emergency situation that has the potential
+to impact KMCO employees, contractors, the community, and/or major property loss.
+The activation of the emergency alarm is at the discretion of the HSSE [Health, Safety,
+Security, Environmental] Department, Operations and/or Maintenance Department
+Manager and Supervisors.
+KMCO installed its facility alarm system in February 2017 to “notify the entire plant of an emergency
+situation.” The alarm system included:
+• An alarm base station in the Reaction Control Room (Figure 22);
+• Voice options to alert employees to specific emergency events;
+• Speakers on concrete poles around the facility;
+Page 47
+
+Investigation Report
+• Speakers in the administration and maintenance buildings; and
+• Radio and mobile phone notification of emergencies.a
+Figure 22. Base Station for Facility Alarm System. (Credit: CSB)
+One operations supervisor stated that the old facility alarm system never worked—or at least, not during his 14
+years at KMCO—and that he had never heard a facility alarm until the new system was up and running.
+KMCO personnel routinely tested its new facility alarm system each Tuesday, but beyond knowing how to run
+the weekly test, most workers did not know how to use the alarm for an actual emergency. Workers could
+activate the evacuation alarm only from the Reaction Control Room. When asked if people knew how to sound
+the evacuation alarm on the facility alarm system, one operations supervisor said, “No. They know how to use it
+to do its weekly test.”
+In discussing the actions to take during a hypothetical isobutylene release, another operations supervisor
+described how he could use the facility alarm system to evacuate the plant. He said:
+You would turn the key on. And then, it’s got a button that you would hit. I don’t
+remember the exact name of it. One is evacuate, one is shelter-in-place, and one is the
+weekly test. So, you’d hit the evacuate. Hit the appropriate button and hit send. I’ve never
+actually hit it, so I can’t even tell you what it would sound like. I’m assuming it’s the
+weekly test without the voice saying, “This is a test.”
+When asked who should activate the facility alarm and how the facility alarm system works, a third operations
+supervisor stated, “Nobody knows.” The supervisor further clarified by saying, “There has been a number of
+a OSHA provides minimum requirements for employee alarm systems in 29 C.F.R. § 1910.165.
+Page 48
+
+Investigation Report
+[employment] changes to people that were part of the [facility alarm system] installation. They [no longer work]
+here.”
+One of the KMCO safety technicians provided further insight by explaining that, at the time of the incident, the
+operations staff was not yet capable of reliably activating the facility alarm system during an emergency. He
+said:
+Yeah, [we have a facility alarm system]. It’s a Cadillac, too. It’s a really nice one. It was
+probably put in a couple of years ago, but nobody’s up to speed trained on it.
+There should be board operators who say I know exactly what to hit [on the facility alarm
+system] in every situation to sound which alarm and why. But we didn’t get that piece
+[completed] yet.
+Because, like I said, it’s a really nice alarm, but if you don’t know how to use it and
+you’re not training your employees on it, it’s useless.
+Because KMCO’s board operators were not yet fully trained to use the facility alarm system, the safety
+technician explained how he trained new workers on what to do during a potential emergency. He instructed
+new workers at the site to rely on the plant radio system or to contact operations, or if they saw people running,
+he advised that they should run with them. The safety technician said:
+Like, I’ll do a lot of the safety orientation when [workers] first come to the site. I show
+them all the rally points, I point out the windsocks. I’ll say in an unlikely event [of an
+emergency], like, Channel 1 is [the primary radio channel] for safety. But, like, if they
+don’t have a radio, like, get with operations, or if you see a whole bunch of people running
+one way, it’s probably a good idea to run in that same direction.
+Based on the interviews that CSB investigators conducted with KMCO employees and contract workers who
+were at the facility, KMCO did not use its facility alarm system for emergency communication about the
+isobutylene release. Because not all workers received the plant radio emergency notification, some injured
+workers were nearer to the explosion than they should have been. In addition, the lack of facility alarm system
+emergency communication likely made the plant evacuation more hectic than it otherwise could have been. For
+example, during the isobutylene release, KMCO’s operators and supervisors were urgently instructing other
+workers to shut off vehicles and evacuate when the facility alarm system could have provided a more effective
+approach for this emergency communication.
+The CSB concludes that KMCO never activated its facility
+Key Lesson
+alarm system to notify all workers about the isobutylene
+release emergency. As a result, some injured workers were Reliable facility alarm systems can help
+nearer to the explosion than they should have been. KMCO ensure effective emergency communication
+to alert people of danger and inform them of
+could have reduced the severity of the event by using its
+what actions are needed to protect life and
+facility alarm system to notify all workers of the isobutylene
+health.
+release emergency and communicate the evacuation order.
+Page 49
+
+Investigation Report
+4.1.3 Response to the Isobutylene Release
+Before analyzing KMCO employees’ response to the isobutylene release, it is important to clarify that KMCO
+was responsible for the actions taken (or not taken) during the initial response to this emergency. Employers
+have a duty to protect their employees from harm. As part of their efforts to conform with OSHA’s PSM
+standard, companies like KMCO decide what their employees will do during an emergency.a If a company
+intends to evacuate all its employees following a major chemical release, the company may develop an
+“emergency action plan” following 29 C.F.R. 1910.38(a). Otherwise, the company needs to develop an
+“emergency response plan” under 29 C.F.R. 1910.120(q) (which addresses “emergency response to hazardous
+substance releases”).b
+KMCO chose to develop an emergency response plan. In doing so, KMCO accepted responsibility for
+implementing an emergency response plan under 29 C.F.R. 1910.120(q) because some of its employees were
+expected to handle an emergency release rather than evacuate [46, p. 11]. As such, the actions that KMCO
+workers took in response to the April 2, 2019, incident were the product of KMCO’s policies and procedures
+and how the company prepared and trained these workers to respond to this emergency.
+Good practice guidance for emergency response is widely available from a number of sources. Among these, the
+U.S. Department of Health and Human Services has developed 6 Steps for Initial Response to a Chemical
+HAZMAT Incident that prioritizes life safety using plain language.c The six steps are:
+1. Recognize the Incident: Quickly size up the situation and recognize the type and scale of incident you
+are responding to. Activate the response system.
+2. Protect Yourself and Others: Establish an Isolation Zone and move outside it. Alert others in the
+danger area to do the same. Take only actions that you are equipped and trained to take. Do not allow
+yourself to become a victim!
+3. Determine Initial Response Objectives: Remind yourself of the critical objectives that should be
+addressed in the first minutes. Life safety is always your first priority.
+4. Decide and Take Immediate Actions: Make the decisions that will support your objectives - and take
+the actions you safely can.
+5. Manage the Incident Until Relieved: The first arriving responder is, by default, the Incident
+Commander until relieved. You should control the incident scene and manage and apply resources as
+they arrive.
+6. Transition Command: Formally turn over incident command when more senior or more qualified
+responders arrive [47].d
+a The EPA also has emergency response requirements under 40 C.F.R. §§ 68.90 - 68.96. The provisions for emergency response
+exercises under 40 C.F.R. § 68.96 were not in effect at the time of the incident at KMCO [88].
+b 29 C.F.R. § 1910.38(a) and 29.C.F.R. § 1910.120(q).
+c HAZMAT is an abbreviation for hazardous materials. Quick Response Guide - CHEMM (hhs.gov)
+d Quick Response Guide - CHEMM (hhs.gov)
+Page 50
+
+Investigation Report
+When the y-strainer ruptured, which initiated the release of flammable isobutylene, the three KMCO workers
+who were fatally or seriously injured (Board Operator 2, Board Operator 1, and the Shift Supervisor) were all in
+a safe location. The two board operators were working inside the blast-resistant Reaction Control Room, and the
+supervisor was attending a safety meeting in a conference room within the plant’s administration building.
+When the flammable isobutylene vapor cloud exploded 11 minutes later, all of these workers were in harm’s
+way; and were fatally or seriously injured while performing actions either within or near the flammable
+isobutylene vapor cloud.
+4.1.3.1 HAZWOPER
+On March 6, 1989, OSHA issued its Hazardous Waste Operations and Emergency Response standard, more
+commonly referred to as HAZWOPER.a Among other things, this safety regulation provides minimum
+requirements for emergency response operations involving hazardous materials, such as isobutylene. In the
+preamble to its HAZWOPER standard, OSHA stated that there was a “clear need for training and other
+provisions to protect workers engaged in all emergency responses when there is the possibility of hazardous
+substance spills” [48, p. 9297]. OSHA further stated that its decision to cover all emergency response, including
+petrochemical and similar manufacturing facilities, “was based upon the high risk associated with emergency
+response by untrained and unprotected employees and the need for proper training and equipment to be provided
+for emergency response to hazardous substance releases” [48, p. 9298].
+OSHA requires emergency responders to be trained before taking part in emergency response operations. This
+training must be based on the duties they will perform [49, p. 30]. In its HAZWOPER standard, OSHA
+identified five emergency response levels and the minimum training requirements for each level. These
+emergency response levels are:
+1. First Responder Awareness Level
+These are employees who might witness or discover a hazardous substance release and have been
+trained to report the release to start the emergency response process.
+2. First Responder Operations Level
+These are employees who respond for the purpose of protecting other people nearby, property, or the
+environment from the effects of the release. They do not try to stop the release. From a safe distance,
+they try to contain the release and prevent exposure to released material.
+3. Hazardous Materials Technician
+These responders can approach the release to close valves or take other, more aggressive actions to stop
+the release.
+4. Hazardous Materials Specialist
+a 29 C.F.R. § 1910.120.
+Page 51
+
+Investigation Report
+These responders support the hazardous materials technicians. They have duties similar to the hazardous
+materials technician but have more knowledge about hazardous materials, and they also coordinate with
+other officials about emergency response.
+5. On Scene Incident Commander
+The incident commander controls the emergency response to the incident beyond the first responder
+awareness level [49, pp. 30-32].a
+The three KMCO workers who were fatally or seriously injured
+Key Lesson
+(Board Operator 2, Board Operator 1, and the Shift Supervisor)
+had approached or entered the isobutylene vapor cloud in
+Where remote isolation is not provided
+response to the release, but they were not formal members of the or is otherwise not available, clear
+site’s ERT. Some of the actions these workers took, such as policies and effective training are needed
+closing valves to stop the release, were the duties of a hazardous to help ensure that workers do not put
+materials technician under OSHA’s HAZWOPER standard. But themselves in danger to stop a chemical
+release.
+because these workers were not trained to that response level,
+KMCO should have limited the role of these employees to the
+first responder awareness level.b
+4.1.3.2 Response to Hazardous Material Incidents at KMCO
+Industrial safety and accident analysis expert Andrew Hopkins has stated that the most useful definition of
+culture in the context of company safety practices is “The way we do things around here,” a definition that refers
+to the collective practices of a group [50, 51].c This definition of culture is helpful in describing the actions
+KMCO workers took when responding to the isobutylene release.
+KMCO hired its ERT Fire Chief roughly two years before the April 2, 2019, incident. The Fire Chief told CSB
+investigators that, among other challenges, “we had to build [the emergency response program] from the ground
+up.” The Fire Chief also stated that the plant culture at KMCO was that operations staff should take offensive
+actions to stop a release quickly. In discussing the isobutylene release on April 2, 2019, the Fire Chief said,
+“they [operations staff] are going to respond to it and try to mitigate it as fast as possible so they can contain it.”
+The Fire Chief further explained:
+If [the operators] can go out there and block it in, theoretically, real quick and, like,
+neutralize it or keep it contained, that’s going to be their primary thought pattern. A Good
+Samaritan, they want to do the right thing right away.
+a 29 C.F.R § 1910.120(q)(6)(i) – 1910.120(q)(6)(v).
+b 29 C.F.R. § 1910.120 (q)(6)(i).
+c The CSB had previously found that the phrase “the way we do things around here” might originate in Marvin Bower’s 1966 book, The
+Will to Manage, in which Bower used the phrase to explain how top executives at successful firms referred to the company’s
+philosophy [85, pp. 22-41]. At the time, Marvin Bower was the managing director for the consulting firm McKinsey & Company, Inc.
+See Company philosophy: ‘The way we do things around here’.
+Page 52
+
+Investigation Report
+But if it’s out of control, they’re going to still call ERT because we’re going to be
+HAZMAT trained. We’ll help clean it up, start the dike walls and all that, but like to say,
+“Oh, there’s a leak, ERT emergency leak,” you know, it’s not always that way.
+But if they can contain it themselves, they’ll just block it in and try to fix it. Plug it up
+most of the time.
+The ERT Fire Chief’s explanation that KMCO’s plant culture called for operators to quickly respond to try to
+stop a release closely aligned with how the Shift Supervisor recalled the events that transpired. After being
+released from the hospital, the Shift Supervisor described the incident in an interview with a CSB investigator:
+I get a call on the radio [saying that] we have [an isobutylene] leak. So, at this point, you
+know, being used to what happens normally at [the batch reactor], an [isobutylene] leak
+normally is a very small leak coming from a valve or coming from a … the [charge] pump
+itself. But we still go down there. And as I’m going down there, I can see in the middle
+… on the road that separates the […] tank farm and [the batch reactor] area, there’s a
+two-foot river high that goes all the way down the road, of isobutylene [vapor]. At that
+point, when I had seen that, I got on the [plant radio] and ordered the evacuation of the
+plant. And as I ordered the evacuation of the plant, that’s when I [saw Board Operator 1
+and Board Operator 2] going towards the units with the SCBA on.
+Board Operators 1 and 2 each wore an SCBA and their standard everyday flame-resistant clothing. When asked
+about the personal protective equipment that Board Operator 1 and Board Operator 2 were wearing, the Shift
+Supervisor explained that this was the only personal protective equipment they had for that response. The Shift
+Supervisor also stated that Board Operator 1 and Board Operator 2 were “doing what they were trained to do.”
+So, the outside operators had already been out of the area. And one was sent to go shut
+the [circulation] pump off. And [Board Operator 1] went in there and shut the valves so
+the leak would stop. And then [he] opened up the overhead … the deluge system. Which
+is something that, you know, if we ever have leaks like this, the best thing to do is drown
+it in water. So that’s what he was doing.
+The Shift Supervisor also explained that Board Operator 2 may have gone into the R2 Building to push the stop
+button for two reactor feed pumps in his area and to make sure that no one else was in that building.
+The explosion occurred just after the Shift Supervisor had turned on a firewater monitor to keep the isobutylene
+vapor away from a hot oil furnace that was to the south and east of the release location.
+4.1.3.3 CCPS Safety Guidance
+In its book, Guidelines for Risk Based Process Safety, the CCPS recommends that written emergency response
+programs “clearly delineate” which incidents operators should respond to and which incidents should be handled
+by the site’s emergency response team. The CCPS explained that:
+Page 53
+
+Investigation Report
+The written emergency response program, or a subordinate document, should clearly
+delineate between those incidents that operators should respond to and those that should
+be handled by the facility’s emergency response team (ERT) or equivalently trained
+outside responders. Failure to address this issue will require that operators and other front
+line employees make instant decisions on how to respond to an emergency, likely leading
+to unacceptable risk because people generally do a poor job of considering a wide range
+of factors when making decisions in a crisis [45, p. 514].
+The CCPS also discussed the natural tendency for some operators to feel ownership of the unit and want to take
+quick action during an emergency. The CCPS explained:
+Operators normally have a much deeper understanding of the process and its hazards than
+do emergency responders and can normally act more quickly in terms of both (1)
+formulating a response action and (2) executing the action. However, operators are
+generally not as well equipped as emergency responders (in terms of response and
+personal protective equipment) and are almost certainly not as well trained in emergency
+response activities. Because they feel a certain ownership of the process, some operators
+may accept more personal risk while responding to an emergency than the company
+might endorse. This ownership issue, and the need to understand tolerable risk when
+responding to emergencies, can best be managed if the range of acceptable actions is
+documented, reviewed, and communicated to operators and other affected workers in
+writing, and reinforced in training situations [45, p. 514].
+In addition, the CCPS compared operators who might put themselves in harm’s way during an emergency to the
+“confined space rescue” problem, where workers who lack the right training and equipment put themselves in
+harm’s way by trying to rescue an unresponsive coworker during a confined space work activity. The CCPS
+explained:
+In addition to being trained on what to do, all personnel should understand management’s
+intent for emergency response. What actions are acceptable and what are not? Many
+workers, when faced with an emergency, will pursue unsafe actions to mitigate the
+consequences, particularly if a co-worker could be injured. For example, a high incidence
+of double fatalities occurs for confined space incidents: first the person working in the
+confined space collapses, and shortly afterward, a co-worker collapses while attempting
+to rescue the first victim. Policy issues such as, “Do not attempt to take offensive actions
+such as ….” should be clearly communicated to all personnel and reinforced periodically
+through training or other communication modes [45, p. 523].
+Page 54
+
+Investigation Report
+The CSB concludes that KMCO’s emergency response system, including its
+procedures and training, contributed to the severity of the incident. KMCO Key Lesson
+did not establish procedures or provide training that effectively distinguished
+Emergency response plans,
+the incidents that its operators should respond to from the emergency events
+including procedures and
+that the site’s emergency response team must respond to. As a result of
+training, need to effectively
+KMCO’s emergency response program, the emergency actions taken by
+distinguish between
+KMCO operations staff to stop the isobutylene release adhered to the
+incidents that plant workers
+unwritten culture at KMCO that relied on unit operators taking quick actions
+should respond to and
+to stop a chemical release. When the isobutylene release began, workers who emergency events that must
+were in a safe location moved toward the isobutylene vapor cloud, which put be handled by a qualified
+them in harm’s way. KMCO could have reduced the severity of the event by emergency response team.
+establishing clear policies and training its workforce to respond to a chemical
+release without putting themselves in harm’s way.
+Remote Isolation
+In his interview with the CSB, the Shift Supervisor was asked what changes he would want to see implemented
+to prevent this type of event from occurring in the future. The Shift Supervisor stated:
+You should have had valves that you can close inside [the Reaction Control Room]. I
+mean, when you have an incident … when you have [ethylene oxide, propylene oxide],
+[isobutylene], any kind of flammable liquid, you should be able to [stop it remotely] and,
+you know, not send someone in to have to do it.
+When the y-strainer ruptured, the closest person to it was the contract worker who was insulating tubing
+associated with the batch reactor. She described that when the y-strainer failed, the flammable isobutylene vapor
+was chest-high, growing, and flowing down the adjacent road. In her interview with Harris County Fire Marshal
+investigators, she opined about how to prevent a similar event in the future, stating:
+Shut the line. … There should be a way to shut the line. … Once we know what it is, shut
+the line. … Is there such a thing that they could have went somewhere and just, like shut
+it all down? Then [Board Operator 2] could have been saved. No one should have went
+back out there [into that flammable vapor cloud].
+The Shift Supervisor and the contract insulator each identified the need for safety equipment that KMCO
+workers could have used to stop the isobutylene release from a safe location. This type of safety equipment is
+called remote isolation (among other names), and it is not a new safety concept. Nearly 50 years before the
+explosion at KMCO, process safety pioneer Trevor Kletz published a safety newsletter that called for installing
+remotely operated isolation valves to isolate hazardous material leaks from a safe distance.a
+a See Safety Newsletter Introduction and Issue 14. The Institution of Chemical Engineers (IChemE) provides the entire series of ICI
+Newsletters on its website.
+Page 55
+
+Investigation Report
+The CSB refers to the equipment needed to isolate a flammable or toxic release from a safe (remote) location as
+a remotely operated emergency isolation valve (ROEIV). While a remotely operated emergency isolation valve
+will not prevent a loss-of-containment event, correctly applying remote isolation equipment should reduce the
+severity of a hazardous chemical release [52, p. 4].a
+4.2.1 Health and Safety Executive (HSE) Safety Guidance
+The Health and Safety Executive (HSE), a United Kingdom government agency, published HSG244, Remotely
+Operated Shutoff Valves (ROSOVs) in 2004 [53]. HSE issued its guidance on remotely operated shutoff valves
+because of two major incidents:
+• The Associated Octel Company Limited at Ellesmere Port (February 1994);b and
+• The BP Grangemouth Refinery (June 2000) [53, pp. 4-5].c
+In explaining the purpose of its ROSOV guidance document, HSE says, “In an emergency, rapid isolation of
+vessels or process plant is one of the most effective means of preventing loss of containment, or limiting its
+size” [53, p. 4]. ROSOVs are safety devices that HSE defines as:
+A valve designed, installed and maintained for the primary purpose of achieving rapid
+isolation of plant items containing hazardous substances in the event of a failure of the
+primary containment system (including, but not limited to, leaks from pipework, flanges,
+and pump seals). Closure of the valve can be initiated from a point remote from the valve
+itself. The valve should be capable of closing and maintaining tight shutoff under
+foreseeable conditions following such a failure (which may include fire) [53, p. 4].
+HSG244 provides four primary selection criteria for eliminating “low-risk cases where the hazard potential” is
+low enough that remote isolation equipment is probably not justified. But if any of the four primary selection
+criteria apply, remote isolation equipment should be installed as a precautionary approach [53, pp. 7, 17-18].
+Applying the HSG244 selection criteria to KMCO’s isobutylene system shows that remote isolation should have
+been added in this case, because three of the four criteria for remote isolation applied:
+• The maximum foreseeable release in the event of failure to manually isolate the release was more
+than 1,100 pounds of isobutylene (an extremely flammable material);
+• Manual isolation required employees to enter a flammable atmosphere, exposing them to a serious
+injury risk; and
+• The rate and duration of the release created a danger of a fatality or serious injury [53, p. 18].d
+a Other industry standards, good practice guidance, and earlier CSB reports have described similar isolation equipment using different
+names, including emergency block valve (EBV), emergency isolation valve (EIV), remotely operated block valve (RBV), emergency
+shutdown valve (ESDV), or remotely operated shutoff valve (ROSOV).
+b HSE says, “One of the conclusions of the Associated Octel report was that the incident escalated rapidly because it was not possible to
+stop the initial release” [53, p. 5, 74].
+c HSE’s report on the Grangemouth incident noted, “The control room operator was limited in the extent to which he could assist to
+isolate inventories remotely because many isolations could only be done manually” [97, p. 44].
+d The fourth selection criteria applied to toxic chemical releases.
+Page 56
+
+Investigation Report
+In HSG244, HSE warns, “Manual valves should never be used in situations where the employee effecting the
+isolation would be placed in danger. This is a major consideration in deciding when to use ROSOVs” [53, p. 14]
+(emphasis in the original). For flammable substances, HSE further says, “employees should not be required to
+deliberately enter a flammable atmosphere to isolate plant manually, especially as personal protective equipment
+(PPE), is not a practicable solution” [53, p. 14].
+Among the benefits of using remote isolation, HSG244 highlights the importance of preventing vapor cloud
+explosions that could harm people and cause substantial property damage. HSG244 states:
+The potential for escalation is much greater for flammable substances, particularly in
+complex plant with significant areas of congestion due to closely spaced plant, pipework
+and other structures. When ignition occurs in a congested area there is an increased risk
+of a vapour cloud explosion. The overpressure from a vapour cloud explosion may be
+capable of critically damaging other plant, leading to further loss of containment and
+potential casualties [53, p. 14].
+4.2.2 American Petroleum Institute (API) Safety Guidance
+In October 2012, the API published its second edition of API Recommended Practice 553, Refinery Valves and
+Accessories for Control and Safety Instrumented Systems [54]. In API RP 553, the API notes that its safety
+guidance captures industry knowledge and experience and provides proven solutions to well-known problems,
+such as remote isolation [54, p. 1]. The API uses the term emergency block valve to describe the equipment used
+to isolate flammable or toxic materials remotely in the event of a leak or fire [54, p. 94]. The API recommends
+placing control stations for emergency block valves at least 50 to 100 feet away from the valve in a “remote
+manned location” (safe location) [54, p. 97].
+API RP 553 states that remote isolation is “needed” for vessels containing isobutylene [54, p. 95]. For pumps,
+API RP 553 says that an emergency block valve is “needed” if the upstream vessel contains more than 4,000
+gallons of liquid hydrocarbon and is “typically required” where the upstream vessel contains more than 2,000
+gallons of light ends, such as isobutylene [54, p. 95]. At the time of the April 2, 2019, incident, KMCO’s
+isobutylene storage tank contained more than 29,000 gallons of liquid isobutylene. Had KMCO followed the
+existing safety guidance for remote isolation in API RP 553, Refinery Valves and Accessories for Control and
+Safety Instrumented Systems, the isobutylene system should have been equipped with emergency block valves.
+4.2.3 CCPS Safety Guidance
+In 2003, the CCPS provided guidance for remote isolation equipment in its book Guidelines for Fire Protection
+in Chemical, Petrochemical, and Hydrocarbon Processing Facilities [55]. In the book, the CCPS explains that
+process unit fires continue until the flow of fuel can be stopped, the fuel is consumed, or the fire is extinguished
+[55, p. 123]. The CCPS also provides general guidance on when to provide remote isolation capability. For
+example, the CCPS states:
+Equipment such as pumps, compressors, tanks, and vessels associated with large
+inventories of flammable gas or liquid (>5,000 gallons) should be provided with
+Page 57
+
+Investigation Report
+equipment emergency isolation valves to stop the flow of material if a leak occurs [55, p.
+123].
+In addition, the CCPS provides a decision flowchart as an example of a tool that companies could use to decide
+where remote isolation equipment should be installed [55, p. 267]. As illustrated in Figure 23, applying this tool
+to KMCO’s isobutylene system shows that remote isolation equipment should have been provided.
+Figure 23. Remote Isolation Decision Flowchart. (Credit: CCPS, annotations by CSB)
+Page 58
+
+Investigation Report
+The CSB concludes that although the need to provide
+workers with effective remote isolation capability has
+Key Lesson
+been well established by existing industry standards and
+The goal of keeping workers safe and the goal of
+good practice safety guidance documents, KMCO’s
+quickly isolating releases to minimize the
+isobutylene system remained unprotected. As a result,
+consequences of an incident should not be
+when the y-strainer ruptured on April 2, 2019, KMCO
+mutually exclusive. Both can be achieved by
+workers did not stop the isobutylene release remotely,
+applying robust safety systems and establishing
+from a safe location.a KMCO could have reduced the
+effective emergency response programs.
+severity of its April 2, 2019, incident if the company had
+Providing remotely operated emergency isolation
+provided its Board Operators with the capability to valves in strategic locations can allow workers to
+remotely isolate the isobutylene release from within the stop a release quickly from a safe location.
+blast-resistant Reaction Control Room—a safe location.
+4.2.4 2010 Insurance Recommendation
+In February 2017, an engineering firm prepared a risk assessment report about the KMCO facility for insurance
+underwriting purposes. This report details that there was an existing recommendation from a previous insurance
+report in 2010 to provide remote isolation capability for certain equipment with the potential to have a spill of
+flammable liquid or that could result in a flammable vapor cloud, including isobutylene. The 2010
+recommendation was included in the 2017 report and states:
+Expand the existing PHA program to include the analysis of the largest flammable liquid
+release sources and commit to the installation of fire-safe, remote-actuated automatic
+isolation valves in strategic process areas that will best achieve spill prevention especially
+those involving ethylene oxide, propylene oxide, and isobutylene that create a flammable
+liquid / vapor cloud spill potential due to large liquid hold-up inventories from vessels
+and transfer piping. Reference API 553 for additional details.
+Note: Once the study is completed a policy should be developed for any future installation
+of EIVs.
+Observations & Issues
+The placement of EIVs on vessels with significant hold-up inventories of hazardous
+materials within them would limit the amount released in an emergency thus reducing the
+possibility of a major incident.
+The report stated that the lack of remote isolation capability has the potential for a significant incident and
+recommends providing remote isolation capability at the “earliest opportunity.” The 2017 report indicated that
+KMCO had installed remote isolation valves for five vessels, but these vessels were not associated with the
+a The isobutylene release could have been stopped from a safe location by turning off the circulation pump in the field near the
+isobutylene storage tank. KMCO designed the actuated on/off ball valve at the inlet to the charge pump to close automatically if the
+flow meter at the outlet of the circulation pump registered low flow (Figure 3).
+Page 59
+
+Investigation Report
+April 2, 2019, incident. The status update also noted that additional EIVs were planned in the future, but the
+report did not specify which vessels were included in this plan.
+A different company conducted an insurance assessment and produced a report in March 2018. The 2010
+recommendation to provide remote isolation capability was reiterated in this 2018 report, including the status
+identified in the 2017 report. The 2018 report stated:
+The facility indicates that when risk and hazard reviews are conducted consideration
+based on risk and exposures determine whether additional EIV or interlocks shall be
+added for existing or new installations. It may be of benefit for KMCO/KMTEX to
+develop a formal procedure/policy to address where retrofit conditions, MOC or new
+[construction] requires the installation of EIVs.
+Despite the 2010 insurance audit recommendation that KMCO use its PHA program to provide remote isolation
+capability for high-hazard systems, including isobutylene, neither the 2014 PHA nor the 2015 PHA included any
+discussion of remote isolation or recommendations to equip the isobutylene system with remote isolation valves.
+In addition, KMCO’s PHA procedure in place at the time of the April 2, 2019, incident was last updated in
+October 2017. This policy did not include any requirements or guidance for KMCO’s PHA teams to evaluate the
+need for remote isolation valves. Furthermore, the 2018 PHA team did not document any discussion or
+consideration about the potential need for remote isolation equipment for the isobutylene storage tank, piping, or
+batch reactor system.
+The CSB concludes that KMCO did not complete the implementation of the 2010 insurance recommendation to
+provide remote isolation capability in strategic process areas, including the isobutylene system. Had KMCO
+fully implemented this recommendation, for example by providing remote shutoff capability for the actuated
+on/off ball valve installed on the charge pump’s inlet piping, Board Operator 1 could have isolated the
+isobutylene release from a safe location—the blast-resistant Reaction Control Room. The quantity of
+isobutylene released and the severity of the incident could have been significantly reduced.
+Although the need to provide workers with effective remote isolation equipment has been well-established,
+some facilities in the U.S. chemical industry remain unprotected. The CSB deployed investigation teams to four
+incidents in 2019. One common safety issue identified in each of the CSB investigation reports for these
+accidental release events is that effective remote isolation equipment could have reduced the amount of
+flammable material released and prevented great harm to people and neighboring communities. These incidents
+were:
+• Storage Tank Fire at Intercontinental Terminals Company, LLC (ITC) Terminal in Deer Park,
+Texas on March 17, 2019;
+• Fatal Equipment Rupture, Explosion, and Fire at the KMCO Chemical Facility in Crosby, Texas
+on April 2, 2019. (The subject of this report);
+• Fire and Explosions at Philadelphia Energy Solutions Refinery Hydrofluoric Acid Alkylation Unit
+in Philadelphia, Pennsylvania on June 21, 2019; and
+• Popcorn Polymer Accumulation, Pipe Rupture, Explosions, and Fires at TPC Group Chemical
+Plant Butadiene Unit in Port Neches, Texas on November 27, 2019.
+Page 60
+
+Investigation Report
+Due to the frequency in which remote isolation has been identified as a safety issue in recent investigation
+reports, the CSB plans to develop and issue a remote isolation advocacy product in 2024.
+Hazard Evaluation
+Hazard evaluation is a broad topic. This term is used to describe efforts to identify and control hazards in
+everyday work tasks (job hazard analysis) as well as the formal multi-day efforts specifically designed to
+assemble a multi-disciplinary team of experts for the specific purpose of trying to locate and control potential
+hazards in a new process unit (process hazard analysis).
+In addition, hazard evaluation is not a new process safety concept within the chemical industry. Trevor Kletz’s
+book, HAZOP AND HAZAN: Identifying and Assessing Process Industry Hazards, devotes a chapter to
+reviewing the history of how this now-common hazard evaluation technique was developed at ICI (Imperial
+Chemical Industries) during the 1960s [56, 57].
+OSHA considers hazard evaluation to be among the most important elements of its PSM standard.a According to
+OSHA, hazard evaluation involves an organized “effort to identify and analyze the significance of potential
+hazards associated with the processing or handling of highly hazardous chemicals,” including isobutylene [58, p.
+6412]. For processes like KMCO’s isobutylene system, OSHA’s PSM standard establishes the minimum
+requirements for preventing or minimizing catastrophic releases, including the major fire or explosion hazards
+from flammable chemical releases that present a danger to workers. Among these requirements, the OSHA PSM
+standard includes hazard evaluation requirements for the process hazard analysis (PHA), management of change
+(MOC), and pre-startup safety review (PSSR) elements.b
+In its book, Guidelines for Hazard Evaluation Procedures, the CCPS emphasizes the importance of hazard
+evaluation. The CCPS states that “Hazard evaluation is the cornerstone of an organization’s overall process
+safety management (PSM) program” [59, p. 11].c
+This section reviews and analyzes the hazard evaluation efforts that KMCO applied to its isobutylene system
+between 2014 and 2018.
+4.3.1 2014 PHA
+On September 29, 2014, KMCO performed a PHA as part of its project to install the new isobutylene system,
+including the storage tank, circulation pump and piping, and charge pump and piping. This PHA identified the
+potential for high-pressure conditions to develop within portions of the piping from liquid thermal expansion,
+and also identified the need for pressure-relief valves to protect the inlet and outlet piping for the circulation
+a 29 C.F.R. § 1910.119.
+b 29 C.F.R. § 1910.119.
+c The CCPS identified 10 different names (synonyms) that have been used for hazard evaluation. Some of the names have slight
+variations in meaning, but all of them relate back to the concept of identifying a hazard and making some assessment about its
+significance. These other names for “hazard evaluation” included process hazard(s) analysis, process hazard(s) review, process safety
+review, process risk review, predictive hazard evaluation, hazard assessment, process risk survey, hazard study, hazard and risk
+analysis, and hazard identification and risk analysis [59, p. 16].
+Page 61
+
+Investigation Report
+pump. No thermal expansion hazards were identified for the charge pump piping, but at that time, the project’s
+piping and instrumentation diagram (P&ID) did not include a check valve, y-strainer, or manual isolation valves
+on the inlet piping to the charge pump.
+4.3.2 2015 PHA
+In January 2015, KMCO performed a PHA of the isobutylene system that existed before the new system (shown
+in Figure 3) was commissioned. This PHA was poorly documented. For example, of the 16 nodes evaluated,
+only two nodes were labeled to show the part of the system that was being analyzed.a The PHA contained no
+information to support a conclusion that the team evaluated liquid thermal expansion hazards for the isobutylene
+piping system.
+4.3.3 Isobutylene System MOC and PSSR
+In its PSM standard, OSHA highlights the importance of performing a safety review before any highly
+hazardous chemicals like isobutylene are introduced into a process [60, p. 18].b To address this need for a safety
+review, OSHA requires employers to perform a pre-startup safety review (PSSR) for new or modified facilities
+(such as KMCO’s new isobutylene system) when the modification is significant enough that it requires a change
+in the process safety information. Among other requirements, the PSSR requires a hazard evaluation (PHA),
+management of change (MOC), and confirmation that construction and equipment followed design
+specifications.c
+On January 26, 2015, KMCO initiated its MOC documentation for the new isobutylene system project. This
+MOC described the reasons for installing the new system, which included:
+• Relocating the isobutylene storage away from the process equipment area and increasing the
+isobutylene storage capacity from 20,000 gallons to 70,000 gallons;
+• Providing the capability to receive isobutylene shipments from railcars instead of tank trucks,
+which reduced truck traffic and addressed safety concerns raised about unloading isobutylene
+trucks next to a hot oil furnace; and
+• Increasing production capacity of its sulfurized isobutylene product.
+KMCO management approved the MOC document in May 2015. Notably, the MOC package included the same
+piping and instrumentation diagram (P&ID) that was used in the 2014 PHA, which did not show a check valve,
+y-strainer, or manual isolation valves on the inlet piping to the charge pump. The P&ID showed that the
+isobutylene circulation piping and charge pump’s inlet piping would be made from type 304 stainless steel. The
+MOC package also included a list of materials and their estimated cost. The construction material identified in
+the project materials list for piping or similar components was 304 stainless steel.
+a The CCPS defines a node as “Sections of equipment with definite boundaries (e.g., a line between two vessels) within which process
+parameters are investigated for deviations. The locations on P&IDs at which the process parameters are investigated for deviations (e.g.,
+a reactor). The concept of dividing a process into nodes for analysis is commonly, but not exclusively, used in HAZOPs” [86].
+b 29 C.F.R. § 1910.119(i).
+c 29 C.F.R. § 1910.119(i).
+Page 62
+
+Investigation Report
+The project PSSR was initiated on September 1, 2015, and completed on October 21, 2015. One item on the
+PSSR checklist addressed the construction material. This item indicated that the piping system was constructed
+of 304 stainless steel. Nothing in the PSSR discussed the y-strainer or identified that it was not constructed from
+304 stainless steel. In addition, nothing in the PSSR identified that the check valve or y-strainer had been
+installed in the charge pump’s inlet piping.
+4.3.4 Y-Strainer Cracked in 2015
+“It is tragic the number of times people are harmed in accidents
+where earlier warning signs had been overlooked” [61, p. 120].
+In 2012, the CCPS published Recognizing Catastrophic Incident Warning Signs in the Process Industries, a
+book focused on recognizing “indicators that something is wrong or about to go wrong” and taking action to
+prevent a major incident [62, pp. 1-3]. In the book’s Introduction, the CCPS states:
+Warning signs are indicators that something is wrong or about to go wrong. When we
+recognize and act on these indicators, a loss may be prevented. Of course, this will only
+happen when we know what to look for and are willing to take the initiative to do
+something about it. A review of significant incidents in the process industries suggests
+that most if not all incidents were preceded by warning signs. Some of these signs were
+clearly visible but not acted upon because their significance was not understood. Other
+warning signs were less obvious, but observant personnel may have detected them [62,
+p. 1].
+The y-strainer that catastrophically failed on April 2, 2019, was not the original strainer that KMCO installed for
+this application during the 2014–2015 isobutylene storage tank and piping project.
+KMCO’s incident and maintenance records show that on December 10, 2015, an operator and his trainee
+detected an isobutylene odor near the sulfurized isobutylene reactor system. The two workers found that the cast
+iron y-strainer was leaking. The operator responded to the leak by spraying the area with water to knock down
+the flammable vapor. The operator then called the shift supervisor and lead operator, who came out to the batch
+reactor system, evaluated the situation, and decided to shut down all work in the unit. KMCO workers then
+isolated the leaking equipment and vented the isobutylene into the flare system. After removing the isobutylene
+from the equipment, KMCO workers flushed the system with water and prepared it for maintenance. KMCO
+maintenance workers replaced the leaking y-strainer (in kind replacement) that same day.
+Page 63
+
+Investigation Report
+The y-strainer that failed in December 2015 was later leak-tested
+with water and found to have a crack through a wall of the body in Key Lesson
+the same general area where the April 2019 strainer ruptured.
+Previous incidents can provide a
+KMCO did not provide the CSB with an investigation report or
+warning sign of problems that exist in
+corrective actions that addressed the causes of the 2015 incident.
+a system. Companies can prevent
+Based on the equipment configuration at the time of the
+future incidents by effectively
+catastrophic y-strainer rupture in 2019, the CSB concludes that after
+recognizing and acting on these earlier
+the isobutylene system y-strainer failed in 2015, KMCO’s
+warnings to identify and correct the
+investigation did not result in any significant changes or obvious underlying issues.
+improvements specifically intended to prevent a future y-strainer
+failure.
+4.3.5 2018 PHA
+As part of the company’s efforts to strengthen its safety management systems, KMCO performed a “re-do” of its
+isobutylene system process hazard analysis in November 2018. A re-do PHA is an approach in which the PHA
+revalidation is essentially a new PHA, “where the team starts from the beginning and performs the entire PHA
+in detail as if it were an initial PHA” [63, p. 92]. The PHA team consisted of eight members. Seven of the PHA
+members were KMCO employees with an average of 16 years of professional experience. The PHA was
+facilitated by a contractor with 42 years of professional experience.
+KMCO’s 2018 PHA report clearly stated that the isobutylene system was a covered process under both the
+OSHA PSM standard and the EPA RMP rule. In addition, this PHA clarified that the pressure-relief valve on the
+charge pump’s outlet piping was normally aligned to relieve (discharge) back into the charge pump’s inlet
+piping, as shown in Figure 3. As part of its facility siting evaluation, the PHA team documented that the R2
+Building still contained electrical equipment that could ignite flammable vapors. The team identified that the
+doors to the R2 Building “are always closed but not tightly.” The team noted that a new motor control center
+was being built and made no additional recommendations about this building.
+KMCO’s 2018 PHA did not document an analysis of the potential high-pressure scenarios that could develop in
+the isobutylene piping from liquid thermal expansion hazards. As a result, the two pressure-relief valves in the
+isobutylene circulation piping, installed following the project hazard evaluation in 2014, were not identified as
+safeguards. In addition, the 2018 PHA documentation did not specifically discuss the potential for liquid thermal
+expansion to occur in the charge pump’s inlet piping.
+Furthermore, the 2018 PHA used a P&ID that showed the charge pump’s inlet piping was constructed from
+stainless steel. The CSB did not identify any information in the PHA documentation indicating that the y-
+strainer material of construction was cast iron or that the strainer was made from a different material than the
+304 stainless steel piping.
+4.3.6 KMCO’s Hazard Evaluations
+Warning signs are indicators that something is wrong or may soon go wrong. KMCO’s 2018 PHA team did not
+evaluate the incident on December 10, 2015, in which a crack developed in the body of the y-strainer, releasing
+Page 64
+
+Investigation Report
+isobutylene. The 2018 PHA report stated: “Previous incidents and near misses for the [isobutylene system] since
+2016 were discussed by the PHA team.” The report did not elaborate or otherwise explain why the incidents or
+near misses from 2015 were not reviewed. Because the 2015 PHA was conducted in January 2015, the 2015
+PHA team could not have included a review of the failed y-strainer event on December 10, 2015, because that
+event had not yet happened.
+The CSB concludes that KMCO’s y-strainer failure in 2015 should have served as a warning sign of the
+potential for liquid thermal expansion or other high-pressure scenarios within the charge pump’s inlet piping.
+Had KMCO effectively recognized and acted on this earlier warning through an incident investigation or PHA
+revalidation, the company could have taken corrective actions that may have prevented the April 2, 2019,
+incident.
+Of all the hazard evaluations KMCO performed for its isobutylene system, only the hazard evaluation carried
+out for the isobutylene system project in 2014 documented an evaluation of liquid thermal expansion hazards for
+the isobutylene piping, and that study used an engineering drawing for the charge pump piping that did not
+include the check valve, the y-strainer, or manual isolation valves. The full history of the isobutylene system
+hazard evaluations shows that KMCO never identified or controlled the potential for liquid thermal expansion to
+develop high-pressure conditions within the charge pump’s inlet piping.
+The CSB concludes that KMCO never protected the charge pump’s inlet piping from liquid thermal expansion
+or high-pressure conditions that could develop from other potential scenarios that could have weakened or
+otherwise damaged the cast iron y-strainer.
+PHA teams rely on process safety information such as P&IDs during review meetings. For example, in its book
+Guidelines for Revalidating a Process Hazard Analysis, the CCPS states: “P&IDs serve as the ‘road map’ for
+study sessions” [63, p. 115]. The CSB found that none of the KMCO hazard evaluations included any specific
+discussion, mention, or reference about the cast iron y-strainer installed in the inlet piping to the charge pump.
+KMCO’s P&IDs did not specifically identify that this y-strainer was constructed from cast iron. In fact, these
+drawings indicated that the y-strainer’s construction material was stainless steel. KMCO had two different
+P&IDs that showed the charge pump and the y-strainer. One of these P&IDs showed “SS,” a common
+abbreviation for stainless steel, directly above the y-strainer symbol. The second P&ID identified the charge
+pump’s inlet piping as being 3-inch, schedule 40 stainless steel piping with 300-lb flanges, using the
+abbreviation 3”-SS-300#SCH 40. Since the P&ID did not indicate a piping specification break at the y-strainer,
+a reviewer of this drawing would likely conclude that the y-strainer material of construction was stainless steel.
+In its Guidelines for Hazard Evaluation Procedures book, the CCPS explained that performing a successful
+hazard evaluation requires the study team to have access to accurate information, such as P&IDs. The CCPS
+stated:
+Hazard evaluations are based on existing knowledge of a process or operation. If the
+process chemistry is not well known, if the relevant drawings or procedures are not
+accurate, or if the process knowledge available from a study team does not reflect the
+way the system is actually operated, then the results of a hazard evaluation may be invalid
+[59, p. 13].
+Page 65
+
+Investigation Report
+The CSB concludes that KMCO’s hazard evaluations consistently overlooked or misunderstood the hazards
+introduced when the cast iron y-strainer was added to the charge pump’s inlet piping. Most of KMCO’s hazard
+evaluations used drawings that did not include the y-strainer, and although the 2018 re-do PHA used drawings
+showing the y-strainer, these drawings showed it to be made from stainless steel. Had any of these previous
+hazard evaluations identified that the y-strainer was constructed from cast iron and recognized that good practice
+safety guidance either prohibited or warned against using cast iron in hazardous applications, including
+flammable hydrocarbons such as isobutylene, KMCO might have installed a y-strainer made from a ductile
+material, which could have reduced the severity of the incident and may have prevented it.
+Page 66
+
+Investigation Report
+5 Conclusions
+Findings
+Technical Analysis
+The cast iron y-strainer that catastrophically failed on April 2, 2019, ruptured from a brittle overload
+fracture driven by internal pressure.
+Existing industry standards and good practice safety guidance show that cast iron is a brittle material that
+should not have been used for an application such as KMCO’s liquid isobutylene piping system.
+The most likely source of pressure contributing to the y-strainer failure was liquid isobutylene thermal
+expansion that might have periodically occurred within the charge pump’s inlet piping, which was not
+equipped with a pressure-relief device or otherwise protected from high-pressure conditions.
+Although a number of potential sources of ignition existed in the area of the isobutylene release, the source
+of ignition that triggered the isobutylene explosion was most likely located within the R2 Building.
+Emergency Response
+KMCO never activated its facility alarm system to notify all workers about the isobutylene release
+emergency. As a result, some injured workers were nearer to the explosion than they should have been.
+KMCO could have reduced the severity of the event by using its facility alarm system to notify all workers
+of the isobutylene release emergency and communicate the evacuation order.
+KMCO’s emergency response system, including its procedures and training, contributed to the severity of
+the incident. KMCO did not establish procedures or provide training that effectively distinguished the
+incidents that its operators should respond to from the emergency events that the site’s emergency response
+team must respond to. As a result of KMCO’s emergency response program, the emergency actions taken
+by KMCO operations staff to stop the isobutylene release adhered to the unwritten culture at KMCO that
+relied on unit operators taking quick actions to stop a chemical release. When the isobutylene release began,
+workers who were in a safe location moved toward the isobutylene vapor cloud, which put them in harm’s
+way. KMCO could have reduced the severity of the event by establishing clear policies and training its
+workforce to respond to a chemical release without putting themselves in harm’s way.
+Remote Isolation
+Although the need to provide workers with effective remote isolation capability has been well established by
+existing industry standards and good practice safety guidance documents, KMCO’s isobutylene system
+remained unprotected. As a result, when the y-strainer ruptured on April 2, 2019, KMCO workers did not
+stop the isobutylene release remotely, from a safe location. KMCO could have reduced the severity of its
+April 2, 2019, incident if the company had provided its Board Operators with the capability to remotely
+isolate the isobutylene release from within the blast-resistant Reaction Control Room—a safe location.
+Page 67
+
+Investigation Report
+KMCO did not complete the implementation of the 2010 insurance recommendation to provide remote
+isolation capability in strategic process areas, including the isobutylene system. Had KMCO fully
+implemented this recommendation, for example by providing remote shutoff capability for the actuated
+on/off ball valve installed on the charge pump’s inlet piping, Board Operator 1 could have isolated the
+isobutylene release from a safe location—the blast-resistant Reaction Control Room. The quantity of
+isobutylene released and the severity of the incident could have been significantly reduced.
+Hazard Evaluation
+After the isobutylene system y-strainer failed in 2015, KMCO’s investigation did not result in any
+significant changes or obvious improvements specifically intended to prevent a future y-strainer failure.
+KMCO’s y-strainer failure in 2015 should have served as a warning sign of the potential for liquid thermal
+expansion or other high-pressure scenarios within the charge pump’s inlet piping. Had KMCO effectively
+recognized and acted on this earlier warning through an incident investigation or PHA revalidation, the
+company could have taken corrective actions that may have prevented the April 2, 2019, incident.
+KMCO never protected the charge pump’s inlet piping from liquid thermal expansion or high-pressure
+conditions that could develop from other potential scenarios that could have weakened or otherwise
+damaged the cast iron y-strainer.
+KMCO’s hazard evaluations consistently overlooked or misunderstood the hazards introduced when the cast
+iron y-strainer was added to the charge pump’s inlet piping. Most of KMCO’s hazard evaluations used
+drawings that did not include the y-strainer, and although the 2018 re-do PHA used drawings showing the y-
+strainer, these drawings showed it to be made from stainless steel. Had any of these previous hazard
+evaluations identified that the y-strainer was constructed from cast iron and recognized that good practice
+safety guidance either prohibited or warned against using cast iron in hazardous applications, including
+flammable hydrocarbons such as isobutylene, KMCO might have installed a y-strainer made from a ductile
+material, which could have reduced the severity of the incident and may have prevented it.
+Page 68
+
+Investigation Report
+Cause
+The CSB determined that the cause of the isobutylene release was a brittle overload fracture of the cast iron y-
+strainer driven by internal pressure. The y-strainer was installed in a segment of the isobutylene piping that was
+not protected from the high-pressure conditions that developed within this equipment, most likely from liquid
+thermal expansion. The isobutylene vapor cloud was most likely ignited by electrical equipment within a poorly
+sealed, nearby building.
+KMCO’s hazard evaluation programs, including process hazard analysis, pre-startup safety review, and
+management of change, also contributed to the incident. KMCO’s hazard evaluations consistently overlooked or
+misunderstood that its y-strainer was made from cast iron, a brittle material that existing industry standards and
+good practice guidance documents either prohibit or warn against using in hazardous applications, such as the
+company’s isobutylene system. In addition, none of KMCO’s hazard evaluations identified the potential for
+liquid thermal expansion or other possible scenarios to develop high-pressure conditions within the piping
+system that included the y-strainer. As a result, unlike other portions of KMCO’s isobutylene piping, this piping
+section was not equipped with a pressure-relief device to protect it from potential high-pressure conditions.
+KMCO did not provide safety equipment that its workers could have used to remotely stop (isolate) the
+isobutylene release from a safe location, which contributed to the severity of the incident. Deficiencies in
+KMCO’s emergency response system, including its procedures and training, also contributed to the severity of
+the incident by not effectively distinguishing which events its operators should handle from those incidents that
+the site’s emergency response team must respond to. Because KMCO relied on its unit operators to take quick
+actions to stop chemical releases, workers who were in a safe location moved toward the flammable isobutylene
+vapor cloud, which put them in harm’s way. KMCO could have reduced the severity of the event by establishing
+clear policies and training its workforce to respond to a chemical release without putting themselves in harm’s
+way.
+Page 69
+
+Investigation Report
+6 Recommendations
+Following its April 2, 2019, incident, KMCO filed for bankruptcy, and the company is no longer in business.
+Altivia Oxide Chemicals, LLC (Altivia) purchased the Crosby, Texas, facility in 2020 and informed the CSB
+that the process involved in the incident would be dismantled as part of Altivia’s efforts to install two new oxide
+reactors and start production by the end of 2020. As a result, the CSB is not issuing recommendations with this
+report.
+Nevertheless, the CSB urges Altivia to read this report closely and understand the factors that led to the incident
+at the KMCO facility and the lessons stemming from it. Moreover, if hereafter Altivia reinitiates the process or
+any equipment involved in this incident, the company should ensure that the facts, conditions, and circumstances
+that caused the incident—and contributed to its severity—are not repeated.
+Page 70
+
+Investigation Report
+7 Key Lessons
+To prevent future chemical incidents, and in the interest of driving chemical safety excellence to protect
+communities, workers, and the environment, the CSB urges companies to review these key lessons:
+1. Cast iron is widely recognized as a brittle material that should not be used in hazardous applications,
+including applications that involve flammable or toxic chemicals.
+2. Piping systems should be equipped with protection from high-pressure conditions, where liquid thermal
+expansion or other scenarios can create a hazard. For example, API 521 recommends installing a pressure-
+relief device if liquid thermal expansion is a credible hazard.
+3. Reliable facility alarm systems can help ensure effective emergency communication to alert people of
+danger and inform them of what actions are needed to protect life and health.
+4. Where remote isolation is not provided or is otherwise not available, clear policies and effective training are
+needed to help ensure that workers do not put themselves in danger to stop a chemical release.
+5. Emergency response plans, including procedures and training, need to effectively distinguish between
+incidents that plant workers should respond to and emergency events that must be handled by a qualified
+emergency response team.
+6. The goal of keeping workers safe and the goal of quickly isolating releases to minimize the consequences of
+an incident should not be mutually exclusive. Both can be achieved by applying robust safety systems and
+establishing effective emergency response programs. Providing remotely operated emergency isolation
+valves in strategic locations can allow workers to stop a release quickly from a safe location.
+7. Previous incidents can provide a warning sign of problems that exist in a system. Companies can prevent
+future incidents by effectively recognizing and acting on these earlier warnings to identify and correct the
+underlying issues.
+Page 71
+
+Investigation Report
+8 References
+[1] KMCO, "KMCO | About Us," 2019. [Online]. Available: https://web.archive.org/web/20190913182827/http:/kmcollc.com/about-us.
+[Accessed 21 September 2023].
+[2] KMCO, "New Leadership Team Transforming KMCO, LLC," 13 June 2016. [Online]. Available:
+https://web.archive.org/web/20170116111447/http://kmcollc.com/news/new-leadership-team-transforming-kmco. [Accessed 18
+September 2023].
+[3] United States Bankruptcy Court Southern District of Texas, "KMCO, LLC," 2020. [Online]. Available:
+https://ecf.txsb.uscourts.gov/cgi-bin/NoticeOfFiling.pl?442297. [Accessed 10 June 2020].
+[4] United States Courts, "Chapter 7 - Bankruptcy Basics," [Online]. Available: https://www.uscourts.gov/services-
+forms/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics. [Accessed 10 June 2020].
+[5] New Jersey Department of Health and Senior Services, "Hazardous Substance Fact Sheet: Isobutylene," May 1999. [Online].
+Available: https://nj.gov/health/eoh/rtkweb/documents/fs/1045.pdf. [Accessed 28 July 2019].
+[6] F. L. Fire, "Chemical Data Notebook Series #81: Isobutylene," 1 February 1993. [Online]. Available:
+https://www.fireengineering.com/leadership/chemical-data-notebook-series-81-isobutylene/. [Accessed 8 November 2023].
+[7] Altivia, "Altivia Acquires KMCO Crosby, Texas Facility," 1 June 2020. [Online]. Available:
+https://www.altivia.com/pressroom/altivia-acquires-kmco-crosby-texas-facility-1. [Accessed 28 September 2023].
+[8] Adrian Garcia | Commissioner | Harris County | Precinct 2, "Commissioner Garcia Sends Condolences To Families Impacted By
+Today's Explosion," 2 April 2019. [Online]. Available:
+https://web.archive.org/web/20201022204229/https://www.hcp2.com/news/press-room/13703-commissioner-garcia-sends-
+condolences-to-families-impacted-by-today-s-explosion. [Accessed 8 October 2023].
+[9] ABC News, "Chemical Plant Blast Leaves 1 Dead, Houston Communities on Edge," 2 April 2019. [Online]. Available:
+https://www.youtube.com/watch?v=h1qLKcjW5yc&t=3s&ab_channel=ABCNews. [Accessed 7 December 2023].
+[10] M. E. Beynon, "Autopsy Report: Case No. ML19-1113: April 3, 2019: On The Body of James Earl Mangum," 2019.
+[11] Arturo Martinez v. KMCO LLC and ORG Chemical Holdings, 2019.
+[12] Jose Plata, Jorge Torres and Julio Chavez v. KMCO, LLC and ORG Chemical Holdings.
+[13] Randy Villaloboz, Deyanira Martinez, Pedro Deleon, Jessica Sparrow, Tequila Olige, Cristian Moreno, Piedad Perez-Negron,
+Leonel Turcios, Francisco Castillo, Roberto Castillo, Jayson Ponder, and Johnny Ponder v. KMCO, LLC, 2019.
+[14] Aurelio Campos, Jose Flores and Noe Flores v. KMCO, LLC, 2019.
+[15] Erica Escalante, Pablo Lopez, Trojan Matamoros and John Soriano v. KMCO, LLC, 2019.
+[16] Warden, "Choosing the Right Straining Element," [Online]. Available: https://www.warden.com/resource-library/choosing-the-right-
+straining-element/. [Accessed 4 September 2023].
+[17] Reliance Foundry, "Introduction to Cast Iron: History, Types, Properties, and Uses. A versatile metal, cast iron has many unique
+applications in the commercial and industrial world," 26 June 2018. [Online]. Available: https://www.reliance-
+foundry.com/blog/cast-iron#gref. [Accessed 30 August 2019].
+[18] Grainger, "3" Y Strainer, FNPT x FNPT, 1/16" Mesh, Cast Iron, Stainless Steel, PTFE | Item # 20H630," 2019. [Online]. Available:
+https://www.grainger.com/product/GRAINGER-APPROVED-3-Y-Strainer-
+20H630?internalSearchTerm=3%22+Y+Strainer%2C+FNPT+x+FNPT%2C+1%2F16%22+Mesh%2C+Cast+Iron%2C+Stainless+St
+eel%2CPTFE&suggestConfigId=8&searchBar=true&suggestConfigId=8&searchBar=true&suggestConf. [Accessed 12 August
+2019].
+[19] B. A. Miller, R. J. Shipley, R. J. Parrington and D. P. Dennies, ASM Handbook, Volume 11 - Failure Analysis and Prevention | 2021
+Edition, Materials Park: ASM International, 2021.
+[20] M. S. Ali, "Power Engineering | An Historical Survey of Leak-Before-Break in Nuclear Plant Piping," 1 March 2010. [Online].
+Available: https://www.power-eng.com/news/an-historical-survey-of-leak-before-break-in-nuclear-plant-piping/#gref. [Accessed 8
+October 2023].
+[21] R. Chuse and B. E. Carson, Sr., Pressure Vessels | The ASME Code Simplified | Seventh Edition, McGraw-Hill, Inc., 1993.
+[22] R. Heidersbach, Metallurgy and Corrosion Control in Oil and Gas Production | Second Edition, Hoboken: John Wiley and Sons, Inc.,
+2018.
+[23] National Fire Protection Association (NFPA), "Liquefied Petroleum Gas Code," NFPA, Quincy, 2014.
+Page 72
+
+Investigation Report
+[24] American Petroleum Institute (API), "API Recommended Practice 574: Inspection Practices for Piping System Components | Fourth
+Edition," API, 2016.
+[25] American Petroleum Institute, "API 2510: Design and Construction of LPG Installations," May 2001. [Online]. Available:
+https://law.resource.org/pub/us/cfr/ibr/002/api.2510.2001.pdf. [Accessed 7 July 2019].
+[26] L. F. Albright, Albright's Chemical Engineering Handbook, Boca Raton: CRC Press, 2009.
+[27] BP, BP Process Safety Series: Safe Handling of Light Ends, Rugby: Institution of Chemical Engineers (IChemE), 2007.
+[28] R. E. Sanders, Chemical Process Safety: Learning from Case Histories, Burlington: Elsevier Butterworth–Heinemann, 2005.
+[29] H. G. Byars, Corrosion Control in Petroleum Production | TPC Publication 5 | Second Edition, Houston: NACE International, 1999.
+[30] A. K. Coker, Ludwig's Applied Process Design for Chemical and Petrochemical Plants, Volume 1, Burlington: Elsevier, 2007.
+[31] D. W. Editor-In-Chief: Green, Perry's Chemical Engineers' Handbook | Eighth Edition, New York: McGraw-Hill, 2005.
+[32] I. Sutton, Plant Design and Operations, Waltham: Elsevier, 2015.
+[33] N. B. Heckler, J. J. Petkus, P. N. Randall and G. F. Tisinai, "Fire and Quench Tests of Refinery Valves," Journal of Engineering for
+Industry, vol. May, pp. 173-182, 1963.
+[34] R. C. Getz, "Critical Elements in the Design of Piping Systems for Toxic Fluids," in 1995 AIChE Summer National Meeting, Boston,
+1995.
+[35] N. E. Scheffler, "Inherently Safer Latex Plants | Paper 1b," in 1995 AIChE Summer National Meeting, Boston, 1995.
+[36] C. Parry, Relief Systems Handbook, Houston: Gulf Publishing Company, 1992.
+[37] American Petroleum Institute (API), "API Standard 521, Pressure-Relieving and Depressuring Systems, Seventh Edition," 2020.
+[38] National Fire Protection Association (NFPA), "NFPA 70 | National Electrical Code," 2017.
+[39] KMCO, "Risk Management Plan Submission for KMCO, LLC | EPA Facility Identifier 1000 0011 8623," 2018.
+[40] USDOL, "Final Rule on Process Safety Management of Highly Hazardous Chemicals; Explosives and Blasting Agents," 26 May
+1992. [Online]. Available: https://www.osha.gov/laws-regs/federalregister/1992-02-24. [Accessed 14 August 2019].
+[41] USDOL, "Inspection Detail: Inspection 1390220.015," 30 September 2019. [Online]. Available:
+https://www.osha.gov/pls/imis/establishment.inspection_detail?id=1390220.015. [Accessed 4 November 2019].
+[42] USEPA, "Risk Management Program (RMP) Rule Overview," [Online]. Available: https://www.epa.gov/rmp/risk-management-
+plan-rmp-rule-overview. [Accessed 14 August 2019].
+[43] USEPA, "General RMP Guidance - Chapter 2: Applicability of Program Levels," [Online]. Available:
+https://www.epa.gov/sites/production/files/2013-10/documents/chap-02-final.pdf. [Accessed 14 August 2019].
+[44] KMCO, "Risk Management Plan," 2018.
+[45] Center for Chemical Process Safety (CCPS), Guidelines for Risk Based Process Safety, Hoboken: John Wiley and Sons, Inc., 2008.
+[46] Occupational Safety and Health Administration (OSHA), "Principal Emergency Response and Preparedness | Requirements and
+Guidance," 2004. [Online]. Available: https://www.osha.gov/sites/default/files/publications/osha3122.pdf. [Accessed 28 September
+2023].
+[47] U.S. Department of Health and Human Services, "Chemical Hazards Emergency Medical Management | 6 Steps for Initial Response
+to a Chemical HAZMAT Incident," 5 September 2023. [Online]. Available: https://chemm.hhs.gov/quickresponseguide.htm.
+[Accessed 8 October 2023].
+[48] USDOL, "Federal Register | Vol. 54 No. 42 | Pages 9195-9412 | 29 CFR Part 1910 | Hazardous Waste Operations and Emergency
+Response; Final Rule," 6 March 1989. [Online]. Available: https://www.govinfo.gov/content/pkg/FR-1989-03-06/pdf/FR-1989-03-
+06.pdf. [Accessed 27 September 2023].
+[49] Occupational Safety and Health Administration (OSHA), "Hazardous Waste Operations and Emergency Response | OSHA 3114,"
+2008. [Online]. Available: https://www.osha.gov/sites/default/files/publications/OSHA-3114-hazwoper.pdf. [Accessed 28 September
+2023].
+[50] A. Hopkins, "The Use and Abuse of Culture | Safe Work Australia," 6 November 2018. [Online]. Available:
+https://www.youtube.com/watch?v=M4LvucbxiH8&ab_channel=SafeWorkAustralia. [Accessed 23 October 2023].
+[51] A. Hopkins, Quiet Outrage: The Way of a Sociologist, CCH Australia Limited, 2016.
+[52] Marsh JLT Specialty, "Remotely Operated Emergency Isolation Valves (ROEIVS)," September 2020. [Online]. Available:
+https://www.marsh.com/content/dam/marsh/Documents/PDF/UK-en/remotely-operated-emergency-isolation-valves.pdf. [Accessed
+28 September 2023].
+Page 73
+
+Investigation Report
+[53] Health and Safety Executive (HSE), "Remotely Operated Shutoff Valves (ROSOVs) | HSG244," 2004. [Online]. Available:
+http://www.hse.gov.uk/pubns/books/hsg244.htm. [Accessed 17 August 2019].
+[54] American Petroleum Institute (API), "Refinery Valves and Accessories for Control and Safety Instrumented Systems | API
+Recommended Practice 553 | Second Edition, October 2012," 2012.
+[55] Center for Chemical Process Safety (CCPS), Guidelines for Fire Protection in Chemical, Petrochemical, and Hydrocarbon
+Processing Facilities, New York: Center for Chemical Process Safety, 2003.
+[56] T. Kletz, "Imperial Chemical Industries Heavy Organics Division: Safety News Letter Number 19," [Online]. Available:
+https://www.icheme.org/media/10726/ici019.pdf. [Accessed 11 June 2020].
+[57] T. Kletz, HAZOP AND HAZAN: Identifying and Assessing Process Industry Hazards, Rugby: Institution of Chemical Engineers,
+1992.
+[58] USDOL, "Federal Register | Vol. 57, No. 36 | Monday, February 24, 1991 | Rules and Regulations," 24 February 1991. [Online].
+Available: https://archives.federalregister.gov/issue_slice/1992/2/24/6350-6417.pdf#page=54. [Accessed 13 November 2023].
+[59] Center for Chemical Process Safety (CCPS), Guidelines for Hazard Evaluation Procedures, New York: Wiley-Interscience and
+CCPS, 2008.
+[60] USDOL, "Process Safety Management: OSHA 3132," 2000 (Reprinted). [Online]. Available:
+https://www.osha.gov/Publications/osha3132.pdf. [Accessed 14 August 2019].
+[61] A. Brazier, D. Edwards, F. Macleod, C. Skinner and I. Vince, Trevor Kletz Compendium, Amsterdam: Elsevier, 2021.
+[62] Center for Chemical Process Safety (CCPS), Recognizing Catastrophic Incident Warning Signs in the Process Industries, Hoboken:
+Wiley, 2012.
+[63] Center for Chemical Process Safety (CCPS), Guidelines for Revalidating a Process Hazard Analysis | Second Edition, Hoboken:
+John Wiley & Sons, Inc., 2023.
+[64] The Battalion, "Artie McFerrin, Class of '65 and A&M supporter, dies at 74," 9 August 2017. [Online]. Available:
+http://www.thebatt.com/news/artie-mcferrin-class-of-and-a-m-supporter-dies-at/article_a35b8b12-7d2f-11e7-a5b8-
+07025444c884.html. [Accessed 18 August 2019].
+[65] USCSB, "Board Order 40: Investigation Program," [Online]. Available:
+https://www.csb.gov/assets/record/board_order_040_approved_2_14_17.pdf.
+[66] USCSB, "Board Order 22: Recommendations Program," [Online]. Available:
+https://www.csb.gov/assets/record/csb_board_order_022_final_20161.pdf.
+[67] National Fire Protection Association, "NFPA 921: Guide for Fire & Explosion Investigations," 2017. [Online]. Available:
+http://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards?mode=code&code=921.
+[68] National Oceanic and Atmospheric Administration (NOAA), "Cameo Chemicals | Isobutylene," [Online]. Available:
+https://cameochemicals.noaa.gov/chemical/3667. [Accessed 11 August 2019].
+[69] Siemens, "Basics of Motor Control Centers," [Online]. Available: https://electrical-engineering-portal.com/res/Siemens-Basics-of-
+Motor-control-centers.pdf. [Accessed 11 August 2019].
+[70] Motorola, "Professional Digital Two-Way Radio System |Mototrbo XiR M8260/XiR M8268 Numeric Display Mobile User Guide,"
+October 2013. [Online]. Available:
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwjE7-
+CO6_3jAhXr1FkKHYzOBcgQFjANegQIBRAC&url=https%3A%2F%2Fmotorola-
+drupal.wawstaging.com%2Fes%2Fnode%2F183%2Fdownload&usg=AOvVaw2_AibkwfpPuQjgm1q1pXcx. [Accessed 12 August
+2019].
+[71] National Weather Service, "National Weather Service Glossary," [Online]. Available: https://forecast.weather.gov/glossary.php?.
+[Accessed 13 August 2019].
+[72] Weather Underground, "George Bush Intercontinental Airport, TX | April 2, 2019," [Online]. Available:
+https://www.wunderground.com/history/daily/KIAH/date/2019-4-
+2?req_city=Crosby&req_state=TX&req_statename=Texas&reqdb.zip=77532&reqdb.magic=1&reqdb.wmo=99999. [Accessed 13
+August 2019].
+[73] USDOL, "Process Safety Management Guidelines for Compliance: OSHA 3133," 1994 (Reprinted). [Online]. Available:
+https://www.osha.gov/Publications/osha3133.pdf. [Accessed 14 August 2019].
+[74] Health and Safety Executive (HSE), "The Chemical Release and Fire at the Associated Octel Company Limited," 1996.
+[75] USCSB, "Style Guide: Office of Investigations," 2004.
+Page 74
+
+Investigation Report
+[76] ASTM International, "Designation: A126 - 04 (Reapproved 2014). Standard Specification for Gray Iron Castings for Valves,
+Flanges, and Pipe Fittings," 2019.
+[77] CAMEO Chemicals, "Isobutylene," [Online]. Available: https://cameochemicals.noaa.gov/chemical/3667. [Accessed 10 May 2020].
+[78] Specialty Chemicals Magazine, 26 July 2021. [Online]. Available: https://www.specchemonline.com/monument-buys-kmtex.
+[Accessed 21 September 2023].
+[79] National Institute of Standards and Technology (NIST), "NISR Chemistry Webbook, SRD 69 | 1-Propene, 2-methyl-," [Online].
+Available: https://webbook.nist.gov/cgi/cbook.cgi?Name=isobutene. [Accessed 23 September 2023].
+[80] Census Reporter, "Crosby, TX," 2021. [Online]. Available: https://censusreporter.org/profiles/16000US4817756-crosby-tx/.
+[Accessed 8 October 2023].
+[81] U.S. Census Bureau, "QuickFacts United States," [Online]. Available: https://www.census.gov/quickfacts/fact/table/US/INC910221.
+[Accessed 8 October 2023].
+[82] Census Reporter, "Census Reporter," [Online]. Available: https://censusreporter.org/. [Accessed 8 October 2023].
+[83] Census Reporter, "About Census Reporter," [Online]. Available: https://censusreporter.org/about/. [Accessed 8 October 2023].
+[84] L. R. Rudnick, Lubricant Additives: Chemistry and Applications, Third Edition, L. R. Rudnick, Ed., Boca Raton, FL: CRC Press,
+2017.
+[85] M. Bower, The Will to Manage: Corporate Success through Programmed Management, McGraw-Hill Book Company, 1966.
+[86] Center for Chemical Process Safety (CCPS), "CCPS Process Safety Glossary," [Online]. Available:
+http://www.aiche.org/ccps/resources/glossary. [Accessed 8 November 2023].
+[87] KMCO, "KMCO, LLC is Installing and Testing New Emergency Alarm System," 12 January 2017. [Online]. Available:
+https://web.archive.org/web/20181023182150/http://kmcollc.com/news/kmco-llc-is-installing-and-testing-new-emergency-alarm-
+system. [Accessed 8 October 2023].
+[88] USEPA, "RMP Amendments Compliance Information," 24 September 2018. [Online]. Available:
+https://www.epa.gov/sites/default/files/2018-09/documents/rmp_emergency_coordination_minor_provisions_compliance_info_9-
+24-18_final.pdf. [Accessed 14 November 2023].
+[89] USEPA, "Risk Management Program (RMP) Rule," [Online]. Available: https://www.epa.gov/rmp. [Accessed 14 August 2019].
+[90] Baker Panel, "The Report of The BP U.S. Refineries Independent Safety Review Panel," January 2007. [Online]. Available:
+https://www.csb.gov/assets/1/20/baker_panel_report1.pdf?13842. [Accessed 8 October 2023].
+[91] USCSB, "BP America Refinery Explosion," [Online]. Available: https://www.csb.gov/file.aspx?DocumentId=5596. [Accessed 12
+August 2019].
+[92] USDOT, "2020 Emergency Response Guidebook," [Online]. Available: https://www.phmsa.dot.gov/sites/phmsa.dot.gov/files/2021-
+01/ERG2020-WEB.pdf. [Accessed 3 December 2023].
+[93] ABC News, "Huge explosion and fire rocks Texas chemical plant; at least one person killed," 2 April 2019. [Online]. Available:
+https://abcnews.go.com/US/huge-explosion-fire-rocks-texas-chemical-plant-
+person/story?id=62117295;%20https://www.nbcnews.com/video/texas-chemical-plant-fire-at-kmco-leaves-one-dead-and-two-
+injured-1469965379719;%20https://www.youtube.com/watch?v=vLt1a4yXc. [Accessed 7 December 2023].
+[94] KHOU 11 News, "Residents Heard, Felt Deadly Crosby Plant Explosion From Miles Away," 2 April 2019. [Online]. Available:
+https://www.youtube.com/watch?v=vLt1a4yXcwk&ab_channel=KHOU11. [Accessed 7 December 2023].
+[95] LyondellBasell, "Safety Data Sheet | Isobutylene," 2017.
+[96] Texas A&M University, "Former Student Spotlight | Arthur "Artie" McFerrin Jr.," Fall 2008. [Online]. Available:
+https://www.yumpu.com/en/document/read/10484594/arthur-artie-mcferrin-jr-clear-vision-former-student/12. [Accessed 15
+December 2023].
+[97] Health and Safety Executive (HSE) & Scottish Environment Protection Agency (SEPA), "Major Incident Investigation Report | BP
+Grangemouth Scotland | 29th May - 10th June 2000," 18 August 2003. [Online]. Available:
+https://webarchive.nationalarchives.gov.uk/ukgwa/20180108190100/http://www.hse.gov.uk/comah/bpgrange/contents.htm.
+[Accessed 17 December 2023].
+Page 75
+
+Investigation Report
+Appendix A: Simplified Causal Analysis
+Page 76
+
+Investigation Report
+Appendix B: Timeline of Key Events
+• 1975, Arthur McFerrin started KMCO, LP in Crosby, Texas [64].a
+• 2012, KMCO, LLC (owned by ORG Chemical Holdings) purchased the Crosby, Texas facility.
+• 2014–2015, KMCO replaced its isobutylene storage tank and piping system.
+• September 29, 2014, KMCO PHA for the isobutylene system project.
+• January 21, 2015, KMCO PHA for the previous isobutylene system.
+• October 2015, KMCO completed its MOC and PSSR for the isobutylene system project.
+• December 10, 2015, the y-strainer leaked (crack in the body) and was replaced.
+• January 2017, KMCO audited its process safety management systems.
+• November 5–8, 2018, KMCO re-do of PHA for the new isobutylene system.
+• April 2, 2019, at 6:25 a.m. (control system: 6:25:03), batch reactor isobutylene charge completed.
+• April 2, 2019, at 10:41 a.m. (control system: 10:40:43), the y-strainer ruptured, releasing
+isobutylene. The y-strainer ruptured about 4 hours and 16 minutes after the isobutylene charge was
+completed.
+• April 2, 2019, at 10:45 a.m. (control system: 10:45:28 (calculation) | Video 10:44:21 (estimate)),
+Board Operator 1 makes a radio call to evacuate from the reaction area.b
+• April 2, 2019, at about 10:46 a.m. (control system: 10:46:08), manual valves were closed to stop
+the isobutylene release. About 10,000 pounds of isobutylene were released in 5 minutes and 25
+seconds.
+• April 2, 2019, at 10:47 a.m. (control system: 10:46:52 (calculation) | Video 10:45:45 (estimate)),
+the Shift Supervisor made a radio call ordering a plant evacuation.
+• April 2, 2019, at 10:51 a.m. (control system: 10:51:28 | Video: 10:50:21), the isobutylene vapor
+cloud ignited and exploded. The explosion occurred about 10 minutes and 45 seconds after the y-
+strainer ruptured and 5 minutes and 20 seconds after the isobutylene release was stopped.
+• April 2, 2019, at 10:54 a.m., (control system: 10:54:12 (calculation) | Video: 10:53:05) three
+minutes after the explosion, the first member of KMCO’s ERT was wearing their protective gear
+and headed toward the unit.
+• May 8, 2020, KMCO filed for bankruptcy under Chapter 7 of the U.S. Bankruptcy Code.
+• May 29, 2020, Crosby, Texas, facility sold to Altivia Oxide Chemicals, LLC.
+a Former Student Spotlight Arthur “Artie” McFerrin Jr. [96].
+b Surveillance video estimates are based on witness interviews describing key people being in an office or conference room, hearing the
+radio call, and then leaving the office or conference room to take some action. The video shows when they left the office or conference
+room. The estimate is that the plant radio call occurred five seconds before they appeared in the video. The time difference between the
+control system and the video is about 67 seconds and is based on the visible shaking of the video image and the loss of key data signals
+within the control system.
+Page 77
+
+Investigation Report
+Appendix C: Surrounding Area Demographics
+Figure 24 shows the census blocks within one mile of the KMCO facility. The census information for the
+blocks shown in Figure 24 is presented in Table 2.
+Figure 24. Census Blocks Near KMCO Facility. (Credit: Census Reporter, annotations by CSB)
+Page 78
+
+Investigation Report
+Table 2. Demographic Data for the Figure 24 Census Blocks.a (Credit: CSB, using Census Reporter Data)
+% Persons
+Number of
+Tract Per Capita Below Number of Housing Units
+Population Median Age Race and Ethnicity Housing
+Number Income ($) Poverty By Type
+Units
+Line
+1,257 White 502 Single Unit
+51 Black 23 Multi-Unit
+0 Native 221 Mobile Home
+7 Asian 9 Boat, RV, van, etc.
+1 1,724 42.8 35,781 7.4 755
+3 Islander
+0 Other
+33 Two+
+373 Hispanic
+1,965 White 1,228 Single Unit
+576 Black 384 Multi-Unit
+0 Native 304 Mobile Home
+83 Asian 0 Boat, RV, van, etc.
+2 3,863 41.8 31,809 10.2 1,916
+0 Islander
+0 Other
+0 Two+
+1,239 Hispanic
+4,860 White 2,185 Single Unit
+370 Black 90 Multi-Unit
+197 Native 52 Mobile Home
+103 Asian 0 Boat, RV, van, etc.
+3 6,969 38.6 40,571 2.2 2,327
+0 Islander
+16 Other
+118 Two+
+1,305 Hispanic
+4,992 White 2,262 Single Unit
+284 Black 0 Multi-Unit
+22 Native 0 Mobile Home
+25 Asian 0 Boat, RV, van, etc.
+4 7,235 31 32,996 4.8 2,262
+0 Islander
+0 Other
+276 Two+
+1,636 Hispanic
+2,831 White 1,716 Single Unit
+0 Black 5 Multi-Unit
+28 Native 203 Mobile Home
+12 Asian 0 Boat, RV, van, etc.
+5 4,201 43.2 40,291 4.5 1,924
+0 Islander
+0 Other
+165 Two+
+1,165 Hispanic
+a This information was compiled using 2020 Census data as presented by Census Reporter [82]. “Census Reporter is an independent
+project to make data from the American Community Survey (ACS) easier to use. [It is] unaffiliated with the U.S. Census Bureau. A
+News Challenge grant from the Knight Foundation funded the initial build-out of the site. … Support for [Census Reporter’s] 2020
+Decennial Census features was provided by the Google News Initiative. … [T]he Medill School of Journalism at Northwestern
+University, home of the Knight Lab, … provides in-kind support for some of Census Reporter’s ongoing development. Most of [Census
+Reporter’s] server hosting infrastructure is … provided by the Oregon State University Open Source Lab” [83].
+Page 79
+
+Investigation Report
+U.S. Chemical Safety and Hazard Investigation Board
+Members of the U.S. Chemical Safety and Hazard Investigation Board:
+Steve Owens
+Chairperson
+Sylvia E. Johnson, Ph.D.
+Member
+Catherine J. K. Sandoval
+Member
+Page 80

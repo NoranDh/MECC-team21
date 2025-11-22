@@ -19,7 +19,7 @@ def call_llm(prompt: str, json_expected: bool = False) -> str:
     """
     try:
         resp = client.chat.completions.create(
-            model="gpt-4.1-mini",   # or "gpt-4o-mini" if you prefer
+            model="gpt-4.1-mini",   
             messages=[
                 {"role": "user", "content": prompt},
             ],
