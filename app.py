@@ -72,7 +72,7 @@ def envcheck():
         "model": MODEL,
     }, 200
     
-from utils.Computer_Vision import model 
+from Computer_Vision import model 
 @app.route("/api/_imgcv", methods=["POST"])
 def imgcv():
     if "file" not in request.files:
