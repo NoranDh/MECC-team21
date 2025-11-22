@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Orders</title>  
+        <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet">
+
+       <style>
+        *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"KoHo", sans-serif ;
+}
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    justify-content: center;
+    align-items: center;
+    min-height:100vh ;
+    margin:0;
+     background: url("whitbg.jpeg") center/cover no-repeat;
+    margin: 0;
+    padding-top: 100px;
+    font-family: "KoHo", sans-serif;
+
+}
+.container{
+    max-width:400px;
+    width:100%;
+    background: #404143;
+    padding: 30px;
+    border-radius: 30px;
+    margin: 150px 0 60px 100px; 
+    position: relative;
+    z-index: 5;
+}
+.img-area{
+    position: relative;
+    width:100%;
+    height: 240px;
+    background:#f1f1f1 ;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+.img-area .icon{
+    font-size: 100px;
+}
+.img-area h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom:6px ;
+}
+
+.img-area p span{
+   font-weight: 600
+}
+.img-area img{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    z-index: 100;
+}
+.img-area::before{
+content: attr(data-img);
+position: absolute;
+top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    color: #fff;
+    font-weight:500 ;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+    opacity: 0;
+    transition: all .3s ease;
+    z-index: 200;
+
+}
+.img-area.active.hover::before{
+    opacity: 1;
+}
+.select-image{
+    display: block;
+    width: 100%;
+    padding: 16px 0;
+    border-radius:15px ;
+    background: #2b88c9;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+.select-image:hover{
+    background: #1f6ea6;
+}
+.header{
+  
+    width:100%;
+   top:0;
+    position: fixed;
+    
+}
+nav{
+    display:flex;
+    padding:2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img{
+    width:150px;
+}
+
+.nav-links{
+flex:1;
+text-align: right;
+}
+
+.nav-links ul li{
+    list-style:none;
+    display:inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.nav-links ul li a{
+    color:#404143;
+    text-decoration: none;
+    font-size: 13px;
+}
+.nav-links ul li::after{
+    content:'' ;
+     width:0%;
+     height: 2px;
+     background: #404143;
+     display: block;
+     margin:auto;
+     transition:0.5s;
+}
+.nav-links ul li:hover::after{
+    width:100%;
+
+}
+.text-box{
+    width:90%;
+    color:#404143;
+    position:absolute;
+    top:20%;
+    left:7%;
+    transform: translate(0,-50%);
+    text-align:left;
+}
+
+.text-box h1{
+    font-size: 25px;
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 1000px){
+    td:not(:first-of-type){
+      min-width:12.1rem;  
+    }
+}
+@keyframes flash {
+  0%   { background-color: #8ab5d1; box-shadow: 0 0 20px 5px #b3b3b3; }
+  100% { background-color: #404143; box-shadow: 0 0 10px rgba(0,0,0,0.3); }
+}
+       </style>
+    </head>   
+    <body>
+        <div class="text-box">
+                <h1>Uncover Material Stress Characteristics <br> and responses, Essential for Identifying<br> Failure Mechanisms</h1>
+        </div>
+         <section class="header">
+            <nav>
+                <a href="indexx.html"><img src="Logo.jpeg"></a>
+                <div class="nav-links" id="navLinks">
+                    <i class="fa fa-times" onclick="hideMenu()"></i>
+                    <ul>
+                         <li><a href="Index.html">Home</a> </li>
+                        <li><a href="CV.html">Digital Lab</a> </li>
+                        <li><a href="Agent.html">Agent</a> </li>
+
+                    </ul>
+                </div></nav></section>
+        <div class="container">
+            <input type="file" id="file" accept="image/*" hidden>
+            <div class="img-area active" >
+                <i class='bx bxs-cloud-upload icon'></i>
+                <h3>upload image</h3>
+                
+
+            </div>
+
+            <button class="select-image">Select Image</button>
+        </div>
+<script src="script.js"></script>
+       
+       
+            </section>
+
+        </main>
+       
+        
+       
+       <section class="page page2">
+       
+       </section>
+<div style="height:100px;"></div>
+
+    </body>
+    
+</html>

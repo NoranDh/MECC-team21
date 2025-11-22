@@ -153,6 +153,37 @@ def analyze():
         "mechanism_id": mech_id,
     })
 
+    
+from Computer_Vision import model 
+@app.route("/api/_imgcv", methods=["POST"])
+def imgcv():
+    if "file" not in request.files:
+        return jsonify({"error": "No file part"}), 400
+
+    file = request.files["file"]
+
+    if file.filename == "":
+        return jsonify({"error": "No selected file"}), 400
+
+    # save uploaded file
+    upload_folder = os.path.join(os.path.dirname(__file__), "uploads")
+    os.makedirs(upload_folder, exist_ok=True)
+
+    img_path = os.path.join(upload_folder, file.filename)
+    file.save(img_path)
+
+    print("Image saved at:", img_path)
+
+    try:
+        results = model(img_path, save=True, conf=0.5)  
+        results[0].show()
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+    return jsonify({
+        "message": "Image processed successfully",
+        "image_path": img_path
+    }), 200
 
 if __name__ == "__main__":
     # Run dev server
